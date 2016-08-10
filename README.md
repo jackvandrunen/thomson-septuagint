@@ -52,8 +52,9 @@ Although several incomplete or rough electronic versions of the text exist
 (exhibits [A](http://thetencommandmentsministry.us/ministry/charles_thomson/)
 and [B](http://studybible.info/Thomson)), this is the first one which attempts
 to accurately reproduce a proofed transcription, formatted according to the
-original work, and with proper versification in the standard electronic formats
-for the printing and electronic publishing of Scripture (USFM and OSIS).
+original work, and with proper versification, in the standard electronic
+formats for the printing and electronic publishing of Scripture (USFM and
+OSIS).
 
 ## Contributing
 
