@@ -30,16 +30,16 @@ source text he used, S.F. Pells states in the introduction to his 1904
 reprinting that the translation matches the Greek of the Vatican Text.
 
 The Vatican Text which Thomson purchased would have been an edition (apparently
-in two volumes) based on the Roman Septuagint commissioned by Pope Sixtus V.
-There were many such editions (although volume count varied) printed in the
-17th and early 18th centuries which could have found their way into a shop in
-Philadelphia by the second half of the 18th century (Thomson himself spent 19
-years on his translation). Perhaps most noteworthy of these printings is the
-1709 Frankfurt *Vetus Testamentum, Ex Versione lxx. Interpretum* printed as
-four books in two volumes by Lambert Bos.
+in two volumes) based on the Roman Septuagint commissioned by Pope Sixtus V,
+and published in 1587. There were many such editions (although volume count
+varied) printed in the 17th and early 18th centuries which could have found
+their way into a shop in Philadelphia by the second half of the 18th century
+(Thomson himself spent 19 years on his translation). Perhaps most noteworthy of
+these printings is the 1709 Frankfurt *Vetus Testamentum, Ex Versione lxx.
+Interpretum*, printed as four books in two volumes by Lambert Bos.
 
-The text of the *Codex Vaticanus* (identified with siglum **B**) is dated to
-the first half of the 4th century AD.
+The text of the *Codex Vaticanus* (the uncial manuscript identified with siglum
+**B**) is dated to the first half of the 4th century AD.
 
 The English text itself has become relegated to obscurity, almost entirely
 superseded by Sir Lancelot C.L. Brenton's 1844 *Septuagint Version in English*,
@@ -48,9 +48,10 @@ though saved from oblivion perhaps only by the 1904 reprinting of S.F. Pells
 1954 revision by C.A. Muses, which, according to some, is too influenced by the
 Masoretic Hebrew to be a good representation of the Greek text.
 
-Thomson's translation, however, was considered faithful and of scholarly value,
-and was consulted by the scholars who worked on the English Revised Version,
-the Old Testament of which was published in 1885.
+Thomson's translation, however, despite its relative obscurity, was considered
+faithful and of scholarly value, and was consulted by the scholars who worked
+on the English Revised Version, the Old Testament of which was published in
+1885.
 
 Although several incomplete or rough electronic versions of the text exist
 (exhibits [A](http://thetencommandmentsministry.us/ministry/charles_thomson/)
