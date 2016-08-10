@@ -2,7 +2,7 @@
 
 ### Originally from the *Holy Bible, containing the Old and New Covenant, commonly called the Old and New Testament. Translated from the Greek by Charles Thomson, Late Secretary to the Congress of the United States.*
 
-[![This work is in the public domain](pdm.svg)](LICENSE)
+[![This work is in the public domain](pdm.png)](LICENSE)
 
 ---
 
