@@ -48,6 +48,10 @@ though saved from oblivion perhaps only by the 1904 reprinting of S.F. Pells
 1954 revision by C.A. Muses, which, according to some, is too influenced by the
 Masoretic Hebrew to be a good representation of the Greek text.
 
+Thomson's translation, however, was considered faithful and of scholarly value,
+and was consulted by the scholars who worked on the English Revised Version,
+the Old Testament of which was published in 1885.
+
 Although several incomplete or rough electronic versions of the text exist
 (exhibits [A](http://thetencommandmentsministry.us/ministry/charles_thomson/)
 and [B](http://studybible.info/Thomson)), this is the first one which attempts
