@@ -38,6 +38,9 @@ years on his translation). Perhaps most noteworthy of these printings is the
 1709 Frankfurt *Vetus Testamentum, Ex Versione lxx. Interpretum* printed as
 four books in two volumes by Lambert Bos.
 
+The text of the *Codex Vaticanus* (identified with siglum **B**) is dated to
+the first half of the 4th century AD.
+
 The English text itself has become relegated to obscurity, almost entirely
 superseded by Sir Lancelot C.L. Brenton's 1844 *Septuagint Version in English*,
 though saved from oblivion perhaps only by the 1904 reprinting of S.F. Pells
