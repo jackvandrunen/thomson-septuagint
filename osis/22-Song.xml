@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<osisText osisRefWork="Bible" xml:lang="und" osisIDWork="Bible.Thomson">
+<header>
+<work osisWork="Bible.Thomson"/>
+</header>
+<div type="book" osisID="Song">
+<!-- id comment - Thomson Septuagint -->
+<title type="runningHead">Song of Solomon</title>
+<title level="3" type="main">The</title>
+<title level="1" type="main">Song of Solomon</title>
+<title level="2" type="main">ΑΣΜΑ ΑΣΜΑΤΩΝ</title>
+<chapter osisID="Song.1" sID="Song.1"/>
+<p>
+<verse osisID="Song.1.1" sID="Song.1.1"/>A Song of Songs which is Solomons.<verse eID="Song.1.1"/></p>
+<p>
+<verse osisID="Song.1.2" sID="Song.1.2"/>Let him kiss me with the kisses of his mouth.</p>
+<p>
+Because thy breasts are better than wine;<verse eID="Song.1.2"/>
+<verse osisID="Song.1.3" sID="Song.1.3"/>and the fragrance of thine odours is above all perfumes—Thy name out-poured oil, therefore the virgins have loved thee.<verse eID="Song.1.3"/>
+<verse osisID="Song.1.4" sID="Song.1.4"/>Thou art drawn: after thee we will run to the fragrance of thy perfumes.</p>
+<p>
+The king brought me into his inner apartment.</p>
+<p>
+Let us rejoice and be gladdened by thee. We will love thy breasts better than wine: rectitude hath loved thee.<verse eID="Song.1.4"/></p>
+<p>
+<verse osisID="Song.1.5" sID="Song.1.5"/>I am brown but comely, O daughters of Jerusalem; like the tents of Kedar—like the curtains of Solomon.<verse eID="Song.1.5"/>
+<verse osisID="Song.1.6" sID="Song.1.6"/>Look not on me, because I am of a dark complexion—Because the sun hath looked upon me. My mother's children quarrelled with me—They made me a keeper in the vineyards. Mine own vineyard I did not watch.<verse eID="Song.1.6"/></p>
+<p>
+<verse osisID="Song.1.7" sID="Song.1.7"/>Tell me thou whom my soul loveth, where thou tendest thy flock—Where thou causest it to rest at noon, perhaps I may be like a wanderer among the tents of thy companions.<verse eID="Song.1.7"/></p>
+<p>
+<verse osisID="Song.1.8" sID="Song.1.8"/>If thou wouldst not make thyself known, O fairest of women; go out by thyself in the track of the flock; and feed thy kids by the shepherds tents.<verse eID="Song.1.8"/></p>
+<p>
+<verse osisID="Song.1.9" sID="Song.1.9"/>To that steed of mine in Pharao's chariot I have compared thee, my love!<verse eID="Song.1.9"/>
+<verse osisID="Song.1.10" sID="Song.1.10"/>What! thy cheeks are beautiful as a turtle dove's: and thy neck as
+strings of pearls.<verse eID="Song.1.10"/>
+<verse osisID="Song.1.11" sID="Song.1.11"/>We will make for thee suitable figures of gold with spangles of silver.<verse eID="Song.1.11"/></p>
+<p>
+<verse osisID="Song.1.12" sID="Song.1.12"/>While the king was at his banquet, my spikenard sent forth its odour.<verse eID="Song.1.12"/>
+<verse osisID="Song.1.13" sID="Song.1.13"/>My dear brother is to me a nosegay of stacte it shall be lodged in my bosom.<verse eID="Song.1.13"/>
+<verse osisID="Song.1.14" sID="Song.1.14"/>My dear brother is to me a cluster of the cypress, in the vineyards of Engaddi.<verse eID="Song.1.14"/></p>
+<p>
+<verse osisID="Song.1.15" sID="Song.1.15"/>Behold thou art fair, my love; behold thou art fair. Thine eyes are doves.<verse eID="Song.1.15"/></p>
+<p>
+<verse osisID="Song.1.16" sID="Song.1.16"/>Behold thou art comely, my dear brother—beautiful indeed! Near our bed thou wast shaded.<verse eID="Song.1.16"/></p>
+<p>
+<verse osisID="Song.1.17" sID="Song.1.17"/>The beams of our houses are cedar. Cypress our vaulted cielings.<verse eID="Song.1.17"/></p><chapter eID="Song.1"/>
+<chapter osisID="Song.2" sID="Song.2"/>
+<p>
+<verse osisID="Song.2.1" sID="Song.2.1"/>I am a flower of the field, and a lilly of the vallies.<verse eID="Song.2.1"/></p>
+<p>
+<verse osisID="Song.2.2" sID="Song.2.2"/>As a lilly among thorns, so is my consort among the daughters.<verse eID="Song.2.2"/></p>
+<p>
+<verse osisID="Song.2.3" sID="Song.2.3"/>As the citron tree among the trees of the forests; so is my dear brother among the youths. In its shade I took great delight and sat, and its fruit was
+sweet to my taste.<verse eID="Song.2.3"/>
+<verse osisID="Song.2.4" sID="Song.2.4"/>O conduct me to the house of wine, and order for me what I love.<verse eID="Song.2.4"/>
+<verse osisID="Song.2.5" sID="Song.2.5"/>Strengthen with perfumes—strew around me citrons, for I am wounded with love.<verse eID="Song.2.5"/>
+<verse osisID="Song.2.6" sID="Song.2.6"/>Let his left hand be under my head, and his right embrace me!<verse eID="Song.2.6"/></p>
+<p>
+<verse osisID="Song.2.7" sID="Song.2.7"/>I have adjured you, O daughters of Jerusalem, by the powers and virtues of the field, that you stir not up nor awake my love till she please.<verse eID="Song.2.7"/>
+<verse osisID="Song.2.8" sID="Song.2.8"/>It is the voice of my dear brother! lo he cometh, bounding over the mountains—skipping over the hills. My dear brother is like a roe; or a young hart on the mountains of Baithor.<verse eID="Song.2.8"/>
+<verse osisID="Song.2.9" sID="Song.2.9"/>Lo! he is behind our wall, looking in at the windows, taking a near view through the lattice.<verse eID="Song.2.9"/>
+<verse osisID="Song.2.10" sID="Song.2.10"/>My dear brother addressing me saith, "Arise my love, my fair one, my dove! For lo! the winter is past—the rain is over: is gone.<verse eID="Song.2.10"/>
+<verse osisID="Song.2.11" sID="Song.2.11"/>The flowers appear on the earth—the pruning season is come.<verse eID="Song.2.11"/>
+<verse osisID="Song.2.12" sID="Song.2.12"/>The voice of the turtle is heard in our land.<verse eID="Song.2.12"/>
+<verse osisID="Song.2.13" sID="Song.2.13"/>The fig tree hath put forth its green figs: the vines are in bloom—they have shed a fragrance.<verse eID="Song.2.13"/>
+<verse osisID="Song.2.14" sID="Song.2.14"/>Arise, come my beloved, my fair one, my dove. Yes, come thou dove of mine: in the shelter of the rock near the wall. Shew me thy face and let me hear thy voice: for thy voice is sweet and thy countenance comely."<verse eID="Song.2.14"/></p>
+<p>
+<verse osisID="Song.2.15" sID="Song.2.15"/>Catch for us the little foxes, that spoil vines: for our vines are in blossom.<verse eID="Song.2.15"/>
+<verse osisID="Song.2.16" sID="Song.2.16"/>My dear brother is mine and I am his: he is feeding among the lillies.<verse eID="Song.2.16"/>
+<verse osisID="Song.2.17" sID="Song.2.17"/>Till the day blow fresh and the shades be removed. Return—Be, O my dear brother, like a roe, or a young hart on the caverned mountains.<verse eID="Song.2.17"/></p><chapter eID="Song.2"/>
+<chapter osisID="Song.3" sID="Song.3"/>
+<p>
+<verse osisID="Song.3.1" sID="Song.3.1"/>By night on my bed I sought him whom my soul loved. I sought him but did not find him. I called him but he made me no answer.<verse eID="Song.3.1"/>
+<verse osisID="Song.3.2" sID="Song.3.2"/>I will rise now and take a circuit in the city in the places of publick resort and in the streets; and seek him whom my soul loveth. I sought him but did not find him.<verse eID="Song.3.2"/>
+<verse osisID="Song.3.3" sID="Song.3.3"/>The watchmen who take their rounds in the city, met me. Saw ye him whom my
+soul loveth?<verse eID="Song.3.3"/>
+<verse osisID="Song.3.4" sID="Song.3.4"/>It was but a little while after I parted from them, till I found him whom my soul loveth. I took hold of him and did not let him go till I brought him to my mother's house and into the chambers of her who conceived me.<verse eID="Song.3.4"/>
+<verse osisID="Song.3.5" sID="Song.3.5"/>I charged you, O daughters of Jerusalem by the powers and virtues of the field, not to stir up nor awake my love till he please.<verse eID="Song.3.5"/></p>
+<p>
+<verse osisID="Song.3.6" sID="Song.3.6"/>What is this coming up from the wilderness; like a column of smoke, fuming with myrrh and incense made of all the perfumer's powders?<verse eID="Song.3.6"/></p>
+<p>
+<verse osisID="Song.3.7" sID="Song.3.7"/>It is the palanquin of Solomon, three score chiefs of the chiefs of Israel are around it.<verse eID="Song.3.7"/>
+<verse osisID="Song.3.8" sID="Song.3.8"/>All swordsmen expert in war. Every man with his sword on his thigh, for fear of danger by night.<verse eID="Song.3.8"/>
+<verse osisID="Song.3.9" sID="Song.3.9"/>King Solomon had made himself a palanquin of the wood of Libanus.<verse eID="Song.3.9"/>
+<verse osisID="Song.3.10" sID="Song.3.10"/>Its columns he made of silver, and his sofa was of gold. Its canopy was purple, and its inside carpeted with love, for the daughters of Jerusalem.<verse eID="Song.3.10"/></p>
+<p>
+<verse osisID="Song.3.11" sID="Song.3.11"/>O daughter of Sion go forth and view king Solomon; in the crown with which his mother crowned him; on the day of his espousals—Even on the day of the gladness of his heart.<verse eID="Song.3.11"/></p><chapter eID="Song.3"/>
+<chapter osisID="Song.4" sID="Song.4"/>
+<p>
+<verse osisID="Song.4.1" sID="Song.4.1"/>Behold, thou art fair, my love! Behold thou art fair! Thine eyes are doves, now thy veil is removed! thy hair is like the flocks of goats which are
+seen from mount Gralaad:<verse eID="Song.4.1"/>
+<verse osisID="Song.4.2" sID="Song.4.2"/>thy teeth like the flocks of shorn sheep; which have just come up from the washing pool: they are all twins and there is not one defective among them.<verse eID="Song.4.2"/>
+<verse osisID="Song.4.3" sID="Song.4.3"/>Thy lips are like a braid of scarlet and thy speech is graceful: as the
+skin of a pomegranate, so are thy cheeks, now thy veil is removed.<verse eID="Song.4.3"/>
+<verse osisID="Song.4.4" sID="Song.4.4"/>Thy neck is like the tower of David, which was built for an armoury: on it are hung a thousand shields; all the javelins of the worthies.<verse eID="Song.4.4"/>
+<verse osisID="Song.4.5" sID="Song.4.5"/>Thy two breasts are like two twin fawns of a roe; which are browzing among lillies.<verse eID="Song.4.5"/>
+<verse osisID="Song.4.6" sID="Song.4.6"/>Till the day breeze spring up and the shades are removed, I will go by myself to the mountain of myrrh, and to the hill of frankincense.<verse eID="Song.4.6"/>
+<verse osisID="Song.4.7" sID="Song.4.7"/>Thou art altogether fair, my love and there is no blemish in thee.<verse eID="Song.4.7"/></p>
+<p>
+<verse osisID="Song.4.8" sID="Song.4.8"/>Come from Libanus, my spouse; come from Libanus. Thou canst come, yes come
+safely from the top of Pistis—from the summit of Sanir and Herinon—from lions dens, from the leopards mountains.<verse eID="Song.4.8"/>
+<verse osisID="Song.4.9" sID="Song.4.9"/>Thou hast ravished my heart, my sister spouse: thou hast ravished my heart with a glance of thine eyes—with an endearing turn of thy neck.<verse eID="Song.4.9"/>
+<verse osisID="Song.4.10" sID="Song.4.10"/>How beautiful are thy breasts, my sister spouse! how much more pleasing than wine are thy breasts! and the smell of thy garments, than all spices!<verse eID="Song.4.10"/>
+<verse osisID="Song.4.11" sID="Song.4.11"/>thy lips, my spouse, drop as a honey comb: honey and milk flow from thy tongue: and the fragrance of thy garments is like the smell of Lebanon.<verse eID="Song.4.11"/>
+<verse osisID="Song.4.12" sID="Song.4.12"/>Thou art an enclosed garden, my sister spouse: a close shut garden; a
+sealed fountain.<verse eID="Song.4.12"/>
+<verse osisID="Song.4.13" sID="Song.4.13"/>Thy productions are a paradise of pomegranates with delicious fruits; aromatic plants with the varieties of balsams—spikenard and saffron, sweet cane and cinnamon;<verse eID="Song.4.13"/>
+<verse osisID="Song.4.14" sID="Song.4.14"/>with all kinds of trees of incense—myrrh, aloth with all the principal
+spices.<verse eID="Song.4.14"/>
+<verse osisID="Song.4.15" sID="Song.4.15"/>A garden fountain and a well of living water, flowing with gentle murmurs from Libanus.<verse eID="Song.4.15"/></p>
+<p>
+<verse osisID="Song.4.16" sID="Song.4.16"/>Awake O north wind, come also, O south wind and blow gently through my garden, and let my aromatic spices flow. Let my dear brother come down to his garden; and taste the delicious fruits thereof.<verse eID="Song.4.16"/></p><chapter eID="Song.4"/>
+<chapter osisID="Song.5" sID="Song.5"/>
+<p>
+<verse osisID="Song.5.1" sID="Song.5.1"/>I have come to my garden, my sister spouse: I have gathered my myrrh with my spices: I have eaten my bread with my honey; I have drunk my wine with my milk. Eat, O friends; drink—yes drink plentifully O brethren.<verse eID="Song.5.1"/>
+<verse osisID="Song.5.2" sID="Song.5.2"/>I sleep; but my heart is awake. The voice of my dear brother! he knocketh at the door! "Open to me, my sister, my dove, my consecrated one! for my head is filled with dew, and my locks with the drops of the night."<verse eID="Song.5.2"/>
+<verse osisID="Song.5.3" sID="Song.5.3"/>I have put off my garment; how can I put it on? I have washed my feet; how can I defile them?<verse eID="Song.5.3"/>
+<verse osisID="Song.5.4" sID="Song.5.4"/>My dear brother withdrew his hand from the hole in the door. Whereupon my bowels yearned for him.<verse eID="Song.5.4"/>
+<verse osisID="Song.5.5" sID="Song.5.5"/>I rose to open for my dear brother; my hands dropped myrrh; and my fingers myrrh plenteously on the handles of the bar.<verse eID="Song.5.5"/>
+<verse osisID="Song.5.6" sID="Song.5.6"/>I opened for my dear brother. He was gone! my soul melted for the speech of him. I sought him but did not find him: I called him but he made me no answer.<verse eID="Song.5.6"/>
+<verse osisID="Song.5.7" sID="Song.5.7"/>They who go the rounds in the city met me. They smote me—they wounded me. The keepers of the walls took my veil from me.<verse eID="Song.5.7"/>
+<verse osisID="Song.5.8" sID="Song.5.8"/>I adjured you, O daughters of Jerusalem by the powers and virtues of the field. If you found my dear brother—What should you tell him? Tell him that I am sick of love.<verse eID="Song.5.8"/></p>
+<p>
+<verse osisID="Song.5.9" sID="Song.5.9"/>"What is thy dear brother more than another brother, O fairest of women? What is thy dear brother more than another brother, that thou hast thus adjured us?"<verse eID="Song.5.9"/>
+<verse osisID="Song.5.10" sID="Song.5.10"/>My dear brother is white and ruddy, he is the chiefest among tens of thousands.<verse eID="Song.5.10"/>
+<verse osisID="Song.5.11" sID="Song.5.11"/>His head is gold of Kephas; his flowing locks black as a raven.<verse eID="Song.5.11"/>
+<verse osisID="Song.5.12" sID="Song.5.12"/>His eyes are like doves by streams of water—milk white doves sitting by
+streams.<verse eID="Song.5.12"/>
+<verse osisID="Song.5.13" sID="Song.5.13"/>His cheeks are like beds of spices emitting perfumes; his lips are lillies distilling myrrh plenteously.<verse eID="Song.5.13"/>
+<verse osisID="Song.5.14" sID="Song.5.14"/>His hands are of gold, finely turned, beset with chrysolites: his body, an ivory cabinet on a sapphire stone:<verse eID="Song.5.14"/>
+<verse osisID="Song.5.15" sID="Song.5.15"/>his legs, pillars of marble fixed on pedestals of gold: his countenance like Libanus, majestic as the cedars his mouth is sweetness itself.<verse eID="Song.5.15"/>
+<verse osisID="Song.5.16" sID="Song.5.16"/>He is altogether lovely. Such is my dear brother, and such my love, O daughters of Jerusalem.<verse eID="Song.5.16"/></p><chapter eID="Song.5"/>
+<chapter osisID="Song.6" sID="Song.6"/>
+<p>
+<verse osisID="Song.6.1" sID="Song.6.1"/>"Where did thy dear brother go, O fairest of women? Whither did thy dear brother bend his course; that we may seek him with thee?"<verse eID="Song.6.1"/></p>
+<p>
+<verse osisID="Song.6.2" sID="Song.6.2"/>My dear brother went down to his garden to the beds of spices; to feed in the garden and to gather lillies.<verse eID="Song.6.2"/>
+<verse osisID="Song.6.3" sID="Song.6.3"/>I am my dear brother's and he is mine; he is feeding among the lillies!<verse eID="Song.6.3"/></p>
+<p>
+<verse osisID="Song.6.4" sID="Song.6.4"/>Thou my consort, art beautiful as Terzah; comely as Jerusalem; dazzling as embattled hosts!<verse eID="Song.6.4"/>
+<verse osisID="Song.6.5" sID="Song.6.5"/>Turn thine eyes aside from me for they have transported me. Thy hair is like a flock of goats which are seen on mount Galaad:<verse eID="Song.6.5"/>
+<verse osisID="Song.6.6" sID="Song.6.6"/>thy teeth like flocks of shorn sheep, just come up from washing: all twins and there is not one defective among them: thy lips are like a braid of
+scarlet, and thy speech is graceful.<verse eID="Song.6.6"/>
+<verse osisID="Song.6.7" sID="Song.6.7"/>Thy cheek is like the downy skin of a pomegranate now thy veil is removed.<verse eID="Song.6.7"/>
+<verse osisID="Song.6.8" sID="Song.6.8"/>There are sixty queens and eighty concubines, and virgins without number: one is my dove, my consecrated one.<verse eID="Song.6.8"/>
+<verse osisID="Song.6.9" sID="Song.6.9"/>One is her mother's only child—the darling of her who bore her. Daughters viewed her—nay queens and even concubines will hail her happy and thus extoll her.<verse eID="Song.6.9"/>
+<verse osisID="Song.6.10" sID="Song.6.10"/>"Who is she that is looking out like the morning; fair as the moon, distinguishable as the sun, and dazzling as embattled hosts."<verse eID="Song.6.10"/></p>
+<p>
+<verse osisID="Song.6.11" sID="Song.6.11"/>I went down to the garden of nuts to look at the productions of the valley: to seek whether the vine had budded or the pomegranate blossomed:<verse eID="Song.6.11"/>
+<verse osisID="Song.6.12" sID="Song.6.12"/>I am there to grant thee my breasts. My soul did not recollect this. It made me like the chariots of Aminadab.<verse eID="Song.6.12"/></p>
+<p>
+<verse osisID="Song.6.13" sID="Song.6.13"/>Return, return, O Sunamite! return, return that we may see thee! What would you see in the Sunamite, who is coming like the moving bands of an army?<verse eID="Song.6.13"/></p><chapter eID="Song.6"/>
+<chapter osisID="Song.7" sID="Song.7"/>
+<p>
+<verse osisID="Song.7.1" sID="Song.7.1"/>How beautiful were thy steps in thy sandals, daughter of Nadab? The infoldings of thy loins are like jewellery, the work of an artist:<verse eID="Song.7.1"/>
+<verse osisID="Song.7.2" sID="Song.7.2"/>thy clasp is a well turned goblet, not destitute of mingled wine: thy body is like a heap of wheat encompassed about with lillies:<verse eID="Song.7.2"/>
+<verse osisID="Song.7.3" sID="Song.7.3"/>thy two breasts are like two twin fawns of a roe; thy neck is like a tower of ivory.<verse eID="Song.7.3"/>
+<verse osisID="Song.7.4" sID="Song.7.4"/>Thine eyes like the pools at Esebon by the gates of the daughter of many: thy nose is like the tower of Lebanon which looketh towards Damascus:<verse eID="Song.7.4"/>
+<verse osisID="Song.7.5" sID="Song.7.5"/>thy head is like Carmel and the tresses of thy head like Purpura. The king is detained in the antichamber<verse eID="Song.7.5"/></p>
+<p>
+<verse osisID="Song.7.6" sID="Song.7.6"/>How beautiful thou art! and how sweet! O my love! how delightful!<verse eID="Song.7.6"/>
+<verse osisID="Song.7.7" sID="Song.7.7"/>In respect to thy stateliness, thou hast been compared to the palm tree, and thy breasts to its clusters.<verse eID="Song.7.7"/>
+<verse osisID="Song.7.8" sID="Song.7.8"/>I said, I will climb the palm tree—I will clasp its topmost boughs; and thy breasts shall be now like the clusters of the vine; and the smell of thy nose like citrons; and the roof of thy mouth like choice wine—<verse eID="Song.7.8"/></p>
+<p>
+<verse osisID="Song.7.9" sID="Song.7.9"/>Which is poured out rightly for my dear brother properly adapted with my lips and my teeth.<verse eID="Song.7.9"/>
+<verse osisID="Song.7.10" sID="Song.7.10"/>I am my dear brother's and towards me is his desire.<verse eID="Song.7.10"/>
+<verse osisID="Song.7.11" sID="Song.7.11"/>Come, my dear brother, let us go out to the fields.<verse eID="Song.7.11"/>
+<verse osisID="Song.7.12" sID="Song.7.12"/>Let us lodge in the villages: let us get up early to the vineyards: let us see whether the vine is budded: whether the young grape has made its appearance: whether the pomegranates are in blossom. There I will grant thee my breasts.<verse eID="Song.7.12"/>
+<verse osisID="Song.7.13" sID="Song.7.13"/>The mandrakes have shed a fragrance: and in our hoards are all manner of delicious fruits, newly gathered as well as old. For thee, my dear brother I have kept them.<verse eID="Song.7.13"/></p><chapter eID="Song.7"/>
+<chapter osisID="Song.8" sID="Song.8"/>
+<p>
+<verse osisID="Song.8.1" sID="Song.8.1"/>O that thou, my dear brother, hadst sucked the breasts of my mother; meeting thee abroad I could kiss thee and not be despised;<verse eID="Song.8.1"/>
+<verse osisID="Song.8.2" sID="Song.8.2"/>I could take thee and conduct thee to my mother's house: and to the inmost apartment of her who conceived me, I could cause thee to drink spiced wine of the juice of my pomegranates;<verse eID="Song.8.2"/>
+<verse osisID="Song.8.3" sID="Song.8.3"/>his left hand might be under my head and his right embrace me.</p>
+<p>
+4 I have charged you, O daughters of Jerusalem, by the powers and virtues of the field; that you stir not up nor awake my love till she please.<verse eID="Song.8.3"/></p>
+<p>
+<verse osisID="Song.8.5" sID="Song.8.5"/>Who is this coming up cloathed in white leaning on her beloved? Under a citron tree I awaked thee. It was there thy mother bare thee. There she who brought thee forth suffered the pangs of childbirth.<verse eID="Song.8.5"/></p>
+<p>
+<verse osisID="Song.8.6" sID="Song.8.6"/>O set me as a seal on thy heart—as a seal on thine arm: for love is strong as death; jealousy inflexible as Hades: its wings are wings of fire its flames—<verse eID="Song.8.6"/></p>
+<p>
+<verse osisID="Song.8.7" sID="Song.8.7"/>Much water cannot quench love; nor can floods drown it. Though a man give all his substance for love, he may be thoroughly despised.<verse eID="Song.8.7"/></p>
+<p>
+<verse osisID="Song.8.8" sID="Song.8.8"/>Our sister is little and hath no breasts. What can we do for our sister on the day when she shall be demanded in marriage.<verse eID="Song.8.8"/>
+<verse osisID="Song.8.9" sID="Song.8.9"/>If she be a wall we will build on her silver turrets, and if she be a door we will line her with boards of cedar.<verse eID="Song.8.9"/></p>
+<p>
+<verse osisID="Song.8.10" sID="Song.8.10"/>I am a wall and my breasts are turrets. I was in their view as one who had found favour.<verse eID="Song.8.10"/>
+<verse osisID="Song.8.11" sID="Song.8.11"/>Solomon had a vineyard at Beelamon, he let this vineyard of his to tenants, a man is to give him a thousand pieces of silver for its fruit.<verse eID="Song.8.11"/>
+<verse osisID="Song.8.12" sID="Song.8.12"/>My vineyard which is before me shall continue to be mine. Solomon shall have the thousand pieces of silver, and they who take care of its fruits, two hundred.<verse eID="Song.8.12"/></p>
+<p>
+<verse osisID="Song.8.13" sID="Song.8.13"/>Thou who art sitting in the gardens, companions are waiting thy voice. Let me hear it—<verse eID="Song.8.13"/></p>
+<p>
+<verse osisID="Song.8.14" sID="Song.8.14"/>Away, my dear brother, and be like a roe; or a young hart on the mountains of spices.<verse eID="Song.8.14"/></p><chapter eID="Song.8"/>
+</div>
+</osisText>
+</osis>

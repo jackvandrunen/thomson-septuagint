@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<osisText osisRefWork="Bible" xml:lang="und" osisIDWork="Bible.Thomson">
+<header>
+<work osisWork="Bible.Thomson"/>
+</header>
+<div type="book" osisID="Lam">
+<!-- id comment - Thomson Septuagint -->
+<title type="runningHead">Lamentations</title>
+<title level="3" type="main">The</title>
+<title level="1" type="main">Lamentations</title>
+<title level="3" type="main">Of Jeremias</title>
+<title level="2" type="main">ΘΡΗΝΟΙ</title>
+<chapter osisID="Lam.1" sID="Lam.1"/>
+<title canonical="true" type="psalm">After Israel was carried into captivity, and Jerusalem was laid waste; Jeremias sat down and wept, and sung this song of woe over Jerusalem, and said.</title>
+<p>
+<verse osisID="Lam.1.1" sID="Lam.1.1"/>How solitary sitteth the city which was full of people! she who was abundant among nations is become like a widow! the empress of provinces is become tributary!<verse eID="Lam.1.1"/></p>
+<p>
+<verse osisID="Lam.1.2" sID="Lam.1.2"/>She wept sore by night and her tears are on her cheeks and of all her lovers there is none to comfort her. All her friends dealt treacherously with her. They became her enemies.<verse eID="Lam.1.2"/></p>
+<p>
+<verse osisID="Lam.1.3" sID="Lam.1.3"/>Judea is forced to emigrate. On account of her humiliation and because of her great servitude, she sat down among the nations; she found no rest. All her persecutors found her among them who were afflicting her.<verse eID="Lam.1.3"/></p>
+<p>
+<verse osisID="Lam.1.4" sID="Lam.1.4"/>The highways of Sion mourn; because none attend her festivals. All her gates are desolate. Her priests groan bitterly. Her virgins are carried away; and she is by herself in bitterness.<verse eID="Lam.1.4"/></p>
+<p>
+<verse osisID="Lam.1.5" sID="Lam.1.5"/>They who afflict her are become her head; and her enemies prosper. Because the Lord hath humbled her for the multitude bf her transgressions; her children are gone into captivity before the oppressor.<verse eID="Lam.1.5"/></p>
+<p>
+<verse osisID="Lam.1.6" sID="Lam.1.6"/>From the daughter of Sion all her comeliness is taken away. Her chiefs were like rams which could find no pasture; and they came without strength in view of the pursuer.<verse eID="Lam.1.6"/></p>
+<p>
+<verse osisID="Lam.1.7" sID="Lam.1.7"/>In the days of her humiliation and rejection, Jerusalem remembered all the good things which she had in days of old. When her people fell into the hands of the oppressor, and there was none to help her; her enemies seeing this, laughed at her festivals held in commemoration of her settlement.<verse eID="Lam.1.7"/></p>
+<p>
+<verse osisID="Lam.1.8" sID="Lam.1.8"/>Jerusalem sinned grievously, therefore she became unstable as a wave. By all that honoured her she hath been humbled, for they saw her nakedness, while
+she sighing turned away her face.<verse eID="Lam.1.8"/></p>
+<p>
+<verse osisID="Lam.1.9" sID="Lam.1.9"/>Her uncleanness was before her feet. She was insensible to her extreme distress. He hath indeed lowered her haughtiness; there is none who comforteth her. Lord, behold my affliction because the enemy is magnified.<verse eID="Lam.1.9"/></p>
+<p>
+<verse osisID="Lam.1.10" sID="Lam.1.10"/>On all the objects of her desire the oppressor hath laid his hand; for into her sanctuary she saw nations entering, concerning whom thou hast commanded that they should not come into thy congregation.<verse eID="Lam.1.10"/></p>
+<p>
+<verse osisID="Lam.1.11" sID="Lam.1.11"/>All her people were sighing deeply, seeking bread. They gave up the objects of her desire, for meat to preserve life. Look down, O Lord, and see how she is dishonoured.<verse eID="Lam.1.11"/></p>
+<p>
+<verse osisID="Lam.1.12" sID="Lam.1.12"/><note placement="foot"><reference type="annotateRef">1:12 Sion, or the city of Jerusalem.</reference></note> Ho! all ye who travel the way turn and see! is there any sorrow like this of mine, which he hath denounced against me. The Lord hath humbled me in the day of his fierce indignation.<verse eID="Lam.1.12"/></p>
+<p>
+<verse osisID="Lam.1.13" sID="Lam.1.13"/>From his loftiness he hath sent a fire; he brought it in among my bones. He hath spread a net for my feet and turned me backwards. He hath made me desolate and full of sorrow, all the live long day.<verse eID="Lam.1.13"/></p>
+<p>
+<verse osisID="Lam.1.14" sID="Lam.1.14"/>He hath kept a watch on my transgressions. They are wreathed round my hands. They have reached up to my neck. My strength is enfeebled. For into my hands the Lord hath sent pains. I cannot stand.<verse eID="Lam.1.14"/></p>
+<p>
+<verse osisID="Lam.1.15" sID="Lam.1.15"/>From amidst me the Lord hath moved all my mighty men. He hath brought upon me the time for crushing my chosen bands. The Lord trod out a vat for the virgin daughter of Juda.<verse eID="Lam.1.15"/>
+<verse osisID="Lam.1.16" sID="Lam.1.16"/>For these things I mourn. Mine eye hath flowed with water, because my comforter, he who is the supporter of my life, is far removed from me. My children are vanished because the enemy hath prevailed.<verse eID="Lam.1.16"/></p>
+<p>
+<verse osisID="Lam.1.17" sID="Lam.1.17"/>Sion stretched forth her hand; there is none to comfort her. The Lord gave a command respecting Jacob; around him are they who afflict him. Jerusalem became among them, like one set apart as unclean.<verse eID="Lam.1.17"/></p>
+<p>
+<verse osisID="Lam.1.18" sID="Lam.1.18"/><note placement="foot"><reference type="annotateRef">1:18 Sion, or the city of Jerusalem.</reference></note> The Lord is righteous; for against his express commandment I rebelled. Hear I beseech you all ye peoples and behold my sorrow! my virgins and my young men are gone into captivity.<verse eID="Lam.1.18"/></p>
+<p>
+<verse osisID="Lam.1.19" sID="Lam.1.19"/>I called on my lovers; but they with false excuses deceived me. My priests and my elders expired in the city, because they sought food to support their lives, but found none.<verse eID="Lam.1.19"/></p>
+<p>
+<verse osisID="Lam.1.20" sID="Lam.1.20"/>Look, Lord! because of my distress my bowels are troubled; and my heart within me is distracted, because I have grievously rebelled. Abroad the sword, and at home death have bereaved me of children.<verse eID="Lam.1.20"/></p>
+<p>
+<verse osisID="Lam.1.21" sID="Lam.1.21"/>Hear, I beseech thee! because I groan; there is none to comfort me. All mine enemies heard of my calamities, and rejoiced at what thou hast done. Thou hast brought on a day: thou hast proclaimed a time.<verse eID="Lam.1.21"/>
+<verse osisID="Lam.1.22" sID="Lam.1.22"/>They were like me, let all their wickedness come before thee. Make search for them as they have made search for all my transgressions. For my groans are many, and my heart is afflicted with grief.<verse eID="Lam.1.22"/></p><chapter eID="Lam.1"/>
+<chapter osisID="Lam.2" sID="Lam.2"/>
+<p>
+<verse osisID="Lam.2.1" sID="Lam.2.1"/>Oh! how the Lord hath in his wrath covered with darkness the daughter of Sion! he hath cast down, from heaven, upon the earth, the glory of Israel; and hath not remembered his own footstool.<verse eID="Lam.2.1"/></p>
+<p>
+<verse osisID="Lam.2.2" sID="Lam.2.2"/>In the day of his indignation the Lord overwhelmed and did not spare; in his wrath he destroyed all the comeliness of Jacob: he levelled to the ground the strong holds of the daughter of Juda. He brought contempt on her king, and her chiefs.<verse eID="Lam.2.2"/>
+<verse osisID="Lam.2.3" sID="Lam.2.3"/>In his fierce anger he broke the whole horn of Israel: he turned back his right hand from before his enemy: he kindled in Jacob a flaming fire, which devoured all around.<verse eID="Lam.2.3"/></p>
+<p>
+<verse osisID="Lam.2.4" sID="Lam.2.4"/>He bent his bow like an opposing enemy—like an adversary he strengthened his right hand and slew all the desires of mine eyes. In the tent of the daughter of Sion he poured out his wrath like fire.<verse eID="Lam.2.4"/></p>
+<p>
+<verse osisID="Lam.2.5" sID="Lam.2.5"/>The Lord became like an enemy. He overwhelmed Israel. He sunk her palaces. He destroyed his own munitions, and multiplied on the daughter of Juda humiliation on humiliation.<verse eID="Lam.2.5"/></p>
+<p>
+<verse osisID="Lam.2.6" sID="Lam.2.6"/>He laid open like a vineyard his own dwelling; he marred his own festivals. The Lord forgot the festivals and sabbaths which he had established in Sion, and by the rebuke of his anger vexed king and priest and chief.<verse eID="Lam.2.6"/></p>
+<p>
+<verse osisID="Lam.2.7" sID="Lam.2.7"/>The Lord hath cast off his altar; he hath shaken off his sanctuary. With the hand of an enemy he hath demolished the wall of her palaces. They uttered a
+shout in the house of the Lord as on the day of a festival.<verse eID="Lam.2.7"/></p>
+<p>
+<verse osisID="Lam.2.8" sID="Lam.2.8"/>He turned back to destroy the wall of the daughter of Sion; he stretched out a measuring line: he withdrew not his hand from destruction; so the outer wall mourned and the inner wall languished with it.<verse eID="Lam.2.8"/></p>
+<p>
+<verse osisID="Lam.2.9" sID="Lam.2.9"/>Her gates were dashed to the ground: he destroyed and broke to pieces her bars, her king and her chiefs among the nations. Law is no more; and her prophets saw not a vision from the Lord.<verse eID="Lam.2.9"/></p>
+<p>
+<verse osisID="Lam.2.10" sID="Lam.2.10"/>The elders of the daughter of Sion sat on the ground. They were silent. They heaped dust on their heads; they girded themselves with sackcloth. He humbled to the ground the virgin princesses in Jerusalem.<verse eID="Lam.2.10"/></p>
+<p>
+<verse osisID="Lam.2.11" sID="Lam.2.11"/>Mine eyes failed with tears; my heart was astounded. My glory was poured on the ground for the distress of the daughter of my people when the infant and
+suckling expired in the streets of the city.<verse eID="Lam.2.11"/></p>
+<p>
+<verse osisID="Lam.2.12" sID="Lam.2.12"/>To their mothers they said, "Where is corn and wine," when they were fainting like wounded men in the streets of the city—when they were pouring out their souls in their mothers' bosom.<verse eID="Lam.2.12"/></p>
+<p>
+<verse osisID="Lam.2.13" sID="Lam.2.13"/>What shall I take to witness for thee? Or to what shall I liken thee, O daughter of Jerusalem? Who can save and comfort thee, O virgin daughter of Sion? Because thy cup of ruin hath been large, who can heal thee?<verse eID="Lam.2.13"/></p>
+<p>
+<verse osisID="Lam.2.14" sID="Lam.2.14"/>Thy prophets saw vanities and follies for thee; they made no revelations against thine iniquity to turn away thy captivity, but saw for thee false burdens and expellings.<verse eID="Lam.2.14"/></p>
+<p>
+<verse osisID="Lam.2.15" sID="Lam.2.15"/>All that passed by clapped their hands for thee, they expressed the sound of pity and shaked their heads for the daughter of Jerusalem. Is this, say they, the city, the crown of joy of the whole earth!<verse eID="Lam.2.15"/></p>
+<p>
+<verse osisID="Lam.2.16" sID="Lam.2.16"/>Against thee all thine enemies opened their mouth; they hissed and gnashed their teeth and said, We have swallowed her up; but this is the day we looked for; we have found it; we have seen it.<verse eID="Lam.2.16"/></p>
+<p>
+<verse osisID="Lam.2.17" sID="Lam.2.17"/>The Lord hath done what he purposed. He hath executed his decree, what he enjoined in days of old. He hath destroyed and hath not spared. He hath caused an enemy to rejoice over thee.<verse eID="Lam.2.17"/>
+<verse osisID="Lam.2.18" sID="Lam.2.18"/>He hath exalted the horn of thine oppressor. Their heart cried to the Lord. O! walls of Sion cause tears to flow down like a torrent day and night. Give thyself no rest; let not the daughter of thine eyes be silent.<verse eID="Lam.2.18"/>
+<verse osisID="Lam.2.19" sID="Lam.2.19"/>Arise, chant praise in the night at setting thy watch. Pour out thy heart like water before the Lord; lift up thy hands to him for the life of thine infants, who are perishing with hunger at the head of every street.<verse eID="Lam.2.19"/></p>
+<p>
+<verse osisID="Lam.2.20" sID="Lam.2.20"/>Look, O Lord, and see. For whom hast thou caused such a search to be made? Shall women eat the fruit of their womb! The cook hath made search! Shall infants at the breast be butchered? Wilt thou slay in the sanctuary of the Lord, priest and prophet?<verse eID="Lam.2.20"/></p>
+<p>
+<verse osisID="Lam.2.21" sID="Lam.2.21"/>On the high way lie the youth and the elder. My virgins and my young men are gone into captivity; with sword and with famine thou hast slain; in the day of thine anger thou hast slaughtered and hast not spared.<verse eID="Lam.2.21"/></p>
+<p>
+<verse osisID="Lam.2.22" sID="Lam.2.22"/>He called my sojourners from all around to a solemn festival, so that in the day of the indignation of the Lord none escaped or were left. As I excelled in power so have I multiplied all mine enemies.<verse eID="Lam.2.22"/></p><chapter eID="Lam.2"/>
+<chapter osisID="Lam.3" sID="Lam.3"/>
+<p>
+<verse osisID="Lam.3.1" sID="Lam.3.1"/>I am a man who have seen affliction by the rod of his wrath against me.<verse eID="Lam.3.1"/>
+<verse osisID="Lam.3.2" sID="Lam.3.2"/>He hath seized me and dragged me into darkness and there is no light.<verse eID="Lam.3.2"/>
+<verse osisID="Lam.3.3" sID="Lam.3.3"/>But still he turned his hand against me all the day long.<verse eID="Lam.3.3"/></p>
+<p>
+<verse osisID="Lam.3.4" sID="Lam.3.4"/>He hath made my flesh and my skin old; he hath broken my bones.<verse eID="Lam.3.4"/>
+<verse osisID="Lam.3.5" sID="Lam.3.5"/>He built up against me and encompassed my head and afflicted it with pain:<verse eID="Lam.3.5"/>
+<verse osisID="Lam.3.6" sID="Lam.3.6"/>in dark mansions he placed me like the dead of old.<verse eID="Lam.3.6"/></p>
+<p>
+<verse osisID="Lam.3.7" sID="Lam.3.7"/>He built up against me so that I cannot get out. He made my chain heavy.<verse eID="Lam.3.7"/>
+<verse osisID="Lam.3.8" sID="Lam.3.8"/>Though I scream and cry, he shut out my prayer. He walled up my ways; he blocked up my paths; he terrified me.<verse eID="Lam.3.8"/></p>
+<p>
+<verse osisID="Lam.3.10" sID="Lam.3.10"/>He was as a bear lying in wait; to me he was like a lion in secret coverts.<verse eID="Lam.3.10"/>
+<verse osisID="Lam.3.11" sID="Lam.3.11"/>He pursued me when I fled and stopped me. He removed me quite out of
+sight.<verse eID="Lam.3.11"/>
+<verse osisID="Lam.3.12" sID="Lam.3.12"/>He bent his bow and set me up as a mark for his arrow.<verse eID="Lam.3.12"/>
+<verse osisID="Lam.3.13" sID="Lam.3.13"/>He poured into my reins the darts of his quiver.<verse eID="Lam.3.13"/></p>
+<p>
+<verse osisID="Lam.3.14" sID="Lam.3.14"/>I became a subject of laughter to all my people—their song all the day long.<verse eID="Lam.3.14"/>
+<verse osisID="Lam.3.15" sID="Lam.3.15"/>He glutted me with wormwood; he gave me a large draught of gall,<verse eID="Lam.3.15"/>
+<verse osisID="Lam.3.16" sID="Lam.3.16"/>and broke my teeth with gravel. He drenched me with ashes.<verse eID="Lam.3.16"/>
+<verse osisID="Lam.3.17" sID="Lam.3.17"/>He removed my soul far from peace. I forgot prosperity;<verse eID="Lam.3.17"/>
+<verse osisID="Lam.3.18" sID="Lam.3.18"/>so my strength was destroyed and the hope which I had from the Lord.<verse eID="Lam.3.18"/>
+<verse osisID="Lam.3.19" sID="Lam.3.19"/>I recollected because of mine affliction. When by reason of persecution, my bitterness and gall shall be remembered;<verse eID="Lam.3.19"/>
+<verse osisID="Lam.3.20" sID="Lam.3.20"/>then on myself will my soul meditate. I will lay this up in my heart.<verse eID="Lam.3.20"/>
+<verse osisID="Lam.3.21" sID="Lam.3.21"/>On this account I will wait for the mercies of the Lord, because he hath not quite forsaken me—because his compassion is not exhausted.<verse eID="Lam.3.21"/>
+<verse osisID="Lam.3.22" sID="Lam.3.22"/>In the ensuing months, Lord, exercise compassion, since we are not quite consumed—since thy mercies are not exhausted.<verse eID="Lam.3.22"/>
+<verse osisID="Lam.3.23" sID="Lam.3.23"/>New every morning is thine abundant faithfulness.<verse eID="Lam.3.23"/>
+<verse osisID="Lam.3.24" sID="Lam.3.24"/>The Lord is my portion, saith my soul, therefore I will wait for him.<verse eID="Lam.3.24"/>
+<verse osisID="Lam.3.25" sID="Lam.3.25"/>The Lord is gracious to them who wait for him. For the soul that will
+seek him, there is good;<verse eID="Lam.3.25"/>
+<verse osisID="Lam.3.26" sID="Lam.3.26"/>let it therefore wait quietly for the salvation of the Lord.<verse eID="Lam.3.26"/>
+<verse osisID="Lam.3.27" sID="Lam.3.27"/>It is good for a man when he hath borne a yoke in his youth.<verse eID="Lam.3.27"/>
+<verse osisID="Lam.3.28" sID="Lam.3.28"/>He will sit solitary and be silent, because he hath taken it upon him.<verse eID="Lam.3.28"/>
+<verse osisID="Lam.3.29" sID="Lam.3.29"/><note placement="foot"><reference type="annotateRef">3:29 This verse is not present in the Septuagint.</reference></note><verse eID="Lam.3.29"/>
+<verse osisID="Lam.3.30" sID="Lam.3.30"/>He will give his cheek to him who smiteth it; he will feed on reproaches;<verse eID="Lam.3.30"/>
+<verse osisID="Lam.3.31" sID="Lam.3.31"/>because the Lord will not cast off forever—<verse eID="Lam.3.31"/>
+<verse osisID="Lam.3.32" sID="Lam.3.32"/>because he who hath humbled will have compassion, even according to the multitude of his mercies.<verse eID="Lam.3.32"/>
+<verse osisID="Lam.3.33" sID="Lam.3.33"/>He did not answer from his heart and humble the children of men<verse eID="Lam.3.33"/>
+<verse osisID="Lam.3.34" sID="Lam.3.34"/>with an intent to crush under his feet all the prisoners of the earth;<verse eID="Lam.3.34"/>
+<verse osisID="Lam.3.35" sID="Lam.3.35"/>to turn aside the cause of man from before the Most High.<verse eID="Lam.3.35"/>
+<verse osisID="Lam.3.36" sID="Lam.3.36"/>To condemn a man when he is on his trial, the Lord hath not enjoined.<verse eID="Lam.3.36"/></p>
+<p>
+<verse osisID="Lam.3.37" sID="Lam.3.37"/><note placement="foot"><reference type="annotateRef">3:37 An objection.</reference></note> Who ever enjoined thus; when it hath happened, hath not the Lord ordered it?<verse eID="Lam.3.37"/></p>
+<p>
+<verse osisID="Lam.3.38" sID="Lam.3.38"/><note placement="foot"><reference type="annotateRef">3:38 The answer.</reference></note> From the mouth of the Most High shall not ills proceed as well as good?<verse eID="Lam.3.38"/>
+<verse osisID="Lam.3.39" sID="Lam.3.39"/>Why should a living man murmur—man for his sin offering?<verse eID="Lam.3.39"/>
+<verse osisID="Lam.3.40" sID="Lam.3.40"/>Our way hath been searched and tried let us then return to the Lord.<verse eID="Lam.3.40"/>
+<verse osisID="Lam.3.41" sID="Lam.3.41"/>Let us offer up our hearts on our hands to Him who is High in heaven.<verse eID="Lam.3.41"/>
+<verse osisID="Lam.3.42" sID="Lam.3.42"/>We have sinned; we have been guilty of impiety; and thou hast not been appeased.<verse eID="Lam.3.42"/>
+<verse osisID="Lam.3.43" sID="Lam.3.43"/>Thou hast covered with wrath and discarded us; thou hast slain and hast not spared;<verse eID="Lam.3.43"/>
+<verse osisID="Lam.3.44" sID="Lam.3.44"/>thou hast covered thyself with a cloud because of prayer, that I may shut mine eyes and be cast off.<verse eID="Lam.3.44"/>
+<verse osisID="Lam.3.45" sID="Lam.3.45"/>Thou hast placed us in the midst of the peoples;<verse eID="Lam.3.45"/>
+<verse osisID="Lam.3.46" sID="Lam.3.46"/>all our enemies have opened their mouths against us.<verse eID="Lam.3.46"/>
+<verse osisID="Lam.3.47" sID="Lam.3.47"/>On us are come terror and wrath, desolation and destruction.<verse eID="Lam.3.47"/>
+<verse osisID="Lam.3.48" sID="Lam.3.48"/>Let streams of water be collected by mine eye, for the destruction of the daughter of my people.<verse eID="Lam.3.48"/>
+<verse osisID="Lam.3.49" sID="Lam.3.49"/>Mine eye is bathed in tears and I cannot keep silence that it may dry,<verse eID="Lam.3.49"/>
+<verse osisID="Lam.3.50" sID="Lam.3.50"/>until the Lord look down from heaven and behold.<verse eID="Lam.3.50"/>
+<verse osisID="Lam.3.51" sID="Lam.3.51"/>Let mine eye be more watchful for my life, than all the daughters of a city.<verse eID="Lam.3.51"/>
+<verse osisID="Lam.3.52" sID="Lam.3.52"/>With eagerness all mine enemies have hunted me like an ostrich;<verse eID="Lam.3.52"/>
+<verse osisID="Lam.3.53" sID="Lam.3.53"/>without cause they have condemned me to die in a dungeon, and placed a
+stone over me.<verse eID="Lam.3.53"/>
+<verse osisID="Lam.3.54" sID="Lam.3.54"/>Water was poured above upon my head. I said, I am cast off.<verse eID="Lam.3.54"/>
+<verse osisID="Lam.3.55" sID="Lam.3.55"/>I called on thy name, O Lord, out of the deepest dungeon.<verse eID="Lam.3.55"/>
+<verse osisID="Lam.3.56" sID="Lam.3.56"/>Thou hast heard my voice; stop not thine ear against my supplication.<verse eID="Lam.3.56"/>
+<verse osisID="Lam.3.57" sID="Lam.3.57"/>To my assistance thou didst draw near. On the day I called on thee, thou
+saidst to me, Fear not.<verse eID="Lam.3.57"/>
+<verse osisID="Lam.3.58" sID="Lam.3.58"/>Thou, O Lord, hast pleaded the causes of my soul; thou hast redeemed my life.<verse eID="Lam.3.58"/>
+<verse osisID="Lam.3.59" sID="Lam.3.59"/>Thou, O Lord, hast seen my wrongs; thou hast decided my cause.<verse eID="Lam.3.59"/>
+<verse osisID="Lam.3.60" sID="Lam.3.60"/>Thou hast seen all their vengeance into all their devices against me.<verse eID="Lam.3.60"/>
+<verse osisID="Lam.3.61" sID="Lam.3.61"/>Thou hast heard their reproach—all their charges against me—<verse eID="Lam.3.61"/>
+<verse osisID="Lam.3.62" sID="Lam.3.62"/>the speeches of them who accused me; their studied harangues against me all the day long.<verse eID="Lam.3.62"/>
+<verse osisID="Lam.3.63" sID="Lam.3.63"/>At their sitting down and their rising up, look down on their eyes.<verse eID="Lam.3.63"/>
+<verse osisID="Lam.3.64" sID="Lam.3.64"/>Thou, O Lord, wilt render them a recompence according to the works of their hands.<verse eID="Lam.3.64"/>
+<verse osisID="Lam.3.65" sID="Lam.3.65"/>Thou wilt give them for a shield the sorrow of my heart.<verse eID="Lam.3.65"/>
+<verse osisID="Lam.3.66" sID="Lam.3.66"/>Thou wilt pursue them with indignation, and destroy them utterly from under heaven.<verse eID="Lam.3.66"/></p><chapter eID="Lam.3"/>
+<chapter osisID="Lam.4" sID="Lam.4"/>
+<p>
+<verse osisID="Lam.4.1" sID="Lam.4.1"/>How gold can be tarnished! How pure silver can be changed! Holy stones were shot down at the head of all the outlets.<verse eID="Lam.4.1"/></p>
+<p>
+<verse osisID="Lam.4.2" sID="Lam.4.2"/>The sons of Sion who were precious, more precious than gold; how they have been accounted as earthen vessels, the works of a potter's hands.<verse eID="Lam.4.2"/></p>
+<p>
+<verse osisID="Lam.4.3" sID="Lam.4.3"/>Surely jackals drew out the breasts; their whelps suckled the daughters of my people, to make them unnatural as the ostrich in the desert.<verse eID="Lam.4.3"/></p>
+<p>
+<verse osisID="Lam.4.4" sID="Lam.4.4"/>The tongue of a sucking babe cleaved to the roof of its mouth for thirst: infants asked for bread, there is none who breaketh it for them.<verse eID="Lam.4.4"/></p>
+<p>
+<verse osisID="Lam.4.5" sID="Lam.4.5"/>They who had fed upon dainties perished in the highways they who had been nursed in scarlet were covered with dung.<verse eID="Lam.4.5"/></p>
+<p>
+<verse osisID="Lam.4.6" sID="Lam.4.6"/>The transgression of the daughter of my people was greater than that of Sodom which was overthrown suddenly, without tiring hands with it.<verse eID="Lam.4.6"/></p>
+<p>
+<verse osisID="Lam.4.7" sID="Lam.4.7"/>Her Nazarites were purer than snow; they were whiter than milk. They were more ruddy than a sapphire. Behold their change.<verse eID="Lam.4.7"/></p>
+<p>
+<verse osisID="Lam.4.8" sID="Lam.4.8"/>Their visage became blacker than soot. They are not distinguished in the
+streets. Their skin is shrivelled to their bones. They are withered. They are become like a stick.<verse eID="Lam.4.8"/></p>
+<p>
+<verse osisID="Lam.4.9" sID="Lam.4.9"/>The victims of the sword are more beautiful than those slain by famine. These stalked about pierced through for want of the fruits of the field.<verse eID="Lam.4.9"/></p>
+<p>
+<verse osisID="Lam.4.10" sID="Lam.4.10"/>The hands of tender-hearted women boiled their own children; these were food for them in the extreme distress of the daughter of my people.<verse eID="Lam.4.10"/></p>
+<p>
+<verse osisID="Lam.4.11" sID="Lam.4.11"/>The Lord hath executed his wrath—he hath poured out his fierce anger. He hath kindled a fire in Sion, which hath devoured her very foundations.<verse eID="Lam.4.11"/></p>
+<p>
+<verse osisID="Lam.4.12" sID="Lam.4.12"/>The kings of the earth; all the inhabitants of the world did not believe that an enemy and a destroyer could have entered the gates of Jerusalem.<verse eID="Lam.4.12"/></p>
+<p>
+<verse osisID="Lam.4.13" sID="Lam.4.13"/>Because of the sins of her prophets; the iniquities of her priests; of them who were shedding innocent blood, in the midst of her,<verse eID="Lam.4.13"/>
+<verse osisID="Lam.4.14" sID="Lam.4.14"/>(her watchmen shuddered in the streets, they were polluted with blood, as they could not but have touched their clothes.<verse eID="Lam.4.14"/>
+<verse osisID="Lam.4.15" sID="Lam.4.15"/>"Stand off from the unclean." Call to them "Stand off! Stand off! touch not" because they had been touched they shuddered.) Say among the nations, Let them no longer sojourn there.<verse eID="Lam.4.15"/></p>
+<p>
+<verse osisID="Lam.4.16" sID="Lam.4.16"/>The presence of the Lord was their portion; he will no more look upon them: they paid no respect to the presence of priests; on prophets they had no compassion.<verse eID="Lam.4.16"/></p>
+<p>
+<verse osisID="Lam.4.17" sID="Lam.4.17"/>While we yet existed our eyes failed looking in vain for our help. When we looked out, we looked to a nation that could not save.<verse eID="Lam.4.17"/></p>
+<p>
+<verse osisID="Lam.4.18" sID="Lam.4.18"/>We have hunted for our little ones that they might not walk in our
+streets. Our time is come. Our days are fulfilled. Our time is at hand.<verse eID="Lam.4.18"/></p>
+<p>
+<verse osisID="Lam.4.19" sID="Lam.4.19"/>They who pursue us are swifter than eagles in the air; they overtook us on the mountains. They lay in wait for us in the desert.<verse eID="Lam.4.19"/></p>
+<p>
+<verse osisID="Lam.4.20" sID="Lam.4.20"/>In their slaughters is comprehended the breath of our nostrils, our anointed Lord, of whom we said, Under his shadow we shall live among the nations.<verse eID="Lam.4.20"/></p>
+<p>
+<verse osisID="Lam.4.21" sID="Lam.4.21"/>Rejoice and be glad, daughter of Idumea who dwellest in the land. To thee however the cup of the Lord will come and thou shalt drink and vomit.<verse eID="Lam.4.21"/></p>
+<p>
+<verse osisID="Lam.4.22" sID="Lam.4.22"/>O daughter of Sion, thine iniquity is done away. He will no more banish thee. He hath visited thine iniquities, O daughter of Edom. He hath exposed thee for thy sins.<verse eID="Lam.4.22"/></p><chapter eID="Lam.4"/>
+<chapter osisID="Lam.5" sID="Lam.5"/>
+<p>
+<verse osisID="Lam.5.1" sID="Lam.5.1"/>Remember, O Lord, what hath befallen us: look down and behold our reproach.<verse eID="Lam.5.1"/>
+<verse osisID="Lam.5.2" sID="Lam.5.2"/>Our inheritance is transferred to strangers; our houses to foreigners.<verse eID="Lam.5.2"/>
+<verse osisID="Lam.5.3" sID="Lam.5.3"/>We are become orphans. Our father is no more. Our mothers are like widows.<verse eID="Lam.5.3"/>
+<verse osisID="Lam.5.4" sID="Lam.5.4"/>Our water we have drunk for money. Our wood came by barter on our
+shoulders.<verse eID="Lam.5.4"/>
+<verse osisID="Lam.5.5" sID="Lam.5.5"/>We have been persecuted. We have laboured and have had no rest.<verse eID="Lam.5.5"/>
+<verse osisID="Lam.5.6" sID="Lam.5.6"/>Egypt laid to a hand; Assyria, till they were satisfied.<verse eID="Lam.5.6"/>
+<verse osisID="Lam.5.7" sID="Lam.5.7"/>Our fathers sinned; they are no more. We have borne their transgressions.<verse eID="Lam.5.7"/>
+<verse osisID="Lam.5.8" sID="Lam.5.8"/>Slaves have got dominion over us; there is none to deliver us out of their hand.<verse eID="Lam.5.8"/>
+<verse osisID="Lam.5.9" sID="Lam.5.9"/>At the peril of our lives we must gather in our corn, because of the sword of the desert.<verse eID="Lam.5.9"/>
+<verse osisID="Lam.5.10" sID="Lam.5.10"/>Our skin is black as an oven. They are shrivelled up by storms of famine.<verse eID="Lam.5.10"/>
+<verse osisID="Lam.5.11" sID="Lam.5.11"/>Our wives are humbled in Sion; our virgins in the cities of Juda.<verse eID="Lam.5.11"/>
+<verse osisID="Lam.5.12" sID="Lam.5.12"/>Our chiefs were hanged up by their hands; our elders were held in no esteem.<verse eID="Lam.5.12"/>
+<verse osisID="Lam.5.13" sID="Lam.5.13"/>Our warriors took up a lamentation; and our youths fainted under a club.<verse eID="Lam.5.13"/>
+<verse osisID="Lam.5.14" sID="Lam.5.14"/>Our elders have ceased to attend at the gates, and our chosen men have ceased from their songs.<verse eID="Lam.5.14"/>
+<verse osisID="Lam.5.15" sID="Lam.5.15"/>The joy of our heart is at an end; our dance is turned into mourning.<verse eID="Lam.5.15"/>
+<verse osisID="Lam.5.16" sID="Lam.5.16"/>Our crown is fallen from our head; alas for us! for we have sinned.<verse eID="Lam.5.16"/>
+<verse osisID="Lam.5.17" sID="Lam.5.17"/>Because of this, grief is come upon us—our heart is full of sorrow: because of this, our eyes are dim.<verse eID="Lam.5.17"/>
+<verse osisID="Lam.5.18" sID="Lam.5.18"/>On mount Sion, because it is desolate, foxes have walked about.<verse eID="Lam.5.18"/>
+<verse osisID="Lam.5.19" sID="Lam.5.19"/>But thou, O Lord, wilt inhabit it forever: thy throne is for all generations.<verse eID="Lam.5.19"/>
+<verse osisID="Lam.5.20" sID="Lam.5.20"/>Why wilt thou utterly forget us? Wilt thou leave us for length of days?<verse eID="Lam.5.20"/>
+<verse osisID="Lam.5.21" sID="Lam.5.21"/>Turn us to thee, O Lord, and we shall be turned and renew our days as heretofore.<verse eID="Lam.5.21"/>
+<verse osisID="Lam.5.22" sID="Lam.5.22"/>Because thou wast cast off, thou hast cast us off; thou hast been provoked against us to a high degree.<verse eID="Lam.5.22"/></p><chapter eID="Lam.5"/>
+</div>
+</osisText>
+</osis>
