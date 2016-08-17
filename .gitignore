@@ -2,3 +2,4 @@ built/
 USFM-Tools/
 format-tools/
 osis2html/
+*.pyc
