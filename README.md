@@ -24,22 +24,13 @@
 
 > *Annals of Philadelphia*. John Fanning Watson, 1850.
 
-Although, as stated above, Thomson himself gave very little information
-regarding the background of his historic translation, including what Greek
-source text he used, S.F. Pells states in the introduction to his 1904
-reprinting that the translation matches the Greek of the Vatican Text.
-
-The Vatican Text which Thomson purchased would have been an edition (apparently
-in two volumes) based on the Roman Septuagint commissioned by Pope Sixtus V,
-and published in 1587. There were many such editions (although volume count
-varied) printed in the 17th and early 18th centuries which could have found
-their way into a shop in Philadelphia by the second half of the 18th century
-(Thomson himself spent 19 years on his translation). Perhaps most noteworthy of
-these printings is the 1709 Frankfurt *Vetus Testamentum, Ex Versione lxx.
-Interpretum*, printed as four books in two volumes by Lambert Bos.
-
-The text of the *Codex Vaticanus* (the uncial manuscript identified with siglum
-**B**) is dated to the first half of the 4th century AD.
+Thomson used as his source text the so-called *Cambridge Septuagint*, printed
+at Cambridge in 1665 by John Field. This was an edition of the Roman
+Septuagint, which was originally commissioned by Pope Sixtus V, and was
+published in 1587. It reproduced the text of the *Vatican Codex* (the uncial
+manuscript identified with siglum **B**), which is a very early manuscript,
+dated to the first half of the 4th century AD. Thomson labored on his
+*Holy Bible* for 19 years, and published the translation in 1808.
 
 The English text itself has become relegated to obscurity, almost entirely
 superseded by Sir Lancelot C.L. Brenton's 1844 *Septuagint Version in English*,
