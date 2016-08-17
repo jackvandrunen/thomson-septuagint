@@ -12,7 +12,7 @@
 <title level="3" type="main">Of Solomon</title>
 <title level="2" type="main">ΠΑΡΟΙΜΙΑΙ</title>
 <chapter osisID="Prov.1" sID="Prov.1"/>
-<p type="x-indented-1">
+<p type="x-embedded">
 <verse osisID="Prov.1.1" sID="Prov.1.1"/>The Proverbs of David's son Solomon, who reigned over Israel,<verse eID="Prov.1.1"/>
 <verse osisID="Prov.1.2" sID="Prov.1.2"/>to give a knowledge of wisdom and instruction—the perception of the words of prudence—<verse eID="Prov.1.2"/>
 <verse osisID="Prov.1.3" sID="Prov.1.3"/>the interpretation of sentences—a discernment of true justice; and to direct judgment,<verse eID="Prov.1.3"/>
@@ -1306,7 +1306,7 @@ My son, be awed by these words of mine, receive them and reform.<verse eID="Prov
 <verse osisID="Prov.24.33" sID="Prov.24.33"/>I am dozing a little—just taking a short nap—just infolding my breast with my hands.<verse eID="Prov.24.33"/>
 <verse osisID="Prov.24.34" sID="Prov.24.34"/>If such indeed be thy conduct; poverty will come upon thee like a traveller and want like a swift courier.<verse eID="Prov.24.34"/></p><chapter eID="Prov.24"/>
 <chapter osisID="Prov.25" sID="Prov.25"/>
-<p type="x-indented-1">
+<p type="x-embedded">
 <verse osisID="Prov.25.1" sID="Prov.25.1"/>These are the detached instructions of Solomon which the friends of Hezekias king of Judea copied out.</p>
 <p><verse eID="Prov.25.1"/>
 <verse osisID="Prov.25.2" sID="Prov.25.2"/>The glory of God obscureth a matter: but the glory of a king giveth a lustre to actions.<verse eID="Prov.25.2"/></p>
