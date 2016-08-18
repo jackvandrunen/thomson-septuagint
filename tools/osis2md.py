@@ -1,11 +1,9 @@
 import bs4
 import re
-import textwrap
 
 
 def clean_text(text):
     text = ' '.join(text.strip().split())
-    text = text.replace('—', '--')
     return text
 
 
@@ -83,11 +81,10 @@ def osis2md(osis):
         if element.get('type') == 'book':
             _format_text(element, result, footnotes)
             break
-    result.append('\n\n')
+    result.append('\n\n---\n\n')
     for note_id, footnote in enumerate(footnotes, 1):
         result.append('<a name="note-{0}"></a>**[{0}]** {1}  \n'.format(note_id, footnote))
-    w = textwrap.TextWrapper(width=79, break_long_words=False, replace_whitespace=False)
-    return '{0}\n'.format(w.fill(''.join(result)))
+    return '{0}\n'.format(''.join(result))
 
 
 if __name__ == '__main__':

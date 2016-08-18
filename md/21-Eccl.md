@@ -3,526 +3,133 @@
 
 #### Chapter 1
 
- **1** The words of the
-preacher the son of David, king of Israel in Jerusalem.
+ **1** The words of the preacher the son of David, king of Israel in Jerusalem.
 
- **2** Vanity of
-vanities, said the preacher. Vanity of vanities. All is vanity.
+ **2** Vanity of vanities, said the preacher. Vanity of vanities. All is vanity.
 
- **3** What
-lasting advantage hath a man by all the labour with which he toileth under the
-sun? **4** One generation passeth away and another cometh. But the earth hath
-continually kept its station.
+ **3** What lasting advantage hath a man by all the labour with which he toileth under the sun? **4** One generation passeth away and another cometh. But the earth hath continually kept its station.
 
- **5** The sun riseth and the sun setteth and
-cometh round to his place. **6** Rising there he marcheth southward, then
-wheeleth about to the north. The wind wheeleth in circuits, and in its circuits
-it returneth. **7** All the rivers run into the sea, yet the sea is not filled.
-To the place whence the rivers come, thither they return to continue their
-course. **8** All these considerations are wearisome. Man cannot recount them:
-nor can the eye be satisfied with seeing; nor the ear filled with hearing.
-**9** What is that which hath been? The very same which shall be. And what is
-that which hath been done? The very same which shall be done: for there is
-nothing entirely new under the sun. **10** Who can speak and say, Behold this
-is entirely new. It hath been already in the ages past which were before us.
-**11** There is no remembrance of former things: and of those things which
-shall happen hereafter, there will be no remembrance among them who shall be
-born at a remote period. **12** I the preacher was king over Israel in
-Jerusalem;
+ **5** The sun riseth and the sun setteth and cometh round to his place. **6** Rising there he marcheth southward, then wheeleth about to the north. The wind wheeleth in circuits, and in its circuits it returneth. **7** All the rivers run into the sea, yet the sea is not filled. To the place whence the rivers come, thither they return to continue their course. **8** All these considerations are wearisome. Man cannot recount them: nor can the eye be satisfied with seeing; nor the ear filled with hearing.
 
- **13** and I applied my heart to seek and make diligent search by
-wisdom concerning all the things which are done on the earth. Because God hath
-assigned to the sons of men painful employment, that they may be kept employed,
-**14** I took a view of all the different sorts of work which are done under
-the sun. And behold they are all vanity and vexation of spirit. **15** That
-which is crooked cannot be made straight, nor can wants be numbered.
+ **9** What is that which hath been? The very same which shall be. And what is that which hath been done? The very same which shall be done: for there is nothing entirely new under the sun. **10** Who can speak and say, Behold this is entirely new. It hath been already in the ages past which were before us. **11** There is no remembrance of former things: and of those things which shall happen hereafter, there will be no remembrance among them who shall be born at a remote period. **12** I the preacher was king over Israel in Jerusalem;
 
- **16** I
-communed with my heart, saying, Behold I am become great and have made advances
-in wisdom above all who were before me in Jerusalem. And I have applied my mind
-to know wisdom and knowledge. **17** And my mind hath taken a view of many
-things--of wisdom and knowledge--of parables and science. I have found by
-experience that this also is indeed vexation of spirit. **18** Because by much
-wisdom there is much knowledge; and he who addeth to his knowledge will add to
-his sorrow;
+ **13** and I applied my heart to seek and make diligent search by wisdom concerning all the things which are done on the earth. Because God hath assigned to the sons of men painful employment, that they may be kept employed, **14** I took a view of all the different sorts of work which are done under the sun. And behold they are all vanity and vexation of spirit. **15** That which is crooked cannot be made straight, nor can wants be numbered.
+
+ **16** I communed with my heart, saying, Behold I am become great and have made advances in wisdom above all who were before me in Jerusalem. And I have applied my mind to know wisdom and knowledge. **17** And my mind hath taken a view of many things—of wisdom and knowledge—of parables and science. I have found by experience that this also is indeed vexation of spirit. **18** Because by much wisdom there is much knowledge; and he who addeth to his knowledge will add to his sorrow;
 
 #### Chapter 2
 
- **1** I said in my heart, Come now let me try
-thee with pleasure. Take a view of that considered as a good. But behold this
-also is vanity. **2** To laughter I said, It is madness; and to mirth, What is
-this thou art doing?
+ **1** I said in my heart, Come now let me try thee with pleasure. Take a view of that considered as a good. But behold this also is vanity. **2** To laughter I said, It is madness; and to mirth, What is this thou art doing?
 
- **3** Now I had examined whether my mind could lead my
-flesh to wine; and my mind had led it with wisdom, retaining a command over
-pleasure, until I should see of what sort that good is, which the sons of men
-are to pursue under the sun, all the days of their life. **4** I enlarged my
-plan of operations. I built me houses. I planted me vineyards. **5** I made me
-gardens and orchards and planted therein all sorts of fruit trees. **6** I made
-me pools of water, to water from them my blooming nurseries. **7** I purchased
-men servants and maid servants; and had servants born in my family. And my
-stock of herds and flocks was great above all who were before me in Jerusalem.
-**8** I collected also for myself silver and gold and the choicest treasures of
-kings and countries. I got me men singers and women singers, and the delights
-of the sons of men--a butler and the requisites to entertainments. **9** And I
-was great and surpassed all who had been before me in Jerusalem; and still my
-wisdom continued with me. **10** And whatever mine eyes desired I withheld not
-from them, nor did I restrain my heart from all my pleasure. Because my heart
-had been gladdened with all my labour, (now this was my portion from all my
-labour) **11** therefore I looked back on all the works which my hands had
-done, and on the labour with which I had toiled to execute them; and behold all
-was vanity and vexation of spirit and there is no lasting advantage under the
-sun.
+ **3** Now I had examined whether my mind could lead my flesh to wine; and my mind had led it with wisdom, retaining a command over pleasure, until I should see of what sort that good is, which the sons of men are to pursue under the sun, all the days of their life. **4** I enlarged my plan of operations. I built me houses. I planted me vineyards. **5** I made me gardens and orchards and planted therein all sorts of fruit trees. **6** I made me pools of water, to water from them my blooming nurseries. **7** I purchased men servants and maid servants; and had servants born in my family. And my stock of herds and flocks was great above all who were before me in Jerusalem. **8** I collected also for myself silver and gold and the choicest treasures of kings and countries. I got me men singers and women singers, and the delights of the sons of men—a butler and the requisites to entertainments. **9** And I was great and surpassed all who had been before me in Jerusalem; and still my wisdom continued with me. **10** And whatever mine eyes desired I withheld not from them, nor did I restrain my heart from all my pleasure. Because my heart had been gladdened with all my labour, (now this was my portion from all my labour) **11** therefore I looked back on all the works which my hands had done, and on the labour with which I had toiled to execute them; and behold all was vanity and vexation of spirit and there is no lasting advantage under the sun.
 
- **12** Then I looked back to take a view of wisdom and madness and
-folly. In all the particulars which formed this deliberation (for who is the
-man equal to a compleat investigation) **13** I saw indeed that there is an
-advantage in wisdom above folly, like the advantage of light above darkness.
-**14** The wise man's eyes are in his head; but the fool walketh in darkness.
-Nevertheless I knew that one event will happen to them all. **15** Therefore I
-said in my heart, As the same event will happen to me as happeneth to the fool,
-why have I studied wisdom? Why communed abundantly with my heart? Because even
-this is vanity; (since out of an abundance the fool speaketh)-- **16** because
-there is no remembrance forever of the wise man more than of the fool (seeing
-the days are now coming when all shall be for gotten and the wise must die as
-well as the fool) **17** therefore I hated the whole of this life; because the
-work which was done under the sun was toilsome to me--because all are vanity
-and vexation of spirit: **18** and I hated all this labour of mine for which I
-am toiling under the sun; because I must leave it to a man who is coming after
-me; **19** and who knoweth whether he shall be a wise man or a fool? Now if he
-hath power over all my labour for which I have toiled and in which I have
-displayed wisdom under the sun; surely this is vanity.
+ **12** Then I looked back to take a view of wisdom and madness and folly. In all the particulars which formed this deliberation (for who is the man equal to a compleat investigation) **13** I saw indeed that there is an advantage in wisdom above folly, like the advantage of light above darkness. **14** The wise man's eyes are in his head; but the fool walketh in darkness. Nevertheless I knew that one event will happen to them all. **15** Therefore I said in my heart, As the same event will happen to me as happeneth to the fool, why have I studied wisdom? Why communed abundantly with my heart? Because even this is vanity; (since out of an abundance the fool speaketh)— **16** because there is no remembrance forever of the wise man more than of the fool (seeing the days are now coming when all shall be for gotten and the wise must die as well as the fool) **17** therefore I hated the whole of this life; because the work which was done under the sun was toilsome to me—because all are vanity and vexation of spirit: **18** and I hated all this labour of mine for which I am toiling under the sun; because I must leave it to a man who is coming after me; **19** and who knoweth whether he shall be a wise man or a fool? Now if he hath power over all my labour for which I have toiled and in which I have displayed wisdom under the sun; surely this is vanity.
 
- **20** Then I turned
-about that my heart might state distinctly in every labour of mine in which I
-had toiled under the sun; **21** that here is a man whose labour hath been with
-wisdom and with knowledge, and with ability; and there is a man to whom, though
-he did not labour fur him, he shall give his portion. Surely this is vanity and
-a great vexation-- **22** That such is the case with another man by all his
-labours and the vexation of his heart with which he toileth under the sun,
-**23** that all his days are days of sorrow and his employment grief, and even
-at night his heart hath no rest. Surely this is vanity.
+ **20** Then I turned about that my heart might state distinctly in every labour of mine in which I had toiled under the sun; **21** that here is a man whose labour hath been with wisdom and with knowledge, and with ability; and there is a man to whom, though he did not labour fur him, he shall give his portion. Surely this is vanity and a great vexation— **22** That such is the case with another man by all his labours and the vexation of his heart with which he toileth under the sun, **23** that all his days are days of sorrow and his employment grief, and even at night his heart hath no rest. Surely this is vanity.
 
   
-*An objection*
-**24** Hath not a man something good which he can eat and drink and which he
-can point out to his soul as a good by his labour?
+*An objection*  
+ **24** Hath not a man something good which he can eat and drink and which he can point out to his soul as a good by his labour?
 
   
 *The answer*  
- **25**
-With respect to that I saw indeed that even this is from the hand of God; for
-who can eat or who can drink without him? **26** For to the man who is good in
-his sight he hath given wisdom and knowledge and joy; and to the sinner he hath
-given the trouble of gathering and heaping up to give to him who is good in the
-sight of God. So that this also is vanity and vexation of spirit.
+ **25** With respect to that I saw indeed that even this is from the hand of God; for who can eat or who can drink without him? **26** For to the man who is good in his sight he hath given wisdom and knowledge and joy; and to the sinner he hath given the trouble of gathering and heaping up to give to him who is good in the sight of God. So that this also is vanity and vexation of spirit.
 
-#### Chapter
-3
+#### Chapter 3
 
- **1** Time is for all things: but there is a particular portion of time for
-every particular affair under heaven-- **2** a time to be born and a time to
-die--a time to plant and a time to root up what was planted-- **3** a time to
-kill and a time to heal--a time to pull down and a time to build up-- **4** a
-time to weep and a time to laugh--a time to mourn and a time to dance-- **5** a
-time to cast away stones and a time to gather stones together--a time to
-embrace and a time to refrain from embracing-- **6** a time to seek and a time
-to lose--a time to keep and a time to throw away-- **7** a time to rend and a
-time to sew--a time to be silent and a time to speak-- **8** a time to love and
-a time to hate--a time of war and a time of peace. **9** What is the lasting
-advantage of the agent from the things in which he laboureth? **10** I have
-taken a collective view of all the business which God hath assigned to the sons
-of men to be exercised therewith. **11** All the things which he made,
-considered as a whole, are good in his time. But with regard to all things
-considered as one whole, to them he hath assigned the whole age; so that no man
-can find out the work which God hath done from beginning to end. **12** I have
-found that there is no good in them **13** (I mean in regard to every man who
-eateth and drinketh, and can see good in all his labour) if there is not a gift
-of God that he may be made glad and do good in his life. **14** I have found
-that all the things which God hath made shall continue their age; there is no
-adding to it nor taking from it; and that God hath acted that they may be awed
-at his presence. **15** What hath been is now; and what are to be have already
-been; and God will find out him who is persecuted: **16** and yet I saw under
-the sun a place of judgment; was the wicked there? and a place for the just;
-was the pious there? **17** Then I said in my heart God will judge the whole
-class of the righteous, and the whole class of the wicked. For there is a time
-for every thing; and he is there over all the work.
+ **1** Time is for all things: but there is a particular portion of time for every particular affair under heaven— **2** a time to be born and a time to die—a time to plant and a time to root up what was planted— **3** a time to kill and a time to heal—a time to pull down and a time to build up— **4** a time to weep and a time to laugh—a time to mourn and a time to dance— **5** a time to cast away stones and a time to gather stones together—a time to embrace and a time to refrain from embracing— **6** a time to seek and a time to lose—a time to keep and a time to throw away— **7** a time to rend and a time to sew—a time to be silent and a time to speak— **8** a time to love and a time to hate—a time of war and a time of peace. **9** What is the lasting advantage of the agent from the things in which he laboureth? **10** I have taken a collective view of all the business which God hath assigned to the sons of men to be exercised therewith. **11** All the things which he made, considered as a whole, are good in his time. But with regard to all things considered as one whole, to them he hath assigned the whole age; so that no man can find out the work which God hath done from beginning to end. **12** I have found that there is no good in them **13** (I mean in regard to every man who eateth and drinketh, and can see good in all his labour) if there is not a gift of God that he may be made glad and do good in his life. **14** I have found that all the things which God hath made shall continue their age; there is no adding to it nor taking from it; and that God hath acted that they may be awed at his presence. **15** What hath been is now; and what are to be have already been; and God will find out him who is persecuted: **16** and yet I saw under the sun a place of judgment; was the wicked there? and a place for the just; was the pious there? **17** Then I said in my heart God will judge the whole class of the righteous, and the whole class of the wicked. For there is a time for every thing; and he is there over all the work.
 
- **18** I communed with my
-heart concerning a saying of the sons of men, "That God distinguisheth them."
-Now in order to shew that they themselves are beasts, **19** that at least
-which befalleth man, befalleth them; and that which befalleth the beast
-befalleth man. The same event happeneth to both. As the one dieth, so doth the
-other. And they have all one breath. What advantage then hath man over the
-beast? None: for all are vanity. **20** They are all for one place. They were
-all from dust: and to dust they shall all return. **21** And who hath seen the
-breath of the sons of men whether it ascendeth upwards; and the breath of the
-beast, whether it descendeth downwards into the earth? **22** So I saw that
-there is nothing good in the works of man, but that by which he can be made
-glad; for that is his portion, for who will bring him to see what will be after
-him?
+ **18** I communed with my heart concerning a saying of the sons of men, "That God distinguisheth them." Now in order to shew that they themselves are beasts, **19** that at least which befalleth man, befalleth them; and that which befalleth the beast befalleth man. The same event happeneth to both. As the one dieth, so doth the other. And they have all one breath. What advantage then hath man over the beast? None: for all are vanity. **20** They are all for one place. They were all from dust: and to dust they shall all return. **21** And who hath seen the breath of the sons of men whether it ascendeth upwards; and the breath of the beast, whether it descendeth downwards into the earth? **22** So I saw that there is nothing good in the works of man, but that by which he can be made glad; for that is his portion, for who will bring him to see what will be after him?
 
 #### Chapter 4
 
- **1** Then I turned and took a view of all the different
-sorts of oppression under the sun; and behold the tear of the oppressed and
-they have no comforter. Though from the hand of oppressors some have relief;
-yet others have no comforter. **2** Therefore I praised the whole body of the
-dead--those who were already dead, above the living--those who are still alive:
-**3** but better than both is he who hath never been--who hath not seen all the
-evil work which is done under the sun.
+ **1** Then I turned and took a view of all the different sorts of oppression under the sun; and behold the tear of the oppressed and they have no comforter. Though from the hand of oppressors some have relief; yet others have no comforter. **2** Therefore I praised the whole body of the dead—those who were already dead, above the living—those who are still alive: **3** but better than both is he who hath never been—who hath not seen all the evil work which is done under the sun.
 
- **4** In the review of labour in
-general, I took a view in particular of manly exertion in executing. Because
-this causeth a man to be envied by his neighbour, this therefore is vanity and
-vexation of spirit. **5** The fool folded his hands and devouring his flesh
-said, **6** "Better is one handful of rest than two handfuls of labour and
-vexation of spirit."
+ **4** In the review of labour in general, I took a view in particular of manly exertion in executing. Because this causeth a man to be envied by his neighbour, this therefore is vanity and vexation of spirit. **5** The fool folded his hands and devouring his flesh said, **6** "Better is one handful of rest than two handfuls of labour and vexation of spirit."
 
- **7** Then I turned and took a view of a vanity under
-the sun; **8** Here is a single individual who hath no second; at least he hath
-neither son nor brother, yet there is no end to all his labour. His eye is not
-satisfied with riches, yet doth he say, For whom do I labour and deprive my
-soul of good? Surely this is vanity and a sore vexation. **9** two are better
-than one. They have a better reward for their labour. **10** For if they chance
-to fall the one can raise up his fellow. But alas for him who is alone, when he
-falleth and hath not another to raise him up. **11** Again if two lie together
-they have warmth: but how can one be warm who is alone? **12** Again though one
-should be strong the two may withstand him, and a three fold cord cannot easily
-be broken.
+ **7** Then I turned and took a view of a vanity under the sun; **8** Here is a single individual who hath no second; at least he hath neither son nor brother, yet there is no end to all his labour. His eye is not satisfied with riches, yet doth he say, For whom do I labour and deprive my soul of good? Surely this is vanity and a sore vexation. **9** two are better than one. They have a better reward for their labour. **10** For if they chance to fall the one can raise up his fellow. But alas for him who is alone, when he falleth and hath not another to raise him up. **11** Again if two lie together they have warmth: but how can one be warm who is alone? **12** Again though one should be strong the two may withstand him, and a three fold cord cannot easily be broken.
 
- **13** Better is a poor and wise subject than an old and foolish
-king who hath not yet learned how to conduct himself; **14** for out of prison
-he may come to reign. Because even in his own kingdom he was needy, **15** I
-took a view of the whole body of the living who were walking under the sun with
-the youth second in rank who is to succeed him. **16** There is no end of all
-the people--of all who resorted to them. Yet they who come last will have no
-joy in him. Surely this also is vanity and vexation of spirit.
+ **13** Better is a poor and wise subject than an old and foolish king who hath not yet learned how to conduct himself; **14** for out of prison he may come to reign. Because even in his own kingdom he was needy, **15** I took a view of the whole body of the living who were walking under the sun with the youth second in rank who is to succeed him. **16** There is no end of all the people—of all who resorted to them. Yet they who come last will have no joy in him. Surely this also is vanity and vexation of spirit.
 
 #### Chapter 5
-**1** Keep thy foot when thou goest to the house of God, and let thy sacrifice
-be a readiness to hear rather than the oblation of fools. Because they are not
-sensible that they do amiss, **2** be thou not rash with thy mouth; nor let thy
-heart be hasty to utter a word in the presence of God. Because God is in the
-heaven above, and thou art on the earth, let thy words there fore be few. **3**
-Because a dream cometh by much temptation, and a fool's voice with many words;
-**4** when thou vowest a vow to God delay not the performance of it. For in
-fools there is no fixed will. Pay thou therefore what thou vowest. **5** It is
-better not to vow, than to vow and not perform. **6** Suffer not thy mouth to
-cause thy flesh to sin, nor say in the presence of God, It was an inadvertence,
-that God may not be provoked to wrath by thy voice, and destroy the works of
-thy hands, **7** because it was with a multitude of dreams and vanities, and
-many words that thou fearest God.
 
- **8** If thou seest a frivolous accusation
-of a poor man, and a rigorous exaction of judgment and justice in a country,
-marvel not at the matter. Because there is a high one over a high one to watch,
-and high ones are for these things, **9** and the profit of land is for every
-one, a king is appendant to the cultivated field. **10** A lover of silver
-cannot be satisfied with silver; but did any one ever love what the abundance
-of this produceth? Surely this is vanity. **11** By an abundance of wealth they
-who consume it are multiplied. And what is the mighty advantage of the owner
-from it? That he hath the first sight of it with his eyes? **12** The sleep of
-the slave is sweet whether he eateth little or much. But the fulness of the
-rich suffereth him not to sleep.
+ **1** Keep thy foot when thou goest to the house of God, and let thy sacrifice be a readiness to hear rather than the oblation of fools. Because they are not sensible that they do amiss, **2** be thou not rash with thy mouth; nor let thy heart be hasty to utter a word in the presence of God. Because God is in the heaven above, and thou art on the earth, let thy words there fore be few. **3** Because a dream cometh by much temptation, and a fool's voice with many words; **4** when thou vowest a vow to God delay not the performance of it. For in fools there is no fixed will. Pay thou therefore what thou vowest. **5** It is better not to vow, than to vow and not perform. **6** Suffer not thy mouth to cause thy flesh to sin, nor say in the presence of God, It was an inadvertence, that God may not be provoked to wrath by thy voice, and destroy the works of thy hands, **7** because it was with a multitude of dreams and vanities, and many words that thou fearest God.
 
- **13** There is a weakness which I have seen
-under the sun: riches kept by one for his descendant to his own hurt. **14**
-Yet these riches acquired with grievous vexation shall perish, and he hath
-begotten a son, and there is nothing in his hand. **15** As he came naked out
-of his mother's womb, he shall turn about and go as he came. He shall take
-nothing by his labour to go with him in his hand. **16** Surely this a grievous
-weakness; for as he came, so he must depart. What then is his lasting
-advantage, for which he laboureth in vain; **17** and for which all his days
-are in darkness and mourning, and much grief and weakness and repining?
-**18** Behold I have seen a good which is comely, namely to eat and drink, and
-to have a good enjoyment in all the labour with which one toileth under the
-sun, the number of the days of his life which God hath given him; for this is
-his portion. **19** And every man indeed to whom God hath given riches and
-wealth, and granted him power to eat thereof, and to take his portion, hath by
-means of his being made glad in his labour, this further gift of God, **20**
-that he will not much remember the days of his life, because God occupieth him
-with the joy of his heart.
+ **8** If thou seest a frivolous accusation of a poor man, and a rigorous exaction of judgment and justice in a country, marvel not at the matter. Because there is a high one over a high one to watch, and high ones are for these things, **9** and the profit of land is for every one, a king is appendant to the cultivated field. **10** A lover of silver cannot be satisfied with silver; but did any one ever love what the abundance of this produceth? Surely this is vanity. **11** By an abundance of wealth they who consume it are multiplied. And what is the mighty advantage of the owner from it? That he hath the first sight of it with his eyes? **12** The sleep of the slave is sweet whether he eateth little or much. But the fulness of the rich suffereth him not to sleep.
+
+ **13** There is a weakness which I have seen under the sun: riches kept by one for his descendant to his own hurt. **14** Yet these riches acquired with grievous vexation shall perish, and he hath begotten a son, and there is nothing in his hand. **15** As he came naked out of his mother's womb, he shall turn about and go as he came. He shall take nothing by his labour to go with him in his hand. **16** Surely this a grievous weakness; for as he came, so he must depart. What then is his lasting advantage, for which he laboureth in vain; **17** and for which all his days are in darkness and mourning, and much grief and weakness and repining?
+
+ **18** Behold I have seen a good which is comely, namely to eat and drink, and to have a good enjoyment in all the labour with which one toileth under the sun, the number of the days of his life which God hath given him; for this is his portion. **19** And every man indeed to whom God hath given riches and wealth, and granted him power to eat thereof, and to take his portion, hath by means of his being made glad in his labour, this further gift of God, **20** that he will not much remember the days of his life, because God occupieth him with the joy of his heart.
 
 #### Chapter 6
 
- **1** There is an evil which I
-have seen under the sun, and it is common among men-- **2** a man to whom God
-giveth riches and wealth and glory, so that he wanteth nothing for his soul of
-all that he can desire; but God granteth him not a power to eat thereof. In as
-much as a stranger is to devour it, this is vanity and grievous infirmity.
-**3** Though a man should beget a hundred children and live many years, if
-during that multitude of years which his days shall continue, his soul shall
-not be satisfied with an enjoyment of good, and he hath got no burying place, I
-conclude that an Abortive is better than he. **4** Grant that it came in vanity
-and goeth away in darkness; with darkness also his name shall be covered! **5**
-It indeed never saw the light; and he never knew rest: it hath an advantage
-over him **6** though he had lived the revolutions of a thousand years, if he
-never enjoyed good. Do not all go to one place?
+ **1** There is an evil which I have seen under the sun, and it is common among men— **2** a man to whom God giveth riches and wealth and glory, so that he wanteth nothing for his soul of all that he can desire; but God granteth him not a power to eat thereof. In as much as a stranger is to devour it, this is vanity and grievous infirmity. **3** Though a man should beget a hundred children and live many years, if during that multitude of years which his days shall continue, his soul shall not be satisfied with an enjoyment of good, and he hath got no burying place, I conclude that an Abortive is better than he. **4** Grant that it came in vanity and goeth away in darkness; with darkness also his name shall be covered! **5** It indeed never saw the light; and he never knew rest: it hath an advantage over him **6** though he had lived the revolutions of a thousand years, if he never enjoyed good. Do not all go to one place?
 
- **7** All the labour of a man
-is for the mouth; yet the appetite will not be satisfied: **8** here then a
-wise man hath the advantage over a fool; since the poor man knoweth that to
-pass through life, **9** what he sees with the eyes is better for him than to
-be wandering after appetite, which is indeed vanity and vexation of spirit.
-**10** Whatever hath been is now called by its name, and it is known what man
-is who cannot contend with one who is stronger than he.
+ **7** All the labour of a man is for the mouth; yet the appetite will not be satisfied: **8** here then a wise man hath the advantage over a fool; since the poor man knoweth that to pass through life, **9** what he sees with the eyes is better for him than to be wandering after appetite, which is indeed vanity and vexation of spirit.
 
- **11** Since there
-are many arguments to prove the abundance of vanity; is there any one thing
-better than another for man? **12** Doth any one know what is good for man in
-this life? All the days of his life of vanity he hath indeed done these things
-under a shade; is there any who can tell him what will be after him under the
-sun?
+ **10** Whatever hath been is now called by its name, and it is known what man is who cannot contend with one who is stronger than he.
+
+ **11** Since there are many arguments to prove the abundance of vanity; is there any one thing better than another for man? **12** Doth any one know what is good for man in this life? All the days of his life of vanity he hath indeed done these things under a shade; is there any who can tell him what will be after him under the sun?
 
 #### Chapter 7
 
- **1** A good name is better than precious oil; and the
-day of death, than a birth day. **2** It is better to go to a house of mourning
-than to a house of feasting. As that is the end of every man therefore the
-living will improve his understanding. **3** Grief is better than laughter; for
-by a sadness of countenance a heart may be made better. **4** The heart of the
-wise is in a house of mourning; but the heart of fools, in a house of mirth.
-**5** It is better for a man to hear the rebuke of the wise, than to listen to
-the song of fools. **6** Like the crackling of thorns under a pot, so is the
-laughter of fools. Surely this also is vanity. **7** Because oppression
-distracteth a wise man and destroyeth his good disposition, the final sentence
-is better than such a government. **8** Better is a patient man than one of a
-haughty spirit.
+ **1** A good name is better than precious oil; and the day of death, than a birth day. **2** It is better to go to a house of mourning than to a house of feasting. As that is the end of every man therefore the living will improve his understanding. **3** Grief is better than laughter; for by a sadness of countenance a heart may be made better. **4** The heart of the wise is in a house of mourning; but the heart of fools, in a house of mirth. **5** It is better for a man to hear the rebuke of the wise, than to listen to the song of fools. **6** Like the crackling of thorns under a pot, so is the laughter of fools. Surely this also is vanity. **7** Because oppression distracteth a wise man and destroyeth his good disposition, the final sentence is better than such a government. **8** Better is a patient man than one of a haughty spirit.
 
- **9** Be not apt to be grieved in spirit; for grief will rest
-in the bosom of fools. **10** Say not, How happened it that the former days
-were better than these? For thou hast not inquired wisely concerning this.
-**11** Wisdom is good with an inheritance; and it is an advantage to them who
-see the sun, that they are in the shade of it. **12** Wisdom is like the shade
-of money; but the advantage of the knowledge of wisdom is--it will give life to
-him who is a follower of it. **13** Contemplate the works of God; for who can
-make him straight whom God hath made crooked. **14** In the days of prosperity
-enjoy good; but consider in the day of adversity--consider that God hath made
-the one in due proportion to the other, forming a whole, as hath been said,
-that man cannot find out any of his ways.
+ **9** Be not apt to be grieved in spirit; for grief will rest in the bosom of fools. **10** Say not, How happened it that the former days were better than these? For thou hast not inquired wisely concerning this. **11** Wisdom is good with an inheritance; and it is an advantage to them who see the sun, that they are in the shade of it. **12** Wisdom is like the shade of money; but the advantage of the knowledge of wisdom is—it will give life to him who is a follower of it. **13** Contemplate the works of God; for who can make him straight whom God hath made crooked. **14** In the days of prosperity enjoy good; but consider in the day of adversity—consider that God hath made the one in due proportion to the other, forming a whole, as hath been said, that man cannot find out any of his ways.
 
- **15** In the days of my vanity I
-took a view of all classes. Here is a righteous man perishing for his righteous
-act: there a wicked man continuing in his wickedness. **16** Be not over
-righteous; nor dive too far into wisdom, lest peradventure thou be struck with
-astonishment. **17** Run not into an excess of wickedness nor become hardened,
-that thou mayst not die untimely. **18** It is good to restrain thyself in the
-one case; and surely for the other consideration thou shouldst not pollute thy
-hand. Because to them who fear God all things may happen, **19** wisdom will
-help the wise man more than ten mighty men who are in the city. **20** Because
-there is not a righteous man on earth who will do good and not commit sin,
-**21** therefore thou shouldst not pay too close attention to all the words
-which the wicked shall utter, that thou mayst not hear thy servant cursing
-thee. **22** For many a time he may revile thee and in many ways vex thy heart,
-because thou perhaps in like manner didst curse others.
+ **15** In the days of my vanity I took a view of all classes. Here is a righteous man perishing for his righteous act: there a wicked man continuing in his wickedness. **16** Be not over righteous; nor dive too far into wisdom, lest peradventure thou be struck with astonishment. **17** Run not into an excess of wickedness nor become hardened, that thou mayst not die untimely. **18** It is good to restrain thyself in the one case; and surely for the other consideration thou shouldst not pollute thy hand. Because to them who fear God all things may happen, **19** wisdom will help the wise man more than ten mighty men who are in the city. **20** Because there is not a righteous man on earth who will do good and not commit sin, **21** therefore thou shouldst not pay too close attention to all the words which the wicked shall utter, that thou mayst not hear thy servant cursing thee. **22** For many a time he may revile thee and in many ways vex thy heart, because thou perhaps in like manner didst curse others.
 
- **23** Having proved
-all these things by wisdom, I said, Let me investigate the cause. But that was
-far removed from me; farther than it was. **24** It is indeed a deep depth, who
-can find it out?
+ **23** Having proved all these things by wisdom, I said, Let me investigate the cause. But that was far removed from me; farther than it was. **24** It is indeed a deep depth, who can find it out?
 
- **25** I took a circuit with my heart to know and examine
-carefully and to seek wisdom and a mode of calculating, and to gain a knowledge
-of a particular folly and disquietude and madness of one destitute of the fear
-of God; and I find and an declare, **26** That bitterer than death is that
-whole class of women who are prostitutes. Though their heart is nets and their
-hands chains, he who is good in the sight of God shall be delivered from them;
-but a sinner shall be taken by them. **27** Behold this I found (said the
-preacher) **28** examining them one by one to find a class which my soul
-earnestly sought, but I did not find: though I found one man of a thousand, yet
-a woman among all these I did not find: but behold this I found, that **29**
-God made mankind upright; but they have found out many classes.
+ **25** I took a circuit with my heart to know and examine carefully and to seek wisdom and a mode of calculating, and to gain a knowledge of a particular folly and disquietude and madness of one destitute of the fear of God; and I find and an declare, **26** That bitterer than death is that whole class of women who are prostitutes. Though their heart is nets and their hands chains, he who is good in the sight of God shall be delivered from them; but a sinner shall be taken by them. **27** Behold this I found (said the preacher) **28** examining them one by one to find a class which my soul earnestly sought, but I did not find: though I found one man of a thousand, yet a woman among all these I did not find: but behold this I found, that **29** God made mankind upright; but they have found out many classes.
 
 #### Chapter 8
-**1** Doth any one know wise men? Doth any one know the solution of a matter?
-Wisdom will make his countenance shine; but one of an unblushing countenance
-will be hated.
 
- **2** Watch the mouth of a king, and in regard to the oath of
-God be not impatient. **3** From his presence thou mayst withdraw. Stay not
-when he giveth wicked orders; for he will do what he pleaseth, **4** as a king
-is absolute; and who can say to him, What dost thou? **5** He who keepeth a
-command will not acknowledge it to be--a wicked order; but a wise man's heart
-knoweth the time of judgment, that--there is a time and a judgment for
-everything. **6** Because the man's determination may be much against him--
-**7** because none knoweth what may happen, who can tell him what may come to
-pass? **8** No man is absolute commander over wind to stop the current of it,
-and over the day of death he hath no authority; nor is there a discharge in the
-day of battle; nor can wickedness save him who is under its sway.
+ **1** Doth any one know wise men? Doth any one know the solution of a matter? Wisdom will make his countenance shine; but one of an unblushing countenance will be hated.
 
- **9**
-Having taken a view of this as a whole, I applied my heart to every work which
-is done under the sun--to all those things in which man exerciseth authority
-over man to his hurt. **10** And I then saw wicked men carried to their graves,
-even out of this holy place; and when they were gone, they were praised in the
-city, because they had done as they did. Surely this is vanity. **11** Because
-those who do evil are not speedily called to an account, therefore the heart of
-the children of men is fully set in them to do evil. **12** He who sinned
-continued thenceforward to do evil, even because of the forbearance shewn to
-them. Now as I know that it is good for them who fear God, that they should be
-awed by his presence; **13** and that it cannot be well with the wicked; and
-that he who is not awed by the presence of God cannot prolong his days at ease;
-this which is practised on earth is vanity.
+ **2** Watch the mouth of a king, and in regard to the oath of God be not impatient. **3** From his presence thou mayst withdraw. Stay not when he giveth wicked orders; for he will do what he pleaseth, **4** as a king is absolute; and who can say to him, What dost thou? **5** He who keepeth a command will not acknowledge it to be—a wicked order; but a wise man's heart knoweth the time of judgment, that—there is a time and a judgment for everything. **6** Because the man's determination may be much against him— **7** because none knoweth what may happen, who can tell him what may come to pass? **8** No man is absolute commander over wind to stop the current of it, and over the day of death he hath no authority; nor is there a discharge in the day of battle; nor can wickedness save him who is under its sway.
 
- **14** Because there are
-righteous men on whom cometh as it were the work of the wicked; and because
-there are wicked men on whom cometh, as it were, the work of the righteous, I
-said that this is also surely vanity; **15** and I praised pleasurable
-enjoyment, because there is nothing good for men under the sun--nothing save
-eating and drinking and being made glad; and this one may have conjoined with
-his labour all the days of his life which God giveth him under the sun.
-**16** In all those things to which I applied my heart to know wisdom and to
-take a view of the business which is done on the earth; because day and night
-this is never at rest, **17** therefore took a view of all the works of God in
-classes; for man is incapable of finding out the whole system of things under
-the sun. Let a man labour ever so much in the search he cannot find it out; and
-let a wise man say ever so much of knowing he cannot find it; for this cause I
-laid this whole system before my heart, and my heart took a view of it.
+ **9** Having taken a view of this as a whole, I applied my heart to every work which is done under the sun—to all those things in which man exerciseth authority over man to his hurt. **10** And I then saw wicked men carried to their graves, even out of this holy place; and when they were gone, they were praised in the city, because they had done as they did. Surely this is vanity. **11** Because those who do evil are not speedily called to an account, therefore the heart of the children of men is fully set in them to do evil. **12** He who sinned continued thenceforward to do evil, even because of the forbearance shewn to them. Now as I know that it is good for them who fear God, that they should be awed by his presence; **13** and that it cannot be well with the wicked; and that he who is not awed by the presence of God cannot prolong his days at ease; this which is practised on earth is vanity.
 
-####
-Chapter 9
+ **14** Because there are righteous men on whom cometh as it were the work of the wicked; and because there are wicked men on whom cometh, as it were, the work of the righteous, I said that this is also surely vanity; **15** and I praised pleasurable enjoyment, because there is nothing good for men under the sun—nothing save eating and drinking and being made glad; and this one may have conjoined with his labour all the days of his life which God giveth him under the sun.
 
- **1** As the righteous and the wise and their works are in the hand
-of God, man indeed knoweth not what to love or what to hate: with regard to all
-things before him there is vanity in them all. **2** The same event happeneth
-to the righteous and to the wicked; to the good, and to the bad; to the clean
-and to the unclean; to him who sacrificeth and to him who sacrificeth not: as
-is the good, so is the sinner; as is he who sweareth, so is he who feareth the
-oath. **3** There is this evil in every thing done under the sun, that one
-event happeneth to them all, so that the heart of the children of men being
-filled with evil there is an instability in their heart during their life, and
-it followeth them to the dead. **4** Because whoever is in society with all the
-living hath hope; because the dog which is alive is better than the lion which
-is dead-- **5** because they who are alive must know that they shall die; but
-the dead are not sensible of any thing and there is no more a portion for them
---because the remembrance of these is forgotten, **6** and their love and their
-hatred and their envy are already perished and they have no more forever a
-portion in any thing done under the sun; **7** come eat thy bread with
-cheerfulness, and drink thy wine with a good heart: because God hath approved
-of thy works, **8** let thy garments be always white; and let not oil be
-wanting on thy head: **9** enjoy life also with the wife whom thou lovest all
-the days of thy life of vanity which are given thee under the sun: for this is
-thy portion in this life of thine, and this thy labour with which thou toilest
-under the sun. **10** Whatever thy hand findeth to do, do it with all thy
-might; since there is no work, nor device, nor knowledge nor wisdom in the
-mansion of the dead to which thou must go.
+ **16** In all those things to which I applied my heart to know wisdom and to take a view of the business which is done on the earth; because day and night this is never at rest, **17** therefore took a view of all the works of God in classes; for man is incapable of finding out the whole system of things under the sun. Let a man labour ever so much in the search he cannot find it out; and let a wise man say ever so much of knowing he cannot find it; for this cause I laid this whole system before my heart, and my heart took a view of it.
 
- **11** Having turned about, I saw
-under the sun that the race is not to the swift, nor the battle to the mighty;
-nay not even bread to the wise, nor riches to men of understanding; nor favour
-to men of knowledge--that time and chance will happen to them all as forming
-one whole. **12** That man indeed no more knoweth his time than the fishes
-which are enclosed in an evil dredge, or than birds which are caught in a net.
-Like them the sons of men are drawn into an evil time when it cometh upon them
-suddenly.
+#### Chapter 9
 
- **13** This also I saw under the sun in regard to wisdom which with
-me is in high estimation. **14** There was a small city and few men in it. And
-there came against it a mighty king who besieged it and built great ramparts
-against it; **15** but he happened to find in it a poor wise beggar, and this
-man by his wisdom saved the city; yet no man remembered the class of this poor
-beggar. **16** Now I have said, Wisdom is better than power, yet the wisdom of
-this poor man is despised and his words are not regarded. **17** The words of
-wise men in a time of rest are more minded than the shout of men exercising
-authority in the bustles of folly. **18** Wisdom is better than implements of
-war. One sinner indeed will destroy much good.
+ **1** As the righteous and the wise and their works are in the hand of God, man indeed knoweth not what to love or what to hate: with regard to all things before him there is vanity in them all. **2** The same event happeneth to the righteous and to the wicked; to the good, and to the bad; to the clean and to the unclean; to him who sacrificeth and to him who sacrificeth not: as is the good, so is the sinner; as is he who sweareth, so is he who feareth the oath. **3** There is this evil in every thing done under the sun, that one event happeneth to them all, so that the heart of the children of men being filled with evil there is an instability in their heart during their life, and it followeth them to the dead. **4** Because whoever is in society with all the living hath hope; because the dog which is alive is better than the lion which is dead— **5** because they who are alive must know that they shall die; but the dead are not sensible of any thing and there is no more a portion for them—because the remembrance of these is forgotten, **6** and their love and their hatred and their envy are already perished and they have no more forever a portion in any thing done under the sun; **7** come eat thy bread with cheerfulness, and drink thy wine with a good heart: because God hath approved of thy works, **8** let thy garments be always white; and let not oil be wanting on thy head: **9** enjoy life also with the wife whom thou lovest all the days of thy life of vanity which are given thee under the sun: for this is thy portion in this life of thine, and this thy labour with which thou toilest under the sun. **10** Whatever thy hand findeth to do, do it with all thy might; since there is no work, nor device, nor knowledge nor wisdom in the mansion of the dead to which thou must go.
+
+ **11** Having turned about, I saw under the sun that the race is not to the swift, nor the battle to the mighty; nay not even bread to the wise, nor riches to men of understanding; nor favour to men of knowledge—that time and chance will happen to them all as forming one whole. **12** That man indeed no more knoweth his time than the fishes which are enclosed in an evil dredge, or than birds which are caught in a net. Like them the sons of men are drawn into an evil time when it cometh upon them suddenly.
+
+ **13** This also I saw under the sun in regard to wisdom which with me is in high estimation. **14** There was a small city and few men in it. And there came against it a mighty king who besieged it and built great ramparts against it; **15** but he happened to find in it a poor wise beggar, and this man by his wisdom saved the city; yet no man remembered the class of this poor beggar. **16** Now I have said, Wisdom is better than power, yet the wisdom of this poor man is despised and his words are not regarded. **17** The words of wise men in a time of rest are more minded than the shout of men exercising authority in the bustles of folly. **18** Wisdom is better than implements of war. One sinner indeed will destroy much good.
 
 #### Chapter 10
 
- **1** Dead
-flies will spoil the best prepared perfumes: but the smallest portion of wisdom
-is of more value than the greatest glory of folly. **2** The heart of a wise
-man is on his right: but the heart of a fool is at his left. **3** In every way
-at least when a fool is on his march his heart will fail him so that all which
-he shall devise is folly.
+ **1** Dead flies will spoil the best prepared perfumes: but the smallest portion of wisdom is of more value than the greatest glory of folly. **2** The heart of a wise man is on his right: but the heart of a fool is at his left. **3** In every way at least when a fool is on his march his heart will fail him so that all which he shall devise is folly.
 
- **4** If the spirit of a ruler rise up against
-thee, resign not thy place: for a reconciliation will mollify great offences.
-**5** There is an evil which I have seen under the sun as if something
-involuntary came forth from the presence of a person in authority. **6** The
-fool is set in high stations while the rich shall sit in a low place. **7** I
-have seen slaves on horseback and princes walking like slaves on the ground.
-**8** He who diggeth a pit may fall into it; and him, who is clearing away a
-hedge, a serpent may bite. **9** He who raiseth stones high may be overpowered
-by them; and he who cleareth wood will thereby incur danger. **10** If the axe
-shall fall, or one blunteth its edge and redoubled force is to be applied; the
-advantage will be in favour of the man who hath skill. **11** If a serpent
-biteth at an interval of charming, there is then no advantage in him who
-charmeth. **12** The words of a wise man's mouth are a charm; but the lips of a
-fool will swallow up himself. **13** The beginning of the words of his mouth is
-folly and the end of his talk is malicious madness. **14** Though the fool
-multiplieth words, a man doth not know what the matter is; and what that shall
-be which will follow who can tell him. **15** The labour of the foolish will
-tire them like that of one who knoweth not the way to a city.
+ **4** If the spirit of a ruler rise up against thee, resign not thy place: for a reconciliation will mollify great offences.
 
- **16** Alas for
-thee, city, whose king is a novice and whose chiefs eat in the morning. **17**
-Happy thou, land, whose king is a son of freemen and whose chiefs eat in due
-season for strength: and that they may not be put to shame. **18** By
-slothfulness the roof will fall, and by idleness of hands a house will become
-leaky, **19** so as to excite a derision of them who are providing bread and
-wine and oil that they may be regaled while living. But to the subjection of
-money all things will be obedient. **20** Therefore curse not a king in thy
-mind, and in the inmost recesses of thy bed chamber curse not a rich man: for a
-bird of the air will carry thy voice, and that which hath wings will tell thy
-saying.
+ **5** There is an evil which I have seen under the sun as if something involuntary came forth from the presence of a person in authority. **6** The fool is set in high stations while the rich shall sit in a low place. **7** I have seen slaves on horseback and princes walking like slaves on the ground.
+
+ **8** He who diggeth a pit may fall into it; and him, who is clearing away a hedge, a serpent may bite. **9** He who raiseth stones high may be overpowered by them; and he who cleareth wood will thereby incur danger. **10** If the axe shall fall, or one blunteth its edge and redoubled force is to be applied; the advantage will be in favour of the man who hath skill. **11** If a serpent biteth at an interval of charming, there is then no advantage in him who charmeth. **12** The words of a wise man's mouth are a charm; but the lips of a fool will swallow up himself. **13** The beginning of the words of his mouth is folly and the end of his talk is malicious madness. **14** Though the fool multiplieth words, a man doth not know what the matter is; and what that shall be which will follow who can tell him. **15** The labour of the foolish will tire them like that of one who knoweth not the way to a city.
+
+ **16** Alas for thee, city, whose king is a novice and whose chiefs eat in the morning. **17** Happy thou, land, whose king is a son of freemen and whose chiefs eat in due season for strength: and that they may not be put to shame. **18** By slothfulness the roof will fall, and by idleness of hands a house will become leaky, **19** so as to excite a derision of them who are providing bread and wine and oil that they may be regaled while living. But to the subjection of money all things will be obedient. **20** Therefore curse not a king in thy mind, and in the inmost recesses of thy bed chamber curse not a rich man: for a bird of the air will carry thy voice, and that which hath wings will tell thy saying.
 
 #### Chapter 11
 
- **1** Send away thy bread on the face of the water;
-for after many days thou shalt find it. **2** Give a portion to seven and even
-to eight; for thou knowest not what evil may be on the earth. **3** When the
-clouds are filled with rain they empty themselves on the earth: and if a tree
-falleth, whether it be to the south or north, in the place where it shall fall
-there it shall be. **4** He who observeth the wind will not sow; and he who
-looketh at the clouds will not reap. **5** In these cases there is no knowing
-which way the wind will blow. As thou knowest not how bones are formed in the
-womb of her who is with child; so thou canst not know the works of God--all
-that he shall do forming one system. **6** In the morning sow thy seed; and in
-the evening let not thy hand forbear; for thou knowest not which will succeed,
-whether this or that; and should both prosper alike, they are good.
+ **1** Send away thy bread on the face of the water; for after many days thou shalt find it. **2** Give a portion to seven and even to eight; for thou knowest not what evil may be on the earth. **3** When the clouds are filled with rain they empty themselves on the earth: and if a tree falleth, whether it be to the south or north, in the place where it shall fall there it shall be. **4** He who observeth the wind will not sow; and he who looketh at the clouds will not reap. **5** In these cases there is no knowing which way the wind will blow. As thou knowest not how bones are formed in the womb of her who is with child; so thou canst not know the works of God—all that he shall do forming one system. **6** In the morning sow thy seed; and in the evening let not thy hand forbear; for thou knowest not which will succeed, whether this or that; and should both prosper alike, they are good.
 
- **7**
-Light is indeed sweet, and it is grateful to the eyes to view the solar system;
-**8** yet because, though a man may live many years and be delighted in them
-all, he will still remember that the days of darkness are many; that all that
-is coming is vanity; **9** rejoice then, young man, in thy youth, and let thy
-heart cheer thee in the days of thy youth, and walk in the ways of thy heart
-spotless and not by the sight of thine eyes, and know that for all these things
-God will bring thee to judgment. **10** Therefore remove wrath from thy heart
-and put away evil from thy flesh.
+ **7** Light is indeed sweet, and it is grateful to the eyes to view the solar system; **8** yet because, though a man may live many years and be delighted in them all, he will still remember that the days of darkness are many; that all that is coming is vanity; **9** rejoice then, young man, in thy youth, and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart spotless and not by the sight of thine eyes, and know that for all these things God will bring thee to judgment. **10** Therefore remove wrath from thy heart and put away evil from thy flesh.
 
 #### Chapter 12
 
- **1** Because youth and
-thoughtlessness is vanity, therefore remember thy Creator in the days of thy
-youth; before the evil days come and the years draw nigh in which thou shalt
-say, I have no pleasure in them. **2** So long as the sun and the light and the
-moon and the stars are not involved in darkness, the clouds will return after
-rain. **3** When once the guards of the house are shaken, and the men of valour
-put to flight, and the grinding maids are idle, because reduced to a few, then
-shall the maids who look out at the windows be darkened, **4** and the doors of
-the market place will be shut at the feebleness o the voice of the grinding
-maid, which will be raised to the plaintive tone of the young ostrich; and all
-the daughters of the song will be brought low; **5** and they will look up to
-the height and there are terrors in the way. Though the almond tree shall have
-bloomed and the locust hath been fattened and the caper bush is shed, because
-the man is gone to his long home, therefore the mourners have made a circuit in
-the market place. **6** Until the silver cord can be wound up no more, and the
-golden bowl be broken, and the bucket broken at the well, and the wheel on the
-well shall run down with it, **7** and dust return to dust as it was, and the
-spirit return to God who gave it; **8** vanity of vanities, said the preacher;
-all things are vanity.
+ **1** Because youth and thoughtlessness is vanity, therefore remember thy Creator in the days of thy youth; before the evil days come and the years draw nigh in which thou shalt say, I have no pleasure in them. **2** So long as the sun and the light and the moon and the stars are not involved in darkness, the clouds will return after rain. **3** When once the guards of the house are shaken, and the men of valour put to flight, and the grinding maids are idle, because reduced to a few, then shall the maids who look out at the windows be darkened, **4** and the doors of the market place will be shut at the feebleness o the voice of the grinding maid, which will be raised to the plaintive tone of the young ostrich; and all the daughters of the song will be brought low; **5** and they will look up to the height and there are terrors in the way. Though the almond tree shall have bloomed and the locust hath been fattened and the caper bush is shed, because the man is gone to his long home, therefore the mourners have made a circuit in the market place. **6** Until the silver cord can be wound up no more, and the golden bowl be broken, and the bucket broken at the well, and the wheel on the well shall run down with it, **7** and dust return to dust as it was, and the spirit return to God who gave it; **8** vanity of vanities, said the preacher; all things are vanity.
 
- **9** And moreover, because the preacher was wise,
-because he taught mankind wisdom; that the ear might find what is comely from
-parables, **10** the preacher made diligent search to find pleasing words and a
-writing of rectitude--words of truth. **11** The words of the wise are like
-goads and nails ready made, which have been laid up in repositories from one
-shepherd to another. **12** What remaineth of them, my son, keep thou. There is
-no end of making many books. And much study is a weariness to the flesh.
-**13** As a conclusion of the discourse, hear thou the whole sum and
-substance.-- Fear God and keep his commandments: for this conclusion every man
-should draw, **14** That God will bring the whole work into judgment in every
-case not taken notice of, whether it be good or whether it be evil.
+ **9** And moreover, because the preacher was wise, because he taught mankind wisdom; that the ear might find what is comely from parables, **10** the preacher made diligent search to find pleasing words and a writing of rectitude—words of truth. **11** The words of the wise are like goads and nails ready made, which have been laid up in repositories from one shepherd to another. **12** What remaineth of them, my son, keep thou. There is no end of making many books. And much study is a weariness to the flesh.
+
+ **13** As a conclusion of the discourse, hear thou the whole sum and substance.— Fear God and keep his commandments: for this conclusion every man should draw, **14** That God will bring the whole work into judgment in every case not taken notice of, whether it be good or whether it be evil.
+
+
+---
+
+

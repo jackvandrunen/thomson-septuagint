@@ -3,200 +3,27 @@
 
 #### Chapter 1
 
- **1** Now when the Judges ruled, there was a
-famine in the land, and a man went from Bethlehem Juda to sojourn in the
-country of Moab, he and his wife and his two sons. **2** The man's name was
-Elimelech, and his wife's name was Noemin, and the names of his two sons,
-Maalon and Chelaion. They were Ephrathites of Bethlehem Juda. **3** They went
-to the country of Moab, and while they were there, Elimelech, the husband of
-Noemin, died, and she was left with her two sons. **4** And they took for
-themselves wives of the daughters of Moab, the name of the one was Orpha, and
-the name of the other Ruth. **5** And when they had dwelt there about ten
-years, both Maalon and Chelaion died, so that the woman was bereaved of her
-husband, and her two sons. **6** Whereupon she arose with her two daughters in
-law, and set out on her return from the country of Moab; for she had heard, in
-the country of Moab, that the Lord had visited his people in giving them bread.
-**7** So she set out from the place where she was with her two daughters in
-law. **8** And when they had travelled some part of the way on their return to
-the land of Juda, Noemin said to her two daughters in law, Go, I pray you,
-return each to her mother's house. **9** May the Lord deal kindly with you, as
-you have done with the dead, and with me. The Lord grant, that you may find
-rest, each in the house of her husband. **10** So she kissed them, and they
-wept aloud, and said to her, We will go back with thee to thy people. **11**
-But Noemin said, Return, I pray you, my daughters! for why should you go with
-me? Have I yet any more sons in my womb to be husbands for you? **12** Return,
-I pray you, my daughters! For I am too old to have a husband--for should I say,
-I am in condition to marry, and should I bear sons, would you wait for them
-till they grow up; **13** or should you be restrained by them from having
-husbands? No, my daughters. Indeed it grieveth me much for your sakes, that the
-hand of the Lord hath gone forth against me.
+ **1** Now when the Judges ruled, there was a famine in the land, and a man went from Bethlehem Juda to sojourn in the country of Moab, he and his wife and his two sons. **2** The man's name was Elimelech, and his wife's name was Noemin, and the names of his two sons, Maalon and Chelaion. They were Ephrathites of Bethlehem Juda. **3** They went to the country of Moab, and while they were there, Elimelech, the husband of Noemin, died, and she was left with her two sons. **4** And they took for themselves wives of the daughters of Moab, the name of the one was Orpha, and the name of the other Ruth. **5** And when they had dwelt there about ten years, both Maalon and Chelaion died, so that the woman was bereaved of her husband, and her two sons. **6** Whereupon she arose with her two daughters in law, and set out on her return from the country of Moab; for she had heard, in the country of Moab, that the Lord had visited his people in giving them bread. **7** So she set out from the place where she was with her two daughters in law. **8** And when they had travelled some part of the way on their return to the land of Juda, Noemin said to her two daughters in law, Go, I pray you, return each to her mother's house. **9** May the Lord deal kindly with you, as you have done with the dead, and with me. The Lord grant, that you may find rest, each in the house of her husband. **10** So she kissed them, and they wept aloud, and said to her, We will go back with thee to thy people. **11** But Noemin said, Return, I pray you, my daughters! for why should you go with me? Have I yet any more sons in my womb to be husbands for you? **12** Return, I pray you, my daughters! For I am too old to have a husband—for should I say, I am in condition to marry, and should I bear sons, would you wait for them till they grow up; **13** or should you be restrained by them from having husbands? No, my daughters. Indeed it grieveth me much for your sakes, that the hand of the Lord hath gone forth against me.
 
- **14** And when they had raised
-their voice, and wept again, Orpha kissed her mother in law, and returned to
-her people; but Ruth followed her. **15** Then Noemin said to Ruth; Behold thy
-sister in law is gone back to her people, and to her gods, return thou also, I
-pray thee, after thy sister in law. **16** Whereupon Ruth said, Force me not to
-leave thee, nor to return from following thee; for whither soever thou goest, I
-will go and wherever thou lodgest, I will lodge. Thy people shall be my people;
-and thy God, my God; and wherever thou diest, I will die, and there will I be
-buried. **17** The Lord do so to me and more also, if any thing but death shall
-part me and thee. **18** And when Noemin saw that she was steadfastly
-determined to go with her, she refrained from speaking to her any more. **19**
-So they both proceeded on till they came to Bethlehem. And when they arrived at
-Bethlehem, all the city was moved about them, and they said, Is this Noemin?
-**20** But she said to them, Call me not, I pray you, Noemin. Call me, Bitter:
-for the Almighty hath dealt very bitterly with me. **21** I went out full but
-the Lord hath brought me back empty. Why therefore do you call me Noemin,
-seeing the Lord hath brought me low, and the Almighty hath afflicted me?
-**22** Thus Noemin returned, with Ruth the Moabitess, her daughter in law; and
-having returned from the country of Moab, they came to Bethlehem, at the
-beginning of the barley harvest.
+ **14** And when they had raised their voice, and wept again, Orpha kissed her mother in law, and returned to her people; but Ruth followed her. **15** Then Noemin said to Ruth; Behold thy sister in law is gone back to her people, and to her gods, return thou also, I pray thee, after thy sister in law. **16** Whereupon Ruth said, Force me not to leave thee, nor to return from following thee; for whither soever thou goest, I will go and wherever thou lodgest, I will lodge. Thy people shall be my people; and thy God, my God; and wherever thou diest, I will die, and there will I be buried. **17** The Lord do so to me and more also, if any thing but death shall part me and thee. **18** And when Noemin saw that she was steadfastly determined to go with her, she refrained from speaking to her any more. **19** So they both proceeded on till they came to Bethlehem. And when they arrived at Bethlehem, all the city was moved about them, and they said, Is this Noemin? **20** But she said to them, Call me not, I pray you, Noemin. Call me, Bitter: for the Almighty hath dealt very bitterly with me. **21** I went out full but the Lord hath brought me back empty. Why therefore do you call me Noemin, seeing the Lord hath brought me low, and the Almighty hath afflicted me?
+
+ **22** Thus Noemin returned, with Ruth the Moabitess, her daughter in law; and having returned from the country of Moab, they came to Bethlehem, at the beginning of the barley harvest.
 
 #### Chapter 2
 
- **1** Now Noemin had a
-kinsman of her husband's; a mighty man of wealth, of the family of Elimelech,
-and his name was Boaz. **2** And Ruth the Moabitess said to Noemin, Let me go,
-I pray thee, into the field, and glean among the stubble after him in whose
-eyes I shall find favour. And she said to her, Go, my daughter. **3** So she
-went, and coming into a field, gleaned after the reapers. Now she happened to
-light upon the part of the field which belonged to Boaz, who was of the kindred
-of Elimelech. **4** And behold Boaz came from Bethlehem, and said to the
-reapers, The Lord be with you! And they said to him, The Lord bless thee. **5**
-Then Boaz said to his servant, who was set over the reapers, Whose damsel is
-that? **6** And the servant who was over the reapers said in reply, It is the
-Moabitess girl, who came with Noemin from the country of Moab. **7** She said,
-Let me, I pray thee, glean, and gather among the sheaves after the reapers. So
-she came, and hath been on her feet from early in the morning, and is
-continuing on till evening. She hath not rested a moment in the field. **8**
-Then Boaz said to Ruth, Hearest thou not, my daughter? Thou must not go to
-glean in any other field, nor must thou go hence, but abide here fast by my
-maids, **9** let thy eyes be on the field where they reap and go after them.
-Behold I have given a charge to my servants not to touch thee, and when thou
-art thirsty, go to the vessels, and drink of what the servants have drawn.
-**10** Upon which she fell on her face, and made an obeisance to the ground,
-and said to him, How have I found favour in thy sight, that thou shouldst take
-notice of me, seeing I am a stranger? **11** And Boaz in reply said to her, I
-have been fully informed of all that thou hast done to thy mother in law after
-the death of thy husband; and how thou hast left thy father, and thy mother,
-and the land of thy nativity, to come to a people whom thou knewest not
-heretofore. **12** The Lord recompense thy work, and may a full reward be given
-thee by the Lord God of Israel, to whom thou art come, to put thy trust under
-his wings. **13** And she said, Let me find favour in thy sight, my Lord, for
-thou hast comforted me. Now because thou hast spoken affectionately to thy
-servant, behold let me therefore be like one of thy maid servants. **14** Then
-Boaz said to her, It is now meal time, draw near, and eat of the bread, and dip
-thy morsel in the vinegar. So Ruth sat down by the side of the reapers. And
-Boaz helped her to a large piece of barley bread, so that she eat, and was
-satisfied, and had some left. **15** And when she arose to glean, Boaz gave a
-charge to his servants, saying, Let her glean among the sheaves, and put her
-not to the blush. **16** And when you carry out, carry out for her. Leave also
-for her some out of the bundles, and let her eat, and glean, and rebuke her
-not. **17** So she gleaned in the field till evening, and beat out what she had
-gathered, and it was about an epha of barley. And she took it up, and went to
-the city. **18** And when her mother in law saw what she had gathered, and Ruth
-had taken out, and given her some of the bread that was left after she had been
-satisfied, **19** her mother in law said to her, Where hast thou gleaned to
-day? And where hast thou been at work? Blessed be he who hath taken notice of
-thee. And when Ruth told her mother in law where she had been at work, and
-said, The man's name is Boaz, with whom I worked to day. **20** Noemin said to
-her daughter in law, Blessed is he of the Lord, because he hath not dropped his
-kindness to the living, nor to the dead. Then Noemin said to her, The man is
-near of kin to us. He is one of our nearest relations. **21** And Ruth said to
-her mother in law, Indeed he also said to me, Thou must keep close by my maids
-till they finish my whole harvest. **22** And Noemin said to her daughter in
-law Ruth, it is good my daughter that thou hast gone out with his maids,
-therefore let them not meet thee in another field. **23** So Ruth kept fast by
-the maids of Boaz, to glean till they finished the barley and wheat harvest.
+ **1** Now Noemin had a kinsman of her husband's; a mighty man of wealth, of the family of Elimelech, and his name was Boaz. **2** And Ruth the Moabitess said to Noemin, Let me go, I pray thee, into the field, and glean among the stubble after him in whose eyes I shall find favour. And she said to her, Go, my daughter. **3** So she went, and coming into a field, gleaned after the reapers. Now she happened to light upon the part of the field which belonged to Boaz, who was of the kindred of Elimelech. **4** And behold Boaz came from Bethlehem, and said to the reapers, The Lord be with you! And they said to him, The Lord bless thee. **5** Then Boaz said to his servant, who was set over the reapers, Whose damsel is that? **6** And the servant who was over the reapers said in reply, It is the Moabitess girl, who came with Noemin from the country of Moab. **7** She said, Let me, I pray thee, glean, and gather among the sheaves after the reapers. So she came, and hath been on her feet from early in the morning, and is continuing on till evening. She hath not rested a moment in the field. **8** Then Boaz said to Ruth, Hearest thou not, my daughter? Thou must not go to glean in any other field, nor must thou go hence, but abide here fast by my maids, **9** let thy eyes be on the field where they reap and go after them. Behold I have given a charge to my servants not to touch thee, and when thou art thirsty, go to the vessels, and drink of what the servants have drawn. **10** Upon which she fell on her face, and made an obeisance to the ground, and said to him, How have I found favour in thy sight, that thou shouldst take notice of me, seeing I am a stranger? **11** And Boaz in reply said to her, I have been fully informed of all that thou hast done to thy mother in law after the death of thy husband; and how thou hast left thy father, and thy mother, and the land of thy nativity, to come to a people whom thou knewest not heretofore. **12** The Lord recompense thy work, and may a full reward be given thee by the Lord God of Israel, to whom thou art come, to put thy trust under his wings. **13** And she said, Let me find favour in thy sight, my Lord, for thou hast comforted me. Now because thou hast spoken affectionately to thy servant, behold let me therefore be like one of thy maid servants. **14** Then Boaz said to her, It is now meal time, draw near, and eat of the bread, and dip thy morsel in the vinegar. So Ruth sat down by the side of the reapers. And Boaz helped her to a large piece of barley bread, so that she eat, and was satisfied, and had some left. **15** And when she arose to glean, Boaz gave a charge to his servants, saying, Let her glean among the sheaves, and put her not to the blush. **16** And when you carry out, carry out for her. Leave also for her some out of the bundles, and let her eat, and glean, and rebuke her not. **17** So she gleaned in the field till evening, and beat out what she had gathered, and it was about an epha of barley. And she took it up, and went to the city. **18** And when her mother in law saw what she had gathered, and Ruth had taken out, and given her some of the bread that was left after she had been satisfied, **19** her mother in law said to her, Where hast thou gleaned to day? And where hast thou been at work? Blessed be he who hath taken notice of thee. And when Ruth told her mother in law where she had been at work, and said, The man's name is Boaz, with whom I worked to day. **20** Noemin said to her daughter in law, Blessed is he of the Lord, because he hath not dropped his kindness to the living, nor to the dead. Then Noemin said to her, The man is near of kin to us. He is one of our nearest relations. **21** And Ruth said to her mother in law, Indeed he also said to me, Thou must keep close by my maids till they finish my whole harvest. **22** And Noemin said to her daughter in law Ruth, it is good my daughter that thou hast gone out with his maids, therefore let them not meet thee in another field. **23** So Ruth kept fast by the maids of Boaz, to glean till they finished the barley and wheat harvest.
+
 #### Chapter 3
 
- **1** Then she abode at home with her mother in law. And
-Noemin her mother in law said to her, My daughter, shall I not seek a rest for
-thee, that it may be well with thee? **2** Now is not Boaz our relation, with
-whose girls thou hast been? Behold he is winnowing barley in the threshing
-floor. **3** This very night therefore thou shalt wash, and anoint thyself, and
-put on thy raiment, and go up to the threshing floor. But make not thyself
-known to the man till he hath done eating and drinking. **4** And when he goeth
-to rest, mark the place where he lieth down, and go and uncover his feet, and
-lie down, and he will tell thee what thou shalt do. **5** And Ruth said to her,
-All that thou hast ordered me I will do. **6** So she went up to the threshing
-floor, and did all that her mother in law commanded her. **7** And when Boaz
-had eaten, and drunk, and his heart was cheered, he went and lay down at the
-side of a heap of corn. Then she went in softly and uncovered his feet. **8**
-And in the middle of the night the man was astonished, and troubled, for lo! a
-woman was lying at his feet. **9** And he said, Who art thou? And she said, I
-am Ruth thy handmaid; therefore spread thy skirt over thy handmaid, for thou
-art near a kinsman. **10** And Boaz said, Blessed art thou of the Lord God, my
-daughter; for thou hast shewn more kindness in this last act than in the
-former, in not going after young men either poor or rich. **11** Now therefore,
-my daughter, be not afraid, I will do for thee all thou hast said; for all the
-tribe of my people know that thou art a virtuous woman. **12** Now indeed it is
-true that I am a near relation; but there is a relation nearer of kin than I.
-**13** Tarry this night, and it shall be, in the morning, that if he perform to
-thee the part of a kinsman, well: let him do so. But if he decline to perform
-to thee the part of a kinsman, I myself will do the kinsman's part for thee, as
-the Lord liveth. Go to sleep till the morning. **14** So she lay at his feet
-till the morning, and arose before one could know another. And Boaz said, Let
-it not be known that a woman came to the threshing floor. **15** Then he said
-to her, Bring the sash which is girt about thee. So she held it, and he
-measured six measures of barley, and laid it on her, and went to the city.
-**16** And Ruth went to her mother in law. And her mother in law said to her,
-My daughter! And when Ruth had told her all that the man had done to her;
-**17** and said to her, He gave me also these six measures of barley; for said
-he to me, Thou must not go empty to thy mother in law; **18** she said, Sit
-still my daughter till thou know the issue of this matter; for the man will not
-rest till the affair is now brought to a conclusion.
+ **1** Then she abode at home with her mother in law. And Noemin her mother in law said to her, My daughter, shall I not seek a rest for thee, that it may be well with thee? **2** Now is not Boaz our relation, with whose girls thou hast been? Behold he is winnowing barley in the threshing floor. **3** This very night therefore thou shalt wash, and anoint thyself, and put on thy raiment, and go up to the threshing floor. But make not thyself known to the man till he hath done eating and drinking. **4** And when he goeth to rest, mark the place where he lieth down, and go and uncover his feet, and lie down, and he will tell thee what thou shalt do. **5** And Ruth said to her, All that thou hast ordered me I will do. **6** So she went up to the threshing floor, and did all that her mother in law commanded her. **7** And when Boaz had eaten, and drunk, and his heart was cheered, he went and lay down at the side of a heap of corn. Then she went in softly and uncovered his feet. **8** And in the middle of the night the man was astonished, and troubled, for lo! a woman was lying at his feet. **9** And he said, Who art thou? And she said, I am Ruth thy handmaid; therefore spread thy skirt over thy handmaid, for thou art near a kinsman. **10** And Boaz said, Blessed art thou of the Lord God, my daughter; for thou hast shewn more kindness in this last act than in the former, in not going after young men either poor or rich. **11** Now therefore, my daughter, be not afraid, I will do for thee all thou hast said; for all the tribe of my people know that thou art a virtuous woman. **12** Now indeed it is true that I am a near relation; but there is a relation nearer of kin than I. **13** Tarry this night, and it shall be, in the morning, that if he perform to thee the part of a kinsman, well: let him do so. But if he decline to perform to thee the part of a kinsman, I myself will do the kinsman's part for thee, as the Lord liveth. Go to sleep till the morning. **14** So she lay at his feet till the morning, and arose before one could know another. And Boaz said, Let it not be known that a woman came to the threshing floor. **15** Then he said to her, Bring the sash which is girt about thee. So she held it, and he measured six measures of barley, and laid it on her, and went to the city. **16** And Ruth went to her mother in law. And her mother in law said to her, My daughter! And when Ruth had told her all that the man had done to her; **17** and said to her, He gave me also these six measures of barley; for said he to me, Thou must not go empty to thy mother in law; **18** she said, Sit still my daughter till thou know the issue of this matter; for the man will not rest till the affair is now brought to a conclusion.
 
 #### Chapter 4
 
- **1**
-And Boaz went up to the gate and sat down there. And behold when the kinsman of
-whom Boaz had spoken was passing by, Boaz said to him, Turn aside and sit down
-here thou hidden man. **2** So he turned aside, and sat down. Then Boaz took
-ten men of the elders of the city, and said, Sit down here. **3** And when they
-had taken their seats, Boaz said to the kinsman, With respect to that portion
-of the field which belonged to our brother Elimelech, and which is given to
-Noemin, who is returned from the country of Moab, **4** I have promised to open
-thine ear, saying, Purchase it in the presence of these men who are sitting
-here, even in the presence of the elders of my people. If thou wilt do the
-kinsman's part, do it; but if thou wilt not perform the office of a kinsman,
-tell me, that I may know for there is none besides thee to perform the office
-of a kinsman, except myself, who am next after thee. And he said, I will do the
-kinsman's part. **5** Then Boaz said, On the day thou purchasest the field of
-Noemin, thou must purchase it with Ruth, the Moabitess, the wife of the dead,
-to raise up the name of the dead on his inheritance. **6** Thereupon the
-relation said, I cannot take upon me the office of a kinsman, lest I mar my own
-inheritance. Take thou upon thyself that office of a kinsman which is my right;
-for I cannot perform it. **7** Now it was the custom heretofore in Israel, in
-regard to the transfer of the right of consanguinity, in order to give it
-validity, that the man loosed his sandal, and gave it to his neighbour, who
-took upon him his right of consanguinity, and this was the evidence in Israel.
-**8** So when the relation said to Boaz, Purchase thou for thyself, what by the
-law of consanguinity it was my right to purchase, he loosed his sandal, and
-gave it to him. **9** Thereupon Boaz said to the elders, and to all the people,
-You are this day witnesses that I have purchased all that belonged to
-Elimelech, and all that belonged to Chelaion and Maalon, at the hand of Noemin;
-**10** and that I have purchased Ruth, the Moabitess, the wife of Maalon, to be
-a wife to myself, to raise up the name of the deceased on his inheritance; that
-the name of the deceased may not be blotted out from among his brethren, and
-from the tribe of his people. You are this day witnesses. **11** And all the
-people who were in the gate said, We are witnesses. Then the elders said, The
-Lord make this thy wife who is coming to thy house, like Rachel and like Leia,
-who both built up the house of Israel, and laid the foundation of power in
-Ephratha, that there may be a name in Bethlehem: **12** And may thy house be
-like the house of Phares, whom Thamar bore to Juda, from the seed which the
-Lord will give thee from this young woman. **13** So Boaz took Ruth, and she
-became his wife, and he went in unto her, and the Lord gave her conception, and
-she bore a son. **14** Whereupon the women said to Noemin, Blessed be the Lord
-who hath not left thee this day without a kinsman to make thy name famous in
-Israel. **15** He shall be to thee a restorer of life, and a nourisher of thine
-old age. For thy daughter in law, who loved thee, hath brought forth a son. She
-is better to thee than seven sons. **16** And Noemin took the child, and laid
-it in her bosom, and became its nurse, **17** and the neighbours gave it a
-name, saying, A son is born to Noemin, and called its name Obed. He was the
-father of Jessai, the father of David.
+ **1** And Boaz went up to the gate and sat down there. And behold when the kinsman of whom Boaz had spoken was passing by, Boaz said to him, Turn aside and sit down here thou hidden man. **2** So he turned aside, and sat down. Then Boaz took ten men of the elders of the city, and said, Sit down here. **3** And when they had taken their seats, Boaz said to the kinsman, With respect to that portion of the field which belonged to our brother Elimelech, and which is given to Noemin, who is returned from the country of Moab, **4** I have promised to open thine ear, saying, Purchase it in the presence of these men who are sitting here, even in the presence of the elders of my people. If thou wilt do the kinsman's part, do it; but if thou wilt not perform the office of a kinsman, tell me, that I may know for there is none besides thee to perform the office of a kinsman, except myself, who am next after thee. And he said, I will do the kinsman's part. **5** Then Boaz said, On the day thou purchasest the field of Noemin, thou must purchase it with Ruth, the Moabitess, the wife of the dead, to raise up the name of the dead on his inheritance. **6** Thereupon the relation said, I cannot take upon me the office of a kinsman, lest I mar my own inheritance. Take thou upon thyself that office of a kinsman which is my right; for I cannot perform it. **7** Now it was the custom heretofore in Israel, in regard to the transfer of the right of consanguinity, in order to give it validity, that the man loosed his sandal, and gave it to his neighbour, who took upon him his right of consanguinity, and this was the evidence in Israel. **8** So when the relation said to Boaz, Purchase thou for thyself, what by the law of consanguinity it was my right to purchase, he loosed his sandal, and gave it to him. **9** Thereupon Boaz said to the elders, and to all the people, You are this day witnesses that I have purchased all that belonged to Elimelech, and all that belonged to Chelaion and Maalon, at the hand of Noemin; **10** and that I have purchased Ruth, the Moabitess, the wife of Maalon, to be a wife to myself, to raise up the name of the deceased on his inheritance; that the name of the deceased may not be blotted out from among his brethren, and from the tribe of his people. You are this day witnesses. **11** And all the people who were in the gate said, We are witnesses. Then the elders said, The Lord make this thy wife who is coming to thy house, like Rachel and like Leia, who both built up the house of Israel, and laid the foundation of power in Ephratha, that there may be a name in Bethlehem: **12** And may thy house be like the house of Phares, whom Thamar bore to Juda, from the seed which the Lord will give thee from this young woman. **13** So Boaz took Ruth, and she became his wife, and he went in unto her, and the Lord gave her conception, and she bore a son. **14** Whereupon the women said to Noemin, Blessed be the Lord who hath not left thee this day without a kinsman to make thy name famous in Israel. **15** He shall be to thee a restorer of life, and a nourisher of thine old age. For thy daughter in law, who loved thee, hath brought forth a son. She is better to thee than seven sons. **16** And Noemin took the child, and laid it in her bosom, and became its nurse, **17** and the neighbours gave it a name, saying, A son is born to Noemin, and called its name Obed. He was the father of Jessai, the father of David.
 
- **18** Now this is the genealogy of
-Phares. Phares begot Esrom, **19** and Esrom begot Aram; and Aram begot
-Aminadab; **20** and Aminadab, Naasson; and Naasson, Salmon; **21** and Salmon,
-Boaz; and Boaz, Obed; **22** and Obed, Jessai; and Jessai, David.
+ **18** Now this is the genealogy of Phares. Phares begot Esrom, **19** and Esrom begot Aram; and Aram begot Aminadab; **20** and Aminadab, Naasson; and Naasson, Salmon; **21** and Salmon, Boaz; and Boaz, Obed; **22** and Obed, Jessai; and Jessai, David.
+
+
+---
+
+
