@@ -1,0 +1,410 @@
+# Esther
+## ΕΣΘΗΡ
+
+#### Chapter 1
+
+ **1** After these things, in the days of
+Artaxerxes the same who reigned from India, over a hundred and twenty seven
+provinces, **2** when Artaxerxes was settled on his throne in the city Susoi,
+**3** in the third year of his reign, he made an entertainment for his friends,
+both for other nations, and for the nobles of the Persians and Medes, and for
+the governors. **4** And having after this displayed to them the riches of his
+kingdom, and the transporting glory of his riches, for a hundred and eighty
+days, **5** when the days of his marriage were fulfilled, the king made an
+entertainment for all the nations who were in the city, for six days, in the
+court of the royal palace, **6** which was adorned with painted hangings of
+cotton, extended with cords of cotton, and purple yarn, to capitals of gold and
+silver, on pillars of parian marble and alabaster. The couches were of gold and
+silver, on a pavement of smaragdine, pinine, and parian stone and their covers
+were of gause, painted with a variety of flowers; and roses were scattered all
+around. **7** The goblets of gold and silver, with a small carbuncled cup to
+each, amounted in value to thirty thousand talents. There was wine in abundance
+and of a sweet quality, such as the king himself drank. **8** Now this
+entertainment was not according to an established custom; but the king would
+have it so, and he commanded the stewards to comply with his pleasure, and that
+of the guests. **9** Astin the queen also made an entertainment for the women
+in the royal palace, where king Artaxerxes was. **10** And on the seventh day,
+the king, in high good humour, ordered Anian and Basan and Tharra and Barazi
+and Zatholtha and Abataza and Tharaba, the seven chamberlains, who waited on
+king Artaxerxes, **11** to bring the queen to him to proclaim her queen, and
+crown her with a diadem, and shew her to the chiefs, and her beauty to the
+nations; for she was beautiful. **12** But queen Astin hearkened not to him to
+come with the chamberlain, at which the king was greatly offended and inflamed
+with anger **13** and he said to his friends, Astin hath spoken so and so; do
+you therefore execute law and judgment, touching this matter. **14** Thereupon
+there came before him, Arkesaius and Sarsathaius and Malisear the chiefs of the
+Persians and Medes, who were near the king, and had the first seats next him;
+**15** and told him according to the laws what ought to be done to queen Astin,
+because she had not done what the king had commanded by the chamberlains.
+**16** And Muchaius said to the king and to the chiefs, Queen Astin hath
+wronged, not the king only, but also all the king's chiefs and leaders; **17**
+for he hath told them the queen's conduct and how she hath contradicted the
+king. Therefore as she hath contradicted the king Artaxerxes, **18** so will
+the rest of the ladies now, the wives of the Persian and Medean princes, upon
+hearing what she hath said to the king, presume in like manner to dishonour
+their husbands. **19** If therefore it seemeth good to the king, let him pass a
+royal decree and let it be written according to the laws of the Medes and
+Persians, and let him not alter it nor suffer the queen any more to approach
+him; but let the king give her royalty to another woman, better than her.
+**20** And let this edict of the king be proclaimed, which if he cause to be
+done throughout his kingdom, then will all the women both rich and poor, pay
+respect to their husbands. **21** And the speech pleased the king and the
+princes; and the king did as Muchaius had spoken, **22** and sent the decree
+throughout the whole kingdom, into every province in the language and writing
+thereof, that men might be feared by their own families.
+
+#### Chapter 2
+**1** After this when the king's wrath was appeased and he no more remembered
+Astin, nor made any mention of what she had spoken, and how he had condemned
+her; **2** the king's servants said, Let there be sought for the king a virgin
+of unblemished chastity, and beautiful; **3** and let the king appoint officers
+in all the provinces of his kingdom, and let them select and send to the city
+Susoi to the house of the women, virgins remarkable for beauty; and let them be
+delivered to the king's chamberlain, the keeper of the women; and let the
+things necessary for purification be given them. **4** And let the woman who
+shall please the king be made queen in the room of Astin. And the proposal
+pleased the king, and he did so.
+
+ **5** Now there was at the city of Susoi, a
+man, a Jew, whose name was Mordecai. He was the son of Jairus, the son of
+Semeias, the son of Kisaius, of the tribe of Benjamin. **6** He had been
+carried away captive from Jerusalem among them whom Nabuchodonosar king of
+Babylon had captivated. **7** And this man had a foster child, a daughter of
+Aminadab, his father's brother; and her name was Esther. On the decease of her
+parents he educated her to be a wife for himself. **8** But as the girl was
+beautiful, when the decree of the king was published, and many young women were
+brought to the city Susoi and put under the care of Gai, Esther also was
+brought to Gai the keeper of the women. **9** And the young woman pleased him
+and found favour in his sight, so that he hastened to give her the things for
+purification and the allotted portion; and seven waiting maids were assigned to
+her out of the king's house: and he treated her and her maids courteously in
+the house of the women. **10** Now Esther did not disclose her family, nor her
+country; for Mordecai had charged her not to tell. **11** But Mordecai walked
+every day before the court of the womens' house to see what would happen to
+Esther.
+
+ **12** Now the time for every young woman to go to the king was when
+she had compleated twelve months; for thus were the days of their purification
+fulfilled. Six months they were anointed with oil of myrrh, and six months with
+aromatics and lotions used by women. **13** Then she goeth in to the king. The
+keeper is to deliver her to whomsoever the king ordereth to go with her from
+the womens' apartment to the king's house. **14** In the evening she goeth in,
+and in the morning goeth with all speed to the second house of the women, which
+is under the care of Gai the king's chamberlain, the keeper of the women, and
+no more cometh to the king unless called for by name. **15** So when the time
+was fulfilled for Esther the daughter of Aminadab, Mordecai's uncle, to go to
+the king, she neglected nothing which the chamberlain the keeper of the women
+ordered her; for Esther found favour with all who saw her. **16** And Esther
+went in to Artaxerxes the king, in the twelfth month which is the month Adar in
+the seventh year of his reign. **17** And the king was enamoured of Esther, and
+she found favour above all the virgins, so that he set the queen's crown on her
+head **18** and made an entertainment for all his friends and potentates for
+seven days, and to celebrate the marriage of Esther he made a release to those
+under his government.
+
+ **19** Now Mordecai performed service in the court,
+**20** and Esther had not yet declared her family, for Mordecai having charged
+her in this manner to fear God and execute his commands as when she was with
+him, Esther did not alter her conduct. **21** And two of the king's
+chamberlains, who were captains of his life guard, being displeased because
+Mordecai was promoted, sought to kill king Artaxerxes. **22** But the matter
+being made known to Mordecai, he informed Esther and she disclosed the
+conspiracy to the king; **23** whereupon the king having examined the
+chamberlains, caused them to be hanged, and ordered a record to be made in the
+royal library with an encomium on Mordecai's fidelity.
+
+#### Chapter 3
+
+ **1**
+After these things king Artaxerxes honoured Haman of Amadathus the Bougaian,
+and promoted him, and seated him first of all his friends, **2** so that all
+the court bowed down to him for so the king had commanded to be done. But
+Mordecai did not bow down to him; **3** whereupon they who were in the king's
+court said to him, Mordecai, Why trangressest thou the king's commands. **4**
+And when they spoke to him daily and he hearkened not to them, they told Haman,
+that Mordecai disobeyed the king's commands. Now Mordecai had told them that he
+was a Jew. **5** So when Haman understood that Mordecai did not bow down to
+him, he was greatly inflamed with wrath, **6** and determined to destroy all
+the Jews throughout the whole kingdom of Artaxerxes. **7** And having drawn up
+a decree in the twelfth year of the reign of Artaxerxes, he cast lots for one
+day after another and for one month after another so as to destroy the whole
+race of Mordecai in one day. And the lot having fallen on the fourteenth day of
+the month Adar, **8** he spoke to king Artaxerxes, saying, There is a nation
+scattered among the nations throughout thy whole kingdom, whose laws differ
+from all the nations. And as they disobey the king's laws and it is not
+expedient for the king to let them alone; **9** if it seemeth good to the king,
+let him pass a decree to destroy them and I will subscribe ten thousand talents
+of silver to the king's treasury. **10** Thereupon the king taking off his ring
+gave it to Haman to seal the writings against the Jews. **11** And the king
+said to Haman, Keep the money, and do with the nation what thou pleasest.
+**12** So the king's secretaries were convened on the thirteenth day of the
+first month, and they wrote as Haman directed to the generals and the governors
+in every province, from India to Ethiopia a hundred and twenty seven provinces,
+and to the chiefs of the nations according to their dialect in the name of king
+Artaxerxes, **13** and the decree was despatched by posts throughout the whole
+kingdom of Artaxerxes, to destroy the race of the Jews on a certain day of the
+twelfth month which is Adar, and to make spoil of their goods. **14** And
+copies of the decree were to be sent through every province and all the nations
+were ordered to be ready against that day. **15** And when the business was
+despatched at Susoi, the king and Haman sat down to revel, but the city was
+struck with consternation.
+
+#### Chapter 4
+
+ **1** Now when Mordecai knew what
+was done, he rent his clothes and put on sackcloth and strewed himself with
+ashes, and running through the street of the city, he cried with a loud voice,
+A nation is to be cut off, which hath committed no fault. **2** But when he
+came to the king's gate, he stopped; for it was not lawful for him to enter the
+court in sackcloth and ashes. **3** And in every country where the writings
+were published there was a cry with lamentation and great grief among the Jews,
+and they put on sackcloth and ashes. **4** When the queen's maids and
+chamberlains came in and told her, she was troubled at the news, and sent to
+clothe Mordecai and to take away his sackcloth from him; but he would not be
+persuaded. **5** Then Esther called Achrathaius her chamberlain, who attended
+her, and sent him to learn from Mordecai an exact state of the matter. **6**
+[[1]](#note-1 "4:6 This verse is not present in the Septuagint.")  **7**
+Whereupon Mordecai told him what was done and the promise which Haman had made
+to the king of ten thousand talents to the royal treasury, that he might
+destroy the Jews; **8** and he gave him a copy of the decree for their
+destruction, which was published among the Susians to shew it to Esther, and
+told him that he charged her to go in and supplicate the king and to entreat
+him for the people, calling to mind the days of thy humiliation when thou wast
+brought up by my bounty. Seeing Haman who is second to the king, hath spoken
+against us to destroy us, call thou upon the Lord and speak to the king for us,
+to deliver us from death. **9** Accordingly Achrathaius went in and told her
+all these words. **10** Thereupon Esther said to him, Go to Mordecai and tell
+him, **11** that all the nations of the kingdom know, that no man or woman who
+shall go to the king into the inner court without being sent for, hath any
+security for life: he only can be saved to whom the king shall stretch forth
+the golden sceptre. Now I have not been called to go to the king these thirty
+days. **12** When Achrathaius delivered this message of Esther to Mordecai,
+**13** Mordecai said to him, Go say to her, Esther, do not flatter thyself that
+thou alone of all the Jews in the kingdom shall escape. **14** Be assured, that
+if thou neglectest the present opportunity, help and protection will come to
+the Jews from some other quarter; but thou and thy father's house shall be
+destroyed. Who knoweth but that for this very occasion thou hast been made
+queen. **15** Then Esther sent back the messenger to Mordecai, saying, **16**
+Go and assemble the Jews who are at Susoi and fast for me. You must neither eat
+nor drink for three days; night nor day; and as for me, I and my maids will
+fast likewise, and then I will go to the king contrary to law, though perhaps I
+must die.
+
+ **17** So Mordecai went and did as Esther commanded him.
+
+####
+Chapter 5
+
+ **1** And on the third day Esther put on her royal apparel and
+stood in the inner court of the king's palace over against the king's house,
+when the king was sitting on his royal throne, in the royal house, over against
+the gate. **2** And when the king saw Esther standing in the court, she
+obtained favour in his sight, and the king held out to Esther the golden
+sceptre which was in his hand, and Esther drew near and touched the top of the
+sceptre. **3** And the king said, What would queen Esther? And what is thy
+petition? To the half of my kingdom it shall be granted thee. **4** Thereupon
+Esther said, To-day is my set day, if therefore it seemeth good to the king,
+let him come with Haman to the banquet which I will this day prepare. **5** And
+the king said, Call Haman quickly that we may do as Esther hath said. So they
+both went to the banquet which Esther had ordered. **6** And at the banquet the
+king said to Esther, What would queen Esther? Whatever thou askest shall be
+granted. **7** To which she replied, **8** If I have found favour in the sight
+of the king, Let the king come again with Haman to-morrow to the banquet which
+I will prepare for them, and to-morrow I will make my request and my petition.
+**9** Then Haman went out from the king overjoyed and gladdened, but upon
+seeing Mordecai the Jew in the court, he was inflamed with great indignation.
+**10** So going home, he called his friends and his wife Zosara, **11** and
+having displayed to them his riches and the honour which the king had conferred
+on him; how he had promoted him to the highest rank and made him ruler of the
+kingdom, **12** the queen, said he, invited none to the banquet with the king,
+but only me: and to-morrow I am invited: **13** but these things give me no
+pleasure, when I see Mordecai the Jew in the court. **14** Thereupon Zosara his
+wife and his friends said to him, Let a gallows fifty cubits high be made for
+thee, and early in the morning speak to the king and let Mordecai be hanged
+thereon, then go to the banquet with the king and take thy fill of joy. And the
+thing pleased Haman. So the gallows was got ready.
+
+#### Chapter 6
+
+ **1** Now
+on that night the Lord removed sleep from the king, therefore he ordered his
+attendant to bring the book of daily records, and read to him; **2** and
+finding what was written concerning Mordecai, how he had informed the king of
+the king's two chamberlains, when they commanded the guard, and sought to lay
+hands on Artaxerxes, **3** the king said, What honour or favour did we confer
+on Mordecai? To which the king's servants replied, Thou hast conferred none.
+**4** And while the king was making inquiry concerning Mordecai's fidelity
+behold Haman was in the court. And the king said, Who is in the court? Now
+Haman had come to speak to the king, that he might order Mordecai to be hanged
+on the gallows which he had prepared. **5** So the king's servants said, Behold
+Haman is standing in the court, and the king said, Call him in. **6** And the
+king said to Haman, What shall I do to the man whom I wish to honour? Upon this
+Haman said to himself, Whom doth the king wish to honour but me? **7** So he
+said to the king, With regard to the man whom the king wisheth to honour, **8**
+Let the king's servants bring out the royal robes with which the king is
+arrayed, and the horse on which the king rideth, **9** and give them to one of
+the most honourable of the king's friends, and let him array the man whom the
+king loveth, and mount him on the horse, and make proclamation through the
+street of the city saying, Thus shall it be done to every man whom the king
+honoureth. **10** Then the king said to Haman, Thou hast spoken well, Do thou
+so to Mordecai the Jew, who is an attendant in the court. Let nothing be
+omitted of what thou hast spoken. **11** So Haman took the robe and the horse,
+and having arrayed Mordecai he mounted him on the horse, and went through the
+street of the city and made proclamation saying, Thus shall it be done to every
+man whom the king wisheth to honour. **12** Then Mordecai returned to the
+court, and Haman went home in grief with his head covered. **13** And when
+Haman told his wife and his friends all that had happened to him; his friends
+and his wife said, If Mordecai be of the race of the Jews thy humiliation
+before him is begun. Thou shalt continue falling and shalt not be able to have
+thy revenge of him; for with him is the living God. **14** And while they were
+speaking the chamberlains came to hasten Haman to the banquet which Esther had
+prepared.
+
+#### Chapter 7
+
+ **1** And when the king came with Haman to banquet
+with the queen, **2** the king said to Esther the second day at the banquet,
+What is it queen Esther? What is thy request, and what thy petition? to the
+half of my kingdom it shall be granted thee. **3** Thereupon she in reply said,
+If I have found favour in the sight of the king, let my life be granted at my
+request, and my people at my petition; **4** for I and my people are sold to be
+destroyed. Had it been to be plundered and reduced to slavery--that we and our
+children should be bondmen and bondwomen, I would have dissembled hearing it,
+for the accuser is not worthy of the king's court. **5** And the king said, Who
+is he who hath dared to do such a thing? **6** To which Esther replied, The
+adversary is Haman, this bad man. At this Haman was struck with consternation
+for fear of the king and the queen. **7** Then the king rising from the banquet
+went into the garden, and Haman supplicated the queen, for he saw himself in a
+desperate situation. **8** And on the king's returning out of the garden as
+Haman had prostrated himself on the sopha to supplicate the queen, the king
+said, What! would he offer violence to my wife in my house? Upon hearing this
+Haman was confounded. **9** Then Bugathan one of the chamberlains said to the
+king, Behold Haman hath prepared a gallows for Mordecai who spoke for the king.
+There is at Haman's house a gallows actually erected fifty cubits high. **10**
+Thereupon the king said, Let him be hanged thereon. So Haman was hanged on the
+gallows which he had prepared for Mordecai, and the king's anger was appeased.
+#### Chapter 8
+
+ **1** And on that same day the king made a present to Esther
+of all that belonged to Haman the accuser. And the king sent for Mordecai; (for
+Esther told him that he was her kinsman;) **2** and the king took the ring
+which he had taken back from Haman and gave it to Mordecai, and Esther set him
+over all that belonged to Haman. **3** Then she spoke to the king again and
+fell at his feet and besought him to avert the mischief of Haman, and what he
+had devised against the Jews. **4** And when the king stretched forth the
+golden sceptre to Esther, **5** she arose and stood near the king and said, If
+it seemeth good to thee, and I have found favour, let despatches be sent to
+reverse the letters sent by Haman, which were written to destroy the Jews who
+are in thy kingdom. **6** For how can I see the calamity of my people? or how
+can I survive the destruction of my kindred? **7** Thereupon the king said to
+Esther, If I have given thee all the substance of Haman; and to gratify thee
+have caused him to be hanged on a gallows, because he laid his hands on the
+Jews, what more dost thou desire? **8** Write ye yourselves what you please in
+my name, and seal it with my ring. For what is written by the king's order, and
+sealed with my ring cannot be reversed.
+
+ **9** So the secretaries were
+convened in the first month which is Nisan, on the three and twentieth day
+thereof in the same year, and a letter was written to the Jews reciting all
+that had been given in charge to the lieutenants and to the chief governors of
+the provinces from India to Ethiopia, a hundred and twenty seven provinces, to
+every province as they could read it, **10** then it was written by the king's
+command and sealed with his ring, (and these letters were sent by posts) **11**
+that he ordered them to use their own laws in every city, and to assist each
+other, and to use their adversaries, and them who assaulted them as they
+pleased, **12** on a certain day, the thirteenth of the twelfth month Adar,
+throughout the whole kingdom of Artaxerxes--that these subsequent writings were
+to counterbalance the former letter; **13** and that these counterbalancing
+writings should be exposed to publick view throughout the whole kingdom, that
+the Jews might be ready against that day to combat their adversaries. **14** So
+the horsemen set out in all haste to execute the king's orders. And when the
+decree was published at Susoi, **15** Mordecai went forth, arrayed in a royal
+robe, wearing a crown of gold and a turban of purple cotton. And upon seeing
+him the inhabitants of Susoi rejoiced. **16** And among the Jews, there was
+light and joy in every city and province where the decree was published. **17**
+Wherever proclamation was made, there was joy and gladness among the Jews,
+feasting and mirth; so that many of the nations were circumcised and became
+Jews, for fear of the Jews.
+
+#### Chapter 9
+
+ **1** For in the twelfth month,
+on the thirteenth of the month Adar, the letters of the king having arrived,
+they who assaulted the Jews on that day were destroyed. **2** For none
+withstood them and the terror of them continued; **3** for the great lords and
+petty princes, and the king's secretaries, honoured the Jews; for the dread of
+Mordecai fell upon them; **4** for the decree of the king had caused his name
+to be known throughout the whole kingdom. **5**  [[2]](#note-2 "9:5 This verse
+is not present in the Septuagint.") 
+
+ **6** Now in the city Susoi, the Jews
+slew five hundred men, **7** including Pharsanes and Delphon, and Phasga **8**
+and Pharadatha, and Barea and Sarbaka, **9** and Marmasima and Kuphaias, and
+Arsaius and Zabuthaias, **10** the ten sons of Haman of Amadathu the Bugaian,
+the enemy of the Jews, and rifled them. **11** On that very day, when a return
+was made to the king of the number slain at Susoi, **12** the king said to
+Esther, The Jews have slain in the city Susoi five hundred men, how then,
+thinkest thou, have they behaved in the rest of the kingdom! What therefore
+dost thou request farther, and it shall be granted thee? **13** Thereupon
+Esther said to the king, Let the Jews be allowed to use to-morrow in like
+manner, that they may hang up the ten sons of Haman. **14** Accordingly he
+granted them leave to do so, and ordered the bodies of the ten sons of Haman,
+to be thrown out to the Jews to be hanged up. **15** So the Jews at Susoi
+assembled on the fourteenth day of the month Adar, and slew three hundred men,
+but took no spoil.
+
+ **16** Now the rest of the Jews who were in the kingdom,
+assembled and assisted each other, and had rest from their enemies, for they
+slew fifteen thousand of them on the thirteenth of the month Adar, but took no
+spoil. **17** And having rested on the fourteenth of the month, they kept it as
+a day of rest with joy and gladness. **18** But the Jews of Susoi having
+assembled on the fourteenth and then rested, kept the fifteenth with joy and
+gladness. **19** Therefore because the Jews, who were scattered through all the
+distant provinces, keep the fourteenth of the month Adar, as a holy day, with
+joy, sending portions to one another, **20** Mordecai wrote an account of these
+matters in a book, and sent it to all the Jews who were in the kingdom of
+Artaxerxes far and near, **21** to set apart as holy days and to keep both the
+fourteenth and the fifteenth of the month Adar, **22** for in those days the
+Jews had rest from their enemies: And with regard to the month Adar, in which
+they had a change from grief to joy and from sorrow to gladness, to keep the
+whole month as good days of weddings and joy, sending portions to their friends
+and to the poor. **23** And the Jews took this upon them. As Mordecai wrote to
+them **24** how Haman of Amadathu, the Macedonian, warred against them--as he
+made calculations and cast lots to destroy them, **25** and as he went to the
+king with an intention to hang Mordecai, but all the evils he endeavoured to
+bring on the Jews, fell upon himself, and he and his sons were hanged; **26**
+therefore these days were called Phrouri, because of the lots, which in their
+language are called Phrouri. On the account of the things contained in that
+letter and of all that they suffered in consequence thereof, and all that
+happened to them, as he instituted, **27** so the Jews took upon themselves and
+their posterity, and upon all that joined them, never to use them in any other
+manner. **28** Therefore let these days be a lasting memorial from generation
+to generation, in every city, country and province; and let these days of
+Phrouri be kept forever; and let the memorial of them never perish from among
+their generations.
+
+ **29** Then Esther the queen, the daughter of Aminadab,
+and Mordecai the Jew, wrote all that they did, and a confirmation of the letter
+respecting the Phrouri, **30**  [[3]](#note-3 "9:30 This verse is not present
+in the Septuagint.")  **31** which Mordecai and Esther the queen enjoined on
+themselves, to their own prejudice, having at that time established their
+counsel against their health. **32** Thus did Esther actually establish it, and
+it was written to be kept in remembrance.
+
+#### Chapter 10
+
+ **1** Then the
+king laid a tribute upon the dominion both of the land and the sea. **2** But
+with regard to his power and his valour and the riches and the glory of his
+kingdom, behold they are written in the book of the kings of the Persians and
+the Medes to be kept in remembrance. **3** Now Mordecai was viceroy of king
+Artaxerxes, and was great in the kingdom, and being honoured by the Jews and
+beloved, he enforced the observance of their religion on all his nation.
+
+
+<a
+name="note-1"></a>**[1]** 4:6 This verse is not present in the Septuagint.  
+<a
+name="note-2"></a>**[2]** 9:5 This verse is not present in the Septuagint.  
+<a
+name="note-3"></a>**[3]** 9:30 This verse is not present in the Septuagint.
