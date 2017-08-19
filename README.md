@@ -9,19 +9,19 @@
 > This is the first translation of the Septuagint into English. He [Charles
 > Thomson] told me that he was first induced to study Greek from having bought
 > a part of the Septuagint at an auction in this city [Philadelphia].
-
+>
 > He had bought it for a mere trifle, and without knowing what it was, save
 > that the Crier said it was outlandish letters. When he had mastered it enough
 > to understand it, his anxiety became great to see the whole; but he could
 > find no copy. Strange to tell, in the interval of two years, passing the same
 > store, and chancing to look in, he saw there the remainder actually crying
 > off for a few pence, and he bought it!
-
+>
 > I used to tell him that the translation which he afterwards made should have
 > had these facts set at the front of the work as a Preface; for that great
 > work, the first of the kind in the English language, strangely enough, was
 > ushered into the world without any preface.
-
+>
 > *Annals of Philadelphia*. John Fanning Watson, 1850.
 
 Thomson used as his source text the so-called *Cambridge Septuagint*, printed
