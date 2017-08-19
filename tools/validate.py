@@ -92,6 +92,8 @@ info = dict([
 files = os.listdir('./osis/')
 
 for filename in files:
+    if filename[3:-4] == 'AddPs':
+        continue
     chapters = info[books[filename[3:-4]]]
 
     with open(os.path.join('./osis/', filename), 'r') as f:

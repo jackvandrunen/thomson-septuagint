@@ -48,6 +48,9 @@ books = sorted(os.listdir('./usfm/'))
 
 for book in books:
     booknum = book[:2]
-    osis_name = booknames[int(booknum) - 1][0]
+    if booknum == '85':
+        osis_name = 'AddPs'
+    else:
+        osis_name = booknames[int(booknum) - 1][0]
     print(osis_name)
     os.system('usfm2osis.py Bible.Thomson -o ./osis/{0}-{1}.xml ./usfm/{2}'.format(booknum, osis_name, book))
