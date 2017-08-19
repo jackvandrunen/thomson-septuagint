@@ -27,7 +27,7 @@
 
 #### Chapter 3
 
- **1** bloody city, wholly perfidious and full of lies! shall not thy prey be handled? **2** A sound of whips! and the sound of the rumbling of wheels, and of the pursuing horse! and bounding chariot! **3** and of the cavalry advancing! and of the glittering sword and gleamy arms! and of the multitude of wounded! and of the hideous crash! Though there was no bound to her nations, they shall be weak of body **4** by reason of great fornication.
+ **1** O bloody city, wholly perfidious and full of lies! shall not thy prey be handled? **2** A sound of whips! and the sound of the rumbling of wheels, and of the pursuing horse! and bounding chariot! **3** and of the cavalry advancing! and of the glittering sword and gleamy arms! and of the multitude of wounded! and of the hideous crash! Though there was no bound to her nations, they shall be weak of body **4** by reason of great fornication.
 
 O fair harlot and bewitching mistress of sorceries, who sellest nations by thy whoredom, and peoples by thy sorceries! **5** behold I am against thee, saith the Lord God Almighty, and I will expose thy skirts to view; and shew nations thy shame; and kingdoms, thy dishonour: **6** and cast abomination on thee according to thine impurities; and make thee a publick example, **7** so that every one who seeth thee shall go down from thee, and say, Wretched Ninive! who can bemoan her? Whence can I find comfort for her?
 
