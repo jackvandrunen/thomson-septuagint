@@ -42,7 +42,9 @@ Masoretic Hebrew to be a good representation of the Greek text.
 Thomson's translation, however, despite its relative obscurity, was considered
 faithful and of scholarly value, and was consulted by the scholars who worked
 on the English Revised Version, the Old Testament of which was published in
-1885.
+1885. Being the first English translation of the Greek Old Testament and the
+first Bible translated in the United States, it remains an under-appreciated
+work of historical and spiritual value in the present day.
 
 Although several incomplete or rough electronic versions of the text exist
 (exhibits [A](http://thetencommandmentsministry.us/ministry/charles_thomson/)
