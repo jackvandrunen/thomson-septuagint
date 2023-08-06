@@ -86,7 +86,6 @@ My son, honor the Lord and thou shall be strong; but besides him, fear no other.
  **24** Now therefore my son hearken to me; and attend to the words of my mouth. **25** Let not thy heart turn aside to her ways: **26** for she hath wounded and brought down many; and innumerable are they whom she hath slain. **27** Her house is the highway to Hades, leading down to the chambers of death.
 
 #### Chapter 8
-
  **1** As for thee thou art to proclaim wisdom; that understanding may attend thee. **2** For she is on the lofty summits; and hath taken her stand in the middle of highways. **3** For at the gates of the mighty she hath taken a seat, and at the entrance thereof chanteth her song.
 
  **4** "To you, men, I call, and utter my voice to the sons of men. **5** Ye who are innocent learn discretion: and ye who are uninstructed give attention. **6** Hearken to me, for I will speak solemn things; and with my lips disclose things which are right. **7** For my mouth shall speak truth; lying lips are indeed abominable in my sight. **8** All the words of my mouth are with righteousness; they have nothing crooked—nothing deceitful in them. **9** They are all plain to men of understanding: and right to them who find knowledge. **10** Receive instruction in preference to silver, and knowledge rather than fine gold.— **11** For wisdom is better than precious stones: and no costly thing is equal to it in value. **12** I wisdom have inhabited counsel and knowledge; and I have made an appeal to understanding. **13** The fear of the Lord hateth injustice and insolence and haughtiness and the ways of the wicked: and I have hated the crooked ways of bad men. **14** To me belong counsel and safety. Prudence is mine—mine is fortitude. **15** By me kings reign and princes decree justice. **16** By me potentates are exalted; and by me sovereigns rule the earth. **17** Them who love me, I love: and they who seek me shall find me. **18** With me are riches and glory; even great possessions and righteousness. **19** My fruit is better than gold and precious stones: and my productions are better than choice silver. **20** I walk in the ways of righteousness; and am conversant in the paths of judgment: **21** that I may distribute wealth to them who love me; and fill their treasuries with good things.
@@ -173,7 +172,7 @@ A well instructed son will be wise, and shall have the simple for a servant.
 
  **1** A deceitful balance is an abomination to the Lord: but a just weight is his delight.
 
- **2** Where pride entereth, there dishonour *entereth* also.
+ **2** Where pride entereth, there dishonour [entereth] also.
 
 But the mouth of the lowly speaketh wisdom.
 
@@ -829,7 +828,7 @@ Vows for the hire of a harlot are not pure.
 
  **23** He who guardeth his mouth and tongue keepeth his soul from trouble.
 
- **24** He who is bold, selfwilled and boastful is called loimos *a pest;* and he who harboureth mischief is called a transgressor.
+ **24** He who is bold, selfwilled and boastful is called loimos [a pest;] and he who harboureth mischief is called a transgressor.
 
  **25** Wishing killeth the slothful; for his hands do not chuse to labour.
 

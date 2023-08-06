@@ -53,4 +53,4 @@ for book in books:
     else:
         osis_name = booknames[int(booknum) - 1][0]
     print(osis_name)
-    os.system('usfm2osis.py Bible.Thomson -o ./osis/{0}-{1}.xml ./usfm/{2}'.format(booknum, osis_name, book))
+    os.system('usfm2osis Bible.Thomson -o ./osis/{0}-{1}.xml ./usfm/{2}'.format(booknum, osis_name, book))

@@ -1,0 +1,3 @@
+[submodule "usfm2osis"]
+	path = usfm2osis
+	url = https://github.com/chrislit/usfm2osis

@@ -33,7 +33,8 @@ def _format_text(parent, result, footnotes):
             if element.get('sID'):
                 result.append('\n#### Chapter {0}\n'.format(element.get('sID').split('.')[-1]))
         elif element.name == 'p':
-            result.append('\n')
+            if element.get('type') != 'x-nobreak':
+                result.append('\n')
             if element.get('type') == 'x-embedded':
                 result.append('> ')
             _format_text(element, result, footnotes)
@@ -43,9 +44,9 @@ def _format_text(parent, result, footnotes):
                 result.append(' **{0}** '.format(element.get('sID').split('.')[-1]))
         elif element.name == 'transChange':
             if element.get('type') == 'added':
-                result.append(' *')
+                result.append(' [')
                 _format_text(element, result, footnotes)
-                result.append('* ')
+                result.append('] ')
             else:
                 print(element)
         elif element.name == 'speaker':
@@ -66,6 +67,17 @@ def _format_text(parent, result, footnotes):
             result.append('&emsp;' * indent)
             _format_text(element, result, footnotes)
             result.append('  \n')
+        elif element.name == 'hi':
+            if element.get('type') == 'emphasis':
+                result.append(' *')
+                _format_text(element, result, footnotes)
+                result.append('* ')
+            else:
+                print(element)
+        elif element.name in ('name', 'divineName'):
+            result.append(' *')
+            _format_text(element, result, footnotes)
+            result.append('* ')
         elif type(element) is bs4.element.NavigableString:
             result.append(clean_text(str(element)))
         elif type(element) is bs4.element.Comment:

@@ -97,12 +97,12 @@ for filename in files:
     chapters = info[books[filename[3:-4]]]
 
     with open(os.path.join('./osis/', filename), 'r') as f:
-        soup = BeautifulSoup(f.read(), 'lxml')
+        soup = BeautifulSoup(f.read(), 'xml')
 
     chapter_counts = []
     for verse in soup.div.find_all('verse'):
         try:
-            chapter, verse = tuple(map(int, verse.get('osisid').split('.')[-2:]))
+            chapter, verse = tuple(map(int, verse.get('osisID').split('.')[-2:]))
         except AttributeError:
             continue
         if len(chapter_counts) < chapter:
