@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<osisText osisRefWork="Bible" xml:lang="und" osisIDWork="Bible.Thomson">
+<header>
+<work osisWork="Bible.Thomson"/>
+</header>
+<div type="book" osisID="Dan">
+<!-- id comment - Thomson Septuagint -->
+<title type="runningHead">Daniel</title>
+<title level="1" type="main">Daniel</title>
+<chapter osisID="Dan.1" sID="Dan.1"/>
+<p>
+<verse osisID="Dan.1.1" sID="Dan.1.1"/>In the third year of the reign of Joakim king of Juda, Nabuchodonosar the king of Babylon came to Jerusalem and besieged it.<verse eID="Dan.1.1"/>
+<verse osisID="Dan.1.2" sID="Dan.1.2"/>And the Lord delivered into his hand Joakim king of Juda and a part of the vessels of the house of God, which he carried to the land of Sennaar to the house of his god: and having deposited the vessels in the treasure house of his god,<verse eID="Dan.1.2"/>
+<verse osisID="Dan.1.3" sID="Dan.1.3"/>the king ordered Asphanez his high chamberlain to bring in of the children of the captivity of Israel, namely, of the seed royal and of the nobility,<verse eID="Dan.1.3"/>
+<verse osisID="Dan.1.4" sID="Dan.1.4"/>some youths who had no blemish, and who were of a good countenance,
+studious of every science, improved in knowledge and understanding and qualified to stand in the house before the king; and to instruct them in the learning and language of the Chaldeans.<verse eID="Dan.1.4"/>
+<verse osisID="Dan.1.5" sID="Dan.1.5"/>And the king ordered them a daily allowance from the king's table, and of the wine for his own drinking; and that they should be dieted for three years and after that stand before the king.<verse eID="Dan.1.5"/></p>
+<p>
+<verse osisID="Dan.1.6" sID="Dan.1.6"/>Now there were among them of the children of Juda, Daniel and Ananias and Azarias and Misael;<verse eID="Dan.1.6"/>
+<verse osisID="Dan.1.7" sID="Dan.1.7"/>and the high chamberlain gave them names, to Daniel, Baltasar; and to Ananias, Sedrach; and to Misael, Misach; and Azarias, Abdenago.<verse eID="Dan.1.7"/>
+<verse osisID="Dan.1.8" sID="Dan.1.8"/>And Daniel having resolved not to pollute himself with the table of the king nor with the wine which he drank, intreated the chamberlain that he might not be denied.<verse eID="Dan.1.8"/>
+<verse osisID="Dan.1.9" sID="Dan.1.9"/>Now God had brought Daniel into favour and compassion with the high chamberlain,<verse eID="Dan.1.9"/>
+<verse osisID="Dan.1.10" sID="Dan.1.10"/>therefore the chamberlain said to Daniel, I am afraid of my lord the king who hath appointed your meat and your drink. Perhaps he may see your countenance more uncomely than the youths of your age, and you may endanger my head with the king.<verse eID="Dan.1.10"/>
+<verse osisID="Dan.1.11" sID="Dan.1.11"/>Thereupon Daniel said to Amelsad, whom the high chamberlain had set over Daniel, Ananias, Misael and Azarias,<verse eID="Dan.1.11"/>
+<verse osisID="Dan.1.12" sID="Dan.1.12"/>Try thy servants, we pray thee, ten days, and let them give us vegetables to eat and water to drink;<verse eID="Dan.1.12"/>
+<verse osisID="Dan.1.13" sID="Dan.1.13"/>and let our countenances and the countenances of the youths who eat of the king's table be examined in thy presence; and, as thou seest, deal with thy
+servants.<verse eID="Dan.1.13"/>
+<verse osisID="Dan.1.14" sID="Dan.1.14"/>So he hearkened to them and tried them ten days.<verse eID="Dan.1.14"/>
+<verse osisID="Dan.1.15" sID="Dan.1.15"/>And at the end of the ten days their countenances appeared more comely and their flesh firmer than that of the youths, who had eaten of the king's table;<verse eID="Dan.1.15"/>
+<verse osisID="Dan.1.16" sID="Dan.1.16"/>whereupon Amelsad took away the food and the wine for their drink and gave them vegetables.<verse eID="Dan.1.16"/>
+<verse osisID="Dan.1.17" sID="Dan.1.17"/>And as for these four youths, God gave them knowledge and understanding in all literature and science; and Daniel was skilled in all visions and dreams.<verse eID="Dan.1.17"/>
+<verse osisID="Dan.1.18" sID="Dan.1.18"/>And at the end of the years which the king had appointed for introducing them, the high chamberlain brought them in before Nabuchodonosar.<verse eID="Dan.1.18"/>
+<verse osisID="Dan.1.19" sID="Dan.1.19"/>And the king conversed with them. And among them all there were none found equal to Daniel and Ananias and Misael and Azarias. So they stood before the king.<verse eID="Dan.1.19"/>
+<verse osisID="Dan.1.20" sID="Dan.1.20"/>And in every subject of wisdom and science on which the king questioned them he found them ten times more skilled than all the soothsayers and the magians who were in the realm.<verse eID="Dan.1.20"/>
+<verse osisID="Dan.1.21" sID="Dan.1.21"/>And Daniel continued to the first year of Cyrus the king.<verse eID="Dan.1.21"/></p><chapter eID="Dan.1"/>
+<chapter osisID="Dan.2" sID="Dan.2"/>
+<p>
+<verse osisID="Dan.2.1" sID="Dan.2.1"/>Nabuchodonosar, in the second year of his reign, dreamed a dream and his
+spirit was troubled and his sleep went from him.<verse eID="Dan.2.1"/>
+<verse osisID="Dan.2.2" sID="Dan.2.2"/>And the king gave orders to call the soothsayers and the magians and the chymists and the Chaldees that they might tell the king his dream.<verse eID="Dan.2.2"/>
+<verse osisID="Dan.2.3" sID="Dan.2.3"/>And when they were come and stood before the king, the king said to them, I have dreamed and my mind is anxious to know the dream.<verse eID="Dan.2.3"/>
+<verse osisID="Dan.2.4" sID="Dan.2.4"/>Whereupon the Chaldees said to the king in Syriac, O king, live forever. Tell thy servants the dream and we will explain the meaning.<verse eID="Dan.2.4"/>
+<verse osisID="Dan.2.5" sID="Dan.2.5"/>The king answered the Chaldees, The subject is gone from me. If you do not tell me the dream and the interpretation you shall be put to death and your houses shall be exposed to plunder.<verse eID="Dan.2.5"/>
+<verse osisID="Dan.2.6" sID="Dan.2.6"/>But if you let me know the dream and the interpretation, you shall receive of me gifts and immunities and great honour. At all events, tell me the dream and the meaning of it.<verse eID="Dan.2.6"/>
+<verse osisID="Dan.2.7" sID="Dan.2.7"/>They answered again and said, Let the king tell his servants the dream and we will explain the meaning.<verse eID="Dan.2.7"/>
+<verse osisID="Dan.2.8" sID="Dan.2.8"/>In reply to which the king said, I know of a truth that you want to gain time, as you see the matter is gone from me.<verse eID="Dan.2.8"/>
+<verse osisID="Dan.2.9" sID="Dan.2.9"/>If therefore you do not tell me the dream, I take it for granted that you have agreed upon something false and fictitious to be said before me, until the time elapse. Tell me my dream, then I will know that you can tell me the meaning of it.<verse eID="Dan.2.9"/>
+<verse osisID="Dan.2.10" sID="Dan.2.10"/>The Chaldees answered in the presence of the king and said, There is not a man on the earth who can make known what the king requireth; nor doth any king or ruler, however great, ask such a thing, of any soothsayer, magian or Chaldee.<verse eID="Dan.2.10"/>
+<verse osisID="Dan.2.11" sID="Dan.2.11"/>For the thing which the king requireth is so difficult, that there is none who can lay it before the king, but the gods only, whose dwelling is not with flesh.<verse eID="Dan.2.11"/>
+<verse osisID="Dan.2.12" sID="Dan.2.12"/>Upon this the king in furious wrath gave orders to destroy all the wise men of Babylon.<verse eID="Dan.2.12"/>
+<verse osisID="Dan.2.13" sID="Dan.2.13"/>So the decree went forth. And when the wise men began to be slain—</p>
+<p>
+(Now search had been made for Daniel and his friends to slay them<verse eID="Dan.2.13"/>
+<verse osisID="Dan.2.14" sID="Dan.2.14"/>and Daniel had then addressed Arioch, the king's marshal, who was going out to slay the wise men of Babylon,<verse eID="Dan.2.14"/>
+<verse osisID="Dan.2.15" sID="Dan.2.15"/>touching the counsel and decree, "Why, O chief of the king, hath this horrid sentence gone forth from the king's presence?" And when Arioch informed Daniel of the matter,<verse eID="Dan.2.15"/>
+<verse osisID="Dan.2.16" sID="Dan.2.16"/>Daniel had intreated the king to grant him time and he would tell the king the meaning of it;<verse eID="Dan.2.16"/>
+<verse osisID="Dan.2.17" sID="Dan.2.17"/>and Daniel had gone to his house and acquainted his friends Ananias, Misael and Azarias with the affair;<verse eID="Dan.2.17"/>
+<verse osisID="Dan.2.18" sID="Dan.2.18"/>and they had sought mercy of the God of heaven touching this secret, that Daniel and his friends might not perish with the rest of the wise men of Babylon:<verse eID="Dan.2.18"/>
+<verse osisID="Dan.2.19" sID="Dan.2.19"/>and the secret was revealed to Daniel in a vision of the night; whereupon he blessed the God of heaven, and said,<verse eID="Dan.2.19"/>
+<verse osisID="Dan.2.20" sID="Dan.2.20"/>"Blessed be the name of God from everlasting to everlasting; for wisdom and knowledge are his;<verse eID="Dan.2.20"/>
+<verse osisID="Dan.2.21" sID="Dan.2.21"/>and he changeth times and seasons. He setteth up kings and removeth them. He giveth wisdom to the wise and understanding to them who have knowledge.<verse eID="Dan.2.21"/>
+<verse osisID="Dan.2.22" sID="Dan.2.22"/>He it is who revealeth deep and hidden things. He knoweth the things which are in darkness. And with him is the light.<verse eID="Dan.2.22"/>
+<verse osisID="Dan.2.23" sID="Dan.2.23"/>To thee, O God of my fathers, I give thanks and praise; because thou hast given me wisdom and power and hast made known to me what we asked thee and hast revealed to me the vision of the king.)
+<!-- rem - (no end quotation mark) --><verse eID="Dan.2.23"/></p>
+<p>
+<verse osisID="Dan.2.24" sID="Dan.2.24"/>Then Daniel went to Arioch whom the king had appointed to slay the wise men of Babylon, and said to him, Destroy not the wise men of Babylon; but introduce me to the king, and I will tell him the meaning.<verse eID="Dan.2.24"/>
+<verse osisID="Dan.2.25" sID="Dan.2.25"/>Thereupon Arioch with haste introduced Daniel to the presence of the king and said to him, I have found among the captives of Israel, a man who can tell the king the interpretation.<verse eID="Dan.2.25"/>
+<verse osisID="Dan.2.26" sID="Dan.2.26"/>And the king addressing Daniel, whose name was Baltasar, said, Canst thou tell me the dream which I saw, and the meaning of it?<verse eID="Dan.2.26"/>
+<verse osisID="Dan.2.27" sID="Dan.2.27"/>And Daniel answered in the presence of the king and said, The secret which the king demandeth, it is not in the power of wise men, magians,
+soothsayers, gazarenes, to tell the king.<verse eID="Dan.2.27"/>
+<verse osisID="Dan.2.28" sID="Dan.2.28"/>There is none but God in heaven who revealeth secrets. He indeed hath made known to the king Nabuchodonosar what must come to pass in latter days. With regard to thy dream, and the visions of thy head, on thy bed, this is it.<verse eID="Dan.2.28"/>
+<verse osisID="Dan.2.29" sID="Dan.2.29"/>Thy thoughts, O king, on thy bed ascended to what might come to pass hereafter. And he who revealeth secrets made known to thee the things which must come to pass.<verse eID="Dan.2.29"/>
+<verse osisID="Dan.2.30" sID="Dan.2.30"/>And to me this secret was revealed, not indeed for any wisdom in me above all the living: but for the purpose of making the interpretation known to the king, that thou mayst know the thoughts of thy heart.<verse eID="Dan.2.30"/>
+<verse osisID="Dan.2.31" sID="Dan.2.31"/>Thou, O king! didst behold, and lo! an image! Great was that image and its aspect lofty as it stood before thee; and its appearance was awful.<verse eID="Dan.2.31"/>
+<verse osisID="Dan.2.32" sID="Dan.2.32"/>It was an image, the head of which was of pure gold; the hands and the breast and the arms of it were of silver; the belly and the thighs of brass;<verse eID="Dan.2.32"/>
+<verse osisID="Dan.2.33" sID="Dan.2.33"/>the legs of iron; the feet partly of iron, and partly of potter's clay.—<verse eID="Dan.2.33"/>
+<verse osisID="Dan.2.34" sID="Dan.2.34"/>With wonder thou didst view it, till from a mountain there was rent without hands a stone, which smote the image on the feet, which were of iron and potters clay, and at last broke them to pieces.<verse eID="Dan.2.34"/>
+<verse osisID="Dan.2.35" sID="Dan.2.35"/>Then were broken to pieces at once, the clay, the iron, the brass, the
+silver, the gold. And they became like the dust of a threshing floor in summer: and a great wind swept them away, and there was no place found for them. And the stone which smote the image became a great mountain and filled all the earth.<verse eID="Dan.2.35"/>
+<verse osisID="Dan.2.36" sID="Dan.2.36"/>This is the dream. The meaning of it we will now explain to the king.<verse eID="Dan.2.36"/>
+<verse osisID="Dan.2.37" sID="Dan.2.37"/>Thou O king, art a king of kings, to whom the God of heaven hath given a kingdom, strong and mighty and glorious,<verse eID="Dan.2.37"/>
+<verse osisID="Dan.2.38" sID="Dan.2.38"/>in every place where the sons of men dwell. Into thy hand he hath delivered the beasts of the field, and the birds of the air, and the fishes of the sea, and appointed thee lord over all. Thou art the head of gold.<verse eID="Dan.2.38"/>
+<verse osisID="Dan.2.39" sID="Dan.2.39"/>And after thee there shall be raised up another kingdom inferior to thee; then a third kingdom which is the brass, which shall rule over the whole earth;<verse eID="Dan.2.39"/>
+<verse osisID="Dan.2.40" sID="Dan.2.40"/>then a fourth kingdom which shall be strong as iron. As iron breaketh to pieces and subdueth all things, so shall it break and subdue all.<verse eID="Dan.2.40"/>
+<verse osisID="Dan.2.41" sID="Dan.2.41"/>And inasmuch as thou sawest the feet and toes, partly of clay and partly of iron, it shall be a disjointed kingdom, though there shall be in it some of its iron root. As thou sawest the iron mixed with the clay;<verse eID="Dan.2.41"/>
+<verse osisID="Dan.2.42" sID="Dan.2.42"/>and the toes of the feet were part iron, and part clay, some part of that kingdom will be strong and some part of it will be broken.<verse eID="Dan.2.42"/>
+<verse osisID="Dan.2.43" sID="Dan.2.43"/>Inasmuch as thou sawest the iron mingled with the clay, there will be mixtures in it, of the seed of men, and they will not cement one with another, as iron cloth not cement with clay.<verse eID="Dan.2.43"/>
+<verse osisID="Dan.2.44" sID="Dan.2.44"/>And in the days of those kings, the God of heaven will set up a kingdom which shall never be destroyed; and this kingdom of his shall not be left to another people. It shall break in pieces, and blow away all those kingdoms and
+shall itself stand forever.<verse eID="Dan.2.44"/>
+<verse osisID="Dan.2.45" sID="Dan.2.45"/>As thou sawest that without hands there was cut from a mountain a stone, which broke in pieces the clay, the iron, the brass, the silver, the gold; the God who is great, hath made known to the king what must come to pass hereafter. The dream indeed is true and the interpretation thereof is faithful.<verse eID="Dan.2.45"/></p>
+<p>
+<verse osisID="Dan.2.46" sID="Dan.2.46"/>Then king Nabuchodonosar fell on his face, and made obeisance to Daniel and ordered holy gifts, and sweet odours to be offered to him.<verse eID="Dan.2.46"/>
+<verse osisID="Dan.2.47" sID="Dan.2.47"/>And the king answered and said to Daniel, Of a truth, your God is the God of Gods, and the Lord of kings, the revealer of secrets; since thou hast been enabled to reveal this secret.<verse eID="Dan.2.47"/>
+<verse osisID="Dan.2.48" sID="Dan.2.48"/>Then the king raised Daniel to high rank and gave him many great gifts, and set him over the whole region of Babylon, and a chief satrap over all the wise men of Babylon.<verse eID="Dan.2.48"/>
+<verse osisID="Dan.2.49" sID="Dan.2.49"/>And Daniel requested of the king, and he set Sedrach, Misach and Abdenago, over the works of the region of Babylon. And Daniel was in the court of the king.<verse eID="Dan.2.49"/></p><chapter eID="Dan.2"/>
+<chapter osisID="Dan.3" sID="Dan.3"/>
+<p>
+<verse osisID="Dan.3.1" sID="Dan.3.1"/>In the eighteenth year of Nabuchodonosar, the king made an image of gold; the height of it was sixty cubits, and its breadth six cubits. And having set it up in the plain of Deeira, in the province of Babylon,<verse eID="Dan.3.1"/>
+<verse osisID="Dan.3.2" sID="Dan.3.2"/>he sent for the presidents and the generals, and the governors, rulers and princes, and those in authority, and all the chiefs of the provinces, to come to the dedication of the image which Nabuchodonosar the king had set up.<verse eID="Dan.3.2"/>
+<verse osisID="Dan.3.3" sID="Dan.3.3"/>And when the governors, the presidents, the generals, the leaders, the great princes, those in authority, and all the chiefs of the provinces were assembled for the dedication of the image which Nabuchodonosar the king had set up, and were standing before the image,<verse eID="Dan.3.3"/>
+<verse osisID="Dan.3.4" sID="Dan.3.4"/>the herald cried with a loud voice, To you peoples of different tribes and languages command is given;<verse eID="Dan.3.4"/>
+<verse osisID="Dan.3.5" sID="Dan.3.5"/>whenever you shall hear the sound of the trumpet and syrinx and of the kithara and sanibuk and of the psaltery, and all kinds of musical instruments, prostrate yourselves and worship the golden image which Nabuchodonosar the king hath set up.<verse eID="Dan.3.5"/>
+<verse osisID="Dan.3.6" sID="Dan.3.6"/>And whoever will not prostrate himself and worship, shall that very hour be cast into that furnace of fire, which is heating.<verse eID="Dan.3.6"/></p>
+<p>
+<verse osisID="Dan.3.7" sID="Dan.3.7"/>So when the people heard the sound of the trumpet and syrinx, and of the kithara and sambuk, and of the psaltery, and all kinds of musical instruments, all the peoples, tribes and languages, falling prostrate, worshipped the golden image which nabuchodonosar the king had set up.<verse eID="Dan.3.7"/>
+<verse osisID="Dan.3.8" sID="Dan.3.8"/>Then came certain Chaldeans, and stated to the king an accusation against the Jews,<verse eID="Dan.3.8"/>
+<verse osisID="Dan.3.9" sID="Dan.3.9"/>"O king, live forever! thou, O king,<verse eID="Dan.3.9"/>
+<verse osisID="Dan.3.10" sID="Dan.3.10"/>hast made a decree, that every man who shall hear the sound of the trumpet and syrinx and of the kithara and sambuk, and of the psaltery and all kinds of musical instruments;<verse eID="Dan.3.10"/>
+<verse osisID="Dan.3.11" sID="Dan.3.11"/>and who will not prostrate himself and worship the golden image, shall be cast into that furnace of fire which is heated.<verse eID="Dan.3.11"/>
+<verse osisID="Dan.3.12" sID="Dan.3.12"/>Now there are certain Jews whom thou hast set over the works of the province of Babylon, namely, Sedrach, Misach, Abdenago, who have not hearkened, O king, to thy decree. They neither serve thy gods, nor do they worship the golden image which thou hast set up."<verse eID="Dan.3.12"/></p>
+<p>
+<verse osisID="Dan.3.13" sID="Dan.3.13"/>Upon this Nabuchodonosar in wrath and fury commanded to bring Sedrach, Misach, Abdenago: and when they were brought before the king,<verse eID="Dan.3.13"/>
+<verse osisID="Dan.3.14" sID="Dan.3.14"/>Nabuchodonosar addressed them, saying, Is it true, Sedrach, Misach, Abdenago, that you do not serve my gods, nor worship the golden image which I have set up?<verse eID="Dan.3.14"/>
+<verse osisID="Dan.3.15" sID="Dan.3.15"/>Now therefore are you ready, when you hear the sound of the trumpet and
+syrinx and of the kithara and sambuk and of the psaltery and symphony and all kinds of musical instruments, to fall prostrate and worship the golden image which I have made? For if you do not worship you shall, that very hour, be cast into the furnace of fire, which is heated. And what god is there who can deliver you out of my hands?<verse eID="Dan.3.15"/>
+<verse osisID="Dan.3.16" sID="Dan.3.16"/>In reply to this, Sedrach, Misach, Abdenago said to the king Nabuchodonosar, We are at no loss to answer thee in respect to this matter.<verse eID="Dan.3.16"/>
+<verse osisID="Dan.3.17" sID="Dan.3.17"/>For our God in heaven, whom we worship, is able to deliver us out of the furnace of fire which is heated, and he will deliver us, O king, out of thy hands.<verse eID="Dan.3.17"/>
+<verse osisID="Dan.3.18" sID="Dan.3.18"/>But even though he do not, be it known to thee, king, that we cannot
+serve thy gods, nor will we worship the image which thou hast set up.<verse eID="Dan.3.18"/>
+<verse osisID="Dan.3.19" sID="Dan.3.19"/>At this Nabuchodonosar was filled with wrath, and the form of his countenance was changed against Sedrach, Misach and Abdenago. And he ordered to heat the furnace seven fold, till it was hot as possible:<verse eID="Dan.3.19"/>
+<verse osisID="Dan.3.20" sID="Dan.3.20"/>and commanded some strong men to bind Sedrach, Misach and Abdenago, and cast them into the furnace of fire which was heated.<verse eID="Dan.3.20"/>
+<verse osisID="Dan.3.21" sID="Dan.3.21"/>Then were these men bound, clad as they were with their Babylonish dress and with turbans and boots; and cast into the midst of the furnace of fire which was heated,<verse eID="Dan.3.21"/>
+<verse osisID="Dan.3.22" sID="Dan.3.22"/>as the command of the king was peremptory. But though the furnace was heated to an excessive degree<verse eID="Dan.3.22"/>
+<verse osisID="Dan.3.23" sID="Dan.3.23"/>and these three men, Sedrach, Misach and Abdenago fell bound into the midst of the glowing furnace, yet they walked about in the midst of the flame, praising God and blessing the Lord.<verse eID="Dan.3.23"/>
+<verse osisID="Dan.3.24" sID="Dan.3.24"/>When Nabuchodonosar heard them singing praise he was amazed and starting up hastily said to his nobles, Did we not cast three men bound into the midst of the fire? And when they said to the king, True, O king,<verse eID="Dan.3.24"/>
+<verse osisID="Dan.3.25" sID="Dan.3.25"/>the king said, Here I see four men loose and walking about in the midst of the fire unhurt: And the appearance of the fourth is like a son of a god.<verse eID="Dan.3.25"/>
+<verse osisID="Dan.3.26" sID="Dan.3.26"/>Then Nabuchodonosar went near to the mouth of the burning fiery furnace and said, Sedrach, Misach, Abdenago, ye servants of the Most High God, come out and come hither. Upon which Sedrach, Misach and Abdenago came forth out of the midst of the fire.<verse eID="Dan.3.26"/>
+<verse osisID="Dan.3.27" sID="Dan.3.27"/>And the satraps and the generals and the governors and the mighty men of the king gathered round and viewed the men with astonishment; for the fire had not had any power over their body. Even the hair of their heads was not singed, nor were their mantles changed, nor a smell of fire on them.<verse eID="Dan.3.27"/>
+<verse osisID="Dan.3.28" sID="Dan.3.28"/>Then Nabuchodonosar the king addressing them, said, "Blessed be the God of Sedrach, Misach, Abdenago, who hath sent his angel and delivered his
+servants. Because they have trusted in him and have altered the king's decree and delivered up their bodies to fire that they might not serve nor worship any god, but only their own God,<verse eID="Dan.3.28"/>
+<verse osisID="Dan.3.29" sID="Dan.3.29"/>therefore I issue this decree, "Every people, tribe, language, which
+shall utter any reproach against the God of Sedrach, Misach, Abdenago, shall be devoted to destruction and their houses to plunder: for there is no other god who can deliver in this manner."<verse eID="Dan.3.29"/></p>
+<p>
+<verse osisID="Dan.3.30" sID="Dan.3.30"/>Then the king reinstated Sedrach, Misach and Abdenago in the province of Babylon, and advanced them in dignity and honoured them with a command over all the Jews in his realm.<verse eID="Dan.3.30"/></p><chapter eID="Dan.3"/>
+<chapter osisID="Dan.4" sID="Dan.4"/>
+<lb/><p>
+<verse osisID="Dan.4.1" sID="Dan.4.1"/>Nabuchodonosar the king, to all the peoples, tribes and languages who dwell in all the earth: Peace be multiplied to you.<verse eID="Dan.4.1"/></p>
+<p>
+<verse osisID="Dan.4.2" sID="Dan.4.2"/>It hath seemed good in my sight to declare to you the signs and the wonders which the God who is Most High hath done with me.<verse eID="Dan.4.2"/>
+<verse osisID="Dan.4.3" sID="Dan.4.3"/>How great and mighty is his kingdom. His kingdom is an everlasting kingdom; and his dominion is to endless ages.<verse eID="Dan.4.3"/></p>
+<p>
+<verse osisID="Dan.4.4" sID="Dan.4.4"/>I Nabuchodonosar was at rest in my house and in the enjoyment of prosperity.<verse eID="Dan.4.4"/>
+<verse osisID="Dan.4.5" sID="Dan.4.5"/>I had a dream which terrified me and I was troubled on my bed, and the visions of my head disquieted me.<verse eID="Dan.4.5"/>
+<verse osisID="Dan.4.6" sID="Dan.4.6"/>Therefore I issued a decree to bring before me all the wise men of Babylon, that they might explain to me the meaning of this dream.<verse eID="Dan.4.6"/>
+<verse osisID="Dan.4.7" sID="Dan.4.7"/>And when the soothsayers, the magians, the gazarenes, the Chaldees came in, I told my dream before them; but they did not explain to me the meaning of it until<verse eID="Dan.4.7"/>
+<verse osisID="Dan.4.8" sID="Dan.4.8"/>Daniel came, whose name is Baltasar, after the name of my God, and who hath in him a holy spirit of a God.<verse eID="Dan.4.8"/>
+<verse osisID="Dan.4.9" sID="Dan.4.9"/>To him I said, Baltasar chief of the soothsayers, who, I know, hast a holy
+spirit of a god in thee, so that no secret can escape thee, hear the vision of the dream which I have seen; and tell me the meaning of it.<verse eID="Dan.4.9"/>
+<verse osisID="Dan.4.10" sID="Dan.4.10"/>I beheld with astonishment on my bed, and lo! a tree in the midst of the earth. Though its height was great,<verse eID="Dan.4.10"/>
+<verse osisID="Dan.4.11" sID="Dan.4.11"/>the tree increased in magnitude and strength and its top reached up to heaven; and its bulk to the extent of the whole earth.<verse eID="Dan.4.11"/>
+<verse osisID="Dan.4.12" sID="Dan.4.12"/>Its leaves were beautiful and its fruit abundant. And on it there was food for all: and the wild beasts of the field dwelt beneath it; and the birds of the air lodged among its branches; and from it all flesh was fed.<verse eID="Dan.4.12"/>
+<verse osisID="Dan.4.13" sID="Dan.4.13"/>I beheld in a vision of the night on my bed; and lo an <foreign>Eir</foreign>, even a holy one, came down from heaven<verse eID="Dan.4.13"/>
+<verse osisID="Dan.4.14" sID="Dan.4.14"/>and cried with a loud voice, and thus he said, "Cut down that tree and lop off its branches and shake off its leaves and scatter its fruit. Let the beasts be driven from underneath it and the birds from its branches.<verse eID="Dan.4.14"/>
+<verse osisID="Dan.4.15" sID="Dan.4.15"/>But leave the stump of its roots in the earth; and in a band of iron and brass and in the green grass abroad and in the clew of heaven let it abide: and let its portion be with the wild beasts in the grass of the earth.<verse eID="Dan.4.15"/>
+<verse osisID="Dan.4.16" sID="Dan.4.16"/>His heart shall be changed from men and the heart of a wild beast shall be given him and seven seasons shall revolve over him.<verse eID="Dan.4.16"/>
+<verse osisID="Dan.4.17" sID="Dan.4.17"/>The sentence is by the decree of an Eir; and the decree is a request of holy ones, that the living may know that there is a sovereign Lord of the kingdom of men and that he can give it to whom he will, and set over it that which is disesteemed by men."<verse eID="Dan.4.17"/>
+<verse osisID="Dan.4.18" sID="Dan.4.18"/>This is the dream, which I Nabuchodonosar the king have seen. Thou therefore Baltasar, tell me the meaning; for all the wise men of my kingdom are unable to explain to me the meaning of it: but thou Daniel art able, because there is in thee the holy spirit of a god.<verse eID="Dan.4.18"/></p>
+<p>
+<verse osisID="Dan.4.19" sID="Dan.4.19"/>Upon this Daniel, whose name is Baltasar, was absorpt in astonishment for about an hour and his thoughts agitated him and Baltasar answered and said, Let this dream, my Lord, be for them who hate thee, and the interpretation thereof for thine enemies.<verse eID="Dan.4.19"/>
+<verse osisID="Dan.4.20" sID="Dan.4.20"/>The tree which thou sawest, which was increased in magnitude and
+strength, the top of which reached up to heaven and its bulk to the extent of the whole earth,<verse eID="Dan.4.20"/>
+<verse osisID="Dan.4.21" sID="Dan.4.21"/>the leaves of which were beautiful and its fruit abundant, and on which there was food for all; beneath which the beasts of the field dwelt, and on the branches of which the birds of the air roosted:<verse eID="Dan.4.21"/>
+<verse osisID="Dan.4.22" sID="Dan.4.22"/>Thou, O king art it. For thou art become great and strong and thy greatness hath increased and reached up to heaven and thy dominion to the limits of the earth.<verse eID="Dan.4.22"/>
+<verse osisID="Dan.4.23" sID="Dan.4.23"/>And inasmuch as the king saw an Eir, even a holy one descending from heaven who said, Cut down that tree and destroy it, but leave the stump of its roots in the earth; and in a band of iron and brass and in the green grass abroad and in the dew of heaven let it abide; and let its portion be with the wild beasts of the field until seven seasons revolve over it—<verse eID="Dan.4.23"/>
+<verse osisID="Dan.4.24" sID="Dan.4.24"/>This, O king, is the interpretation thereof and the decree of the Most High which is about to come upon my lord the king.<verse eID="Dan.4.24"/>
+<verse osisID="Dan.4.25" sID="Dan.4.25"/>Thou wilt be driven from among men; and thy dwelling shall be with the beasts of the field; and they will feed thee with grass like an ox; and thou
+shalt lodge in the dew of heaven; and seven seasons shall revolve over thee, till thou be made sensible that the Most High ruleth over the kingdom of men and can give it to whom he will.<verse eID="Dan.4.25"/>
+<verse osisID="Dan.4.26" sID="Dan.4.26"/>But inasmuch as they said, Let the stump of the roots of the tree remain, thy kingdom shall remain for thee when thou art made sensible of the heavenly authority.<verse eID="Dan.4.26"/>
+<verse osisID="Dan.4.27" sID="Dan.4.27"/>For this cause, O king, let my counsel be acceptable to thee; and make atonement for thy sins by acts of kindness, and for thy transgressions by tender mercies for the distressed. Perhaps God may forgive thine offences.<verse eID="Dan.4.27"/></p>
+<p>
+<verse osisID="Dan.4.28" sID="Dan.4.28"/>All these things came upon Nabuchodonosar the king.<verse eID="Dan.4.28"/>
+<verse osisID="Dan.4.29" sID="Dan.4.29"/>At the end of twelve months, as the king was walking in the temple of his kingdom at Babylon,<verse eID="Dan.4.29"/>
+<verse osisID="Dan.4.30" sID="Dan.4.30"/>he spake, saying, Is not this the great Babylon which I have built for the house of a kingdom, by the might of my power, for the display of my glory?<verse eID="Dan.4.30"/>
+<verse osisID="Dan.4.31" sID="Dan.4.31"/>While the word was yet in the king's mouth, there came a voice from heaven, To thee Nabuchodonosar it is said, the regal power is gone from thee<verse eID="Dan.4.31"/>
+<verse osisID="Dan.4.32" sID="Dan.4.32"/>and thou shalt be driven from among men and thy dwelling shall be with the beasts of the field; and they shall feed thee with grass like an ox; and
+seven seasons shall revolve over thee, that thou mayst know that the Most High ruleth over the kingdom of men and can give it to whom he will.<verse eID="Dan.4.32"/>
+<verse osisID="Dan.4.33" sID="Dan.4.33"/>In that very hour the word was fulfilled on Nabuchodonosar; and he was driven from among men and ate grass like an ox and his body was bathed with the dew of heaven, until his hair grew strong like the shag of lions and his nails like the claws of birds.<verse eID="Dan.4.33"/>
+<verse osisID="Dan.4.34" sID="Dan.4.34"/>And at the end of the days I Nabuchodonosar lifted up mine eyes to heaven, and mine understanding was restored to me, and I blessed the Most High and praised and glorified him who liveth forever; for his dominion is an everlasting dominion and his kingdom is to endless generations,<verse eID="Dan.4.34"/>
+<verse osisID="Dan.4.35" sID="Dan.4.35"/>and all the inhabitants of the earth are reckoned as nothing; and he doth according to his pleasure in the army of heaven and in the habitations of the earth; and there is none who can stay his hand, or say to him, What hast thou done.<verse eID="Dan.4.35"/>
+<verse osisID="Dan.4.36" sID="Dan.4.36"/>At this very hour my senses were restored to me and I reassumed the honour of my kingdom; and my form returned to me; and my princes and my grandees sought me; and I was re-established in my kingdom and greater majesty was added to me.<verse eID="Dan.4.36"/>
+<verse osisID="Dan.4.37" sID="Dan.4.37"/>Now therefore I Nabuchodonosar praise and extol and glorify the king of heaven; for all his works are true and his ways are judgments and all them who walk in pride he can abase.<verse eID="Dan.4.37"/></p><chapter eID="Dan.4"/>
+<chapter osisID="Dan.5" sID="Dan.5"/>
+<lb/><p>
+<verse osisID="Dan.5.1" sID="Dan.5.1"/>King Baltasar made a great supper for his thousand grandees and wine was
+set before the thousand.<verse eID="Dan.5.1"/>
+<verse osisID="Dan.5.2" sID="Dan.5.2"/>And as he was drinking, Baltasar gave an order upon tasting the wine, to bring the vessels of gold and silver which Nabuchodonosar his father had brought out of the temple at Jerusalem; and that the king and his nobles, and his concubines and his wives should drink out of them.<verse eID="Dan.5.2"/>
+<verse osisID="Dan.5.3" sID="Dan.5.3"/>Accordingly the vessels of gold and silver which had been taken out of the temple of God at Jerusalem were brought, and the king and his nobles and his concubines and his wives drank out of them.<verse eID="Dan.5.3"/>
+<verse osisID="Dan.5.4" sID="Dan.5.4"/>And having drunk wine they praised the gods of gold and silver and brass and wood and stone.<verse eID="Dan.5.4"/>
+<verse osisID="Dan.5.5" sID="Dan.5.5"/>At that very hour there came forth fingers of a man's hand and wrote over against the lamp, on the plaistering of the wall of the king's palace. And the king beheld with astonishment the joint of the hand that was writing.<verse eID="Dan.5.5"/>
+<verse osisID="Dan.5.6" sID="Dan.5.6"/>Whereupon the king's countenance changed and his thoughts troubled him and the joints of his loins were loosened and his knees smote one against another.<verse eID="Dan.5.6"/>
+<verse osisID="Dan.5.7" sID="Dan.5.7"/>And the king cried aloud to bring in the magians, Chaldees, gazarenes. And he said to the wise men of Babylon, Whoever shall read this writing and explain to me the meaning, he shall be clothed with purple and have a chain of gold for his neck and shall be a chief, third in rank, in my kingdom.<verse eID="Dan.5.7"/>
+<verse osisID="Dan.5.8" sID="Dan.5.8"/>And when all the king's wise men came in and could neither read the writing nor explain the meaning to the king,<verse eID="Dan.5.8"/>
+<verse osisID="Dan.5.9" sID="Dan.5.9"/>king Baltasar was agitated and his countenance changed, and his nobles were in like trepidation.<verse eID="Dan.5.9"/>
+<verse osisID="Dan.5.10" sID="Dan.5.10"/>Then the queen came to the banquet house and said, O king, live forever! Let not thy thoughts trouble thee, nor thy countenance change.<verse eID="Dan.5.10"/>
+<verse osisID="Dan.5.11" sID="Dan.5.11"/>There is in thy kingdom a man, in whom is a spirit of a god, and in the clays of thy father, light and knowledge were found in him, and the king Nabuchodonosar thy father appointed him chief of the soothsayers, Chaldees, gazarenes,<verse eID="Dan.5.11"/>
+<verse osisID="Dan.5.12" sID="Dan.5.12"/>because of the extraordinary spirit in him, and of his understanding and knowledge in the interpretation of dreams, and explaining hard sentences and
+solving difficulties—namely Daniel whom the king surnamed Baltasar. Now therefore let him be called in and he will tell thee the meaning of this.<verse eID="Dan.5.12"/>
+<verse osisID="Dan.5.13" sID="Dan.5.13"/>Thereupon Daniel was brought in before the king. And the king said to Daniel, Thou art Daniel? One of the captives of Juda whom the king my father brought hither?<verse eID="Dan.5.13"/>
+<verse osisID="Dan.5.14" sID="Dan.5.14"/>I have heard of thee that there is in thee a spirit of a god, and that light and knowledge and extraordinary wisdom have been found in thee.<verse eID="Dan.5.14"/>
+<verse osisID="Dan.5.15" sID="Dan.5.15"/>Now the wise men, magians, gazarenes have come in before me to read that writing and make known to me the meaning of it, but they are not able to tell me.<verse eID="Dan.5.15"/>
+<verse osisID="Dan.5.16" sID="Dan.5.16"/>But I have heard of thee that thou canst solve difficulties. Now therefore if thou canst read that writing and explain to me the meaning of it, thou shalt be clothed in purple and have a chain of gold for thy neck and be a chief, third in rank, in my kingdom.<verse eID="Dan.5.16"/>
+<verse osisID="Dan.5.17" sID="Dan.5.17"/>Then Daniel said before the king, Let thy gifts be thine own, and give to another the honour of thy household; but the writing I will read, and I will explain to thee the meaning of it.<verse eID="Dan.5.17"/>
+<verse osisID="Dan.5.18" sID="Dan.5.18"/>O king, God, the Most High gave to Nabuchodonosar thy father this kingdom and majesty and glory and honour.<verse eID="Dan.5.18"/>
+<verse osisID="Dan.5.19" sID="Dan.5.19"/>And because of the majesty which he gave him, all the peoples, tribes and languages trembled and were struck with awe at his presence. Whom he would he
+slew, and whom he would he smote, and whom he would he set up, and whom he would he put down.<verse eID="Dan.5.19"/>
+<verse osisID="Dan.5.20" sID="Dan.5.20"/>But when his heart became elated and his spirit emboldened to shew its arrogance, he was deposed from the throne of his kingdom and his glory was taken from him;<verse eID="Dan.5.20"/>
+<verse osisID="Dan.5.21" sID="Dan.5.21"/>and he was driven from among men; and his heart was disposed to associate with the beasts; and his dwelling was with the wild asses; and he was fed with grass like an ox; and his body was bathed with the dew of heaven, till he was made to know that the Most High God ruleth over the kingdom of men and can give it to whom he will.<verse eID="Dan.5.21"/></p>
+<p>
+<verse osisID="Dan.5.22" sID="Dan.5.22"/>Now thou, Baltasar, his son, hast not therefore humbled thy heart before this God. Hast thou not known all these things?<verse eID="Dan.5.22"/>
+<verse osisID="Dan.5.23" sID="Dan.5.23"/>Yet thou hast exalted thyself against the Lord God of heaven. And the vessels of his house have been brought before thee, and thou and thy nobles and thy concubines and thy wives have drunk wine out of them, and thou hast praised the gods of gold and silver and brass and iron and wood and stone which neither
+see nor hear, nor understand: but the God in whose hand is thy breath and all thy ways—him thou hast not glorified.<verse eID="Dan.5.23"/>
+<verse osisID="Dan.5.24" sID="Dan.5.24"/>For this cause a joint of a hand hath been sent from his presence, and it hath sketched this writing.<verse eID="Dan.5.24"/>
+<verse osisID="Dan.5.25" sID="Dan.5.25"/>Now this is what is written, <foreign>Mane</foreign>, <foreign>Thekel</foreign>,
+<foreign>Phares</foreign>.<verse eID="Dan.5.25"/>
+<verse osisID="Dan.5.26" sID="Dan.5.26"/>The interpretation of the decree is this. <foreign>Mane</foreign>; God hath measured thy kingdom and brought it to a conclusion.<verse eID="Dan.5.26"/>
+<verse osisID="Dan.5.27" sID="Dan.5.27"/><foreign>Thekel</foreign>—It hath been weighed in a balance and found wanting.<verse eID="Dan.5.27"/>
+<verse osisID="Dan.5.28" sID="Dan.5.28"/><foreign>Phares</foreign>—Thy kingdom is taken away and given to Medes and Persians.<verse eID="Dan.5.28"/></p>
+<p>
+<verse osisID="Dan.5.29" sID="Dan.5.29"/>Then Baltasar gave orders and they clothed Daniel with purple and put a chain of gold about his neck, and proclamation was made concerning him that he was a chief, third in rank, in the kingdom.<verse eID="Dan.5.29"/>
+<verse osisID="Dan.5.30" sID="Dan.5.30"/>And that very night Baltasar the Chaldean king was slain,<verse eID="Dan.5.30"/>
+<verse osisID="Dan.5.31" sID="Dan.5.31"/>and Darius the Mede assumed the kingdom, being sixty two years of age.<verse eID="Dan.5.31"/></p><chapter eID="Dan.5"/>
+<chapter osisID="Dan.6" sID="Dan.6"/>
+<lb/><p>
+<verse osisID="Dan.6.1" sID="Dan.6.1"/>It having seemed good in the sight of Darius, he set over the kingdom a hundred and twenty satraps to be governors of provinces throughout his whole dominion;<verse eID="Dan.6.1"/>
+<verse osisID="Dan.6.2" sID="Dan.6.2"/>and over these he appointed three ministers of whom Daniel was one; that the governors might render an account to them, so that the king might not be oppressed with business.<verse eID="Dan.6.2"/>
+<verse osisID="Dan.6.3" sID="Dan.6.3"/>And Daniel was at the head of these. Because there was in him an extraordinary spirit and the king had set him over his whole kingdom,<verse eID="Dan.6.3"/>
+<verse osisID="Dan.6.4" sID="Dan.6.4"/>therefore the ministers and the governors sought to find some pretext against Daniel. And when they found no pretext, lapse or crime with which to charge him, for he was faithful;<verse eID="Dan.6.4"/>
+<verse osisID="Dan.6.5" sID="Dan.6.5"/>the ministers said, We shall not find any pretext against Daniel except in the ceremonies relating to his God.<verse eID="Dan.6.5"/>
+<verse osisID="Dan.6.6" sID="Dan.6.6"/>Then the ministers and the governors waited on the king, and said to him, King Darius live forever!<verse eID="Dan.6.6"/>
+<verse osisID="Dan.6.7" sID="Dan.6.7"/>All that are over thy kingdom, the generals and governors, the chief commanders and toparchs have joined in opinion to establish by a royal statute and make a firm decree, that whoever shall make any request of any god or man for thirty days, save of thee only, O king; he shall be cast into the den of the lions.<verse eID="Dan.6.7"/>
+<verse osisID="Dan.6.8" sID="Dan.6.8"/>Now therefore, O king, establish the edict and promulgate it in writing, that the decree of the Persians and Medes may not be dispensed with.<verse eID="Dan.6.8"/>
+<verse osisID="Dan.6.9" sID="Dan.6.9"/>Upon this Darius the king ordered the decree to be written.<verse eID="Dan.6.9"/></p>
+<p>
+<verse osisID="Dan.6.10" sID="Dan.6.10"/>Now when Daniel knew that the decree was passed, he went home and the windows in his upper chamber towards Jerusalem were opened for him, and three times a day, kneeling down on his knees, he prayed and gave thanks before his God as he had done heretofore.<verse eID="Dan.6.10"/></p>
+<p>
+<verse osisID="Dan.6.11" sID="Dan.6.11"/>Now those men watched and having found Daniel praising and supplicating his God,<verse eID="Dan.6.11"/>
+<verse osisID="Dan.6.12" sID="Dan.6.12"/>they went and said to the king, O king, hast thou not passed an edict, that every man who shall make any request of any god or man for the space of thirty days save of thee only, king, shall be cast into the den of the lions? And the king said, It is true; and the decree of the Medes and Persians cannot be altered.<verse eID="Dan.6.12"/>
+<verse osisID="Dan.6.13" sID="Dan.6.13"/>Then they answered and said before the king, Daniel, who is one of the captives from Juda, hath not paid obedience to thy decree. For three times a day he maketh requests of his God.<verse eID="Dan.6.13"/>
+<verse osisID="Dan.6.14" sID="Dan.6.14"/>When the king heard this matter he was exceedingly grieved for it and
+strove hard for Daniel to save him and continued till evening his endeavours to deliver him.<verse eID="Dan.6.14"/>
+<verse osisID="Dan.6.15" sID="Dan.6.15"/>Then the men said to the king, Know, O king, that it is decreed by the Medes and Persians, That no edict or statute which the king shall pass must be dispensed with.<verse eID="Dan.6.15"/>
+<verse osisID="Dan.6.16" sID="Dan.6.16"/>Then the king gave orders and they brought Daniel and threw him into the lions' den. And the king said to Daniel, Thy God whom thou servest continually will himself deliver thee.<verse eID="Dan.6.16"/>
+<verse osisID="Dan.6.17" sID="Dan.6.17"/>And when they had brought a stone and put it on the mouth of the den, the king caused it to be sealed with his own signet and with the signet of his nobles that nothing might be altered in respect to Daniel.<verse eID="Dan.6.17"/>
+<verse osisID="Dan.6.18" sID="Dan.6.18"/>Then the king went to his house and retired to bed without supper. And there was no food brought to him and sleep went from him. But God shut the mouths of the lions so that they did not molest Daniel.<verse eID="Dan.6.18"/>
+<verse osisID="Dan.6.19" sID="Dan.6.19"/>And in the morning the king arose soon as it was light and went in haste to the lions' den.<verse eID="Dan.6.19"/>
+<verse osisID="Dan.6.20" sID="Dan.6.20"/>And when he approached the den, he cried with a loud voice, O Daniel, the
+servant of the living God, hath thy God, whom thou servest continually, been able to deliver thee from the mouths of the lions?<verse eID="Dan.6.20"/>
+<verse osisID="Dan.6.21" sID="Dan.6.21"/>Thereupon Daniel said to the king, O king live forever!<verse eID="Dan.6.21"/>
+<verse osisID="Dan.6.22" sID="Dan.6.22"/>My God sent his angel and shut the mouths of the lions and they have not hurt me. For before him rectitude was found in me; and even in thy sight, O king, I have committed no offence.<verse eID="Dan.6.22"/>
+<verse osisID="Dan.6.23" sID="Dan.6.23"/>At this the king was exceedingly rejoiced and gave order to take Daniel up out of the den. So he was taken up out of the den and there was no manner of hurt found on him, because he had trusted in his God.<verse eID="Dan.6.23"/>
+<verse osisID="Dan.6.24" sID="Dan.6.24"/>Then the king commanded and they brought the men who had accused Daniel, and they and their sons and their wives were cast into the den of the lions. And before they reached the bottom of the den the lions had such mastery over them that they broke all their bones.<verse eID="Dan.6.24"/>
+<verse osisID="Dan.6.25" sID="Dan.6.25"/>Then Darius the king wrote—To all the peoples, tribes and languages who dwell in the whole earth, Peace be multiplied to you.<verse eID="Dan.6.25"/>
+<verse osisID="Dan.6.26" sID="Dan.6.26"/>From my presence this decree is established, that in every government of my kingdom men tremble and be struck with awe at the presence of the God of Daniel; for he is the living God and endureth forever, and his kingdom can never be destroyed and his dominion will be to the end.<verse eID="Dan.6.26"/>
+<verse osisID="Dan.6.27" sID="Dan.6.27"/>He supporteth and delivereth and doth signs and wonders in heaven and on earth. He it is who hath delivered Daniel from the power of the lions.<verse eID="Dan.6.27"/></p>
+<p>
+<verse osisID="Dan.6.28" sID="Dan.6.28"/>So Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.<verse eID="Dan.6.28"/></p><chapter eID="Dan.6"/>
+<chapter osisID="Dan.7" sID="Dan.7"/>
+<lb/><p>
+<verse osisID="Dan.7.1" sID="Dan.7.1"/>In the first year of Baltasar king of the Chaldeans, Daniel had a dream and these were the visions of his head on his bed and he wrote down this dream of his.<verse eID="Dan.7.1"/></p>
+<p>
+<verse osisID="Dan.7.2" sID="Dan.7.2"/>I Daniel beheld, and lo! the four winds of heaven blew violently on the great sea;<verse eID="Dan.7.2"/>
+<verse osisID="Dan.7.3" sID="Dan.7.3"/>and four great beasts came up out of the sea, different one from the other.<verse eID="Dan.7.3"/>
+<verse osisID="Dan.7.4" sID="Dan.7.4"/>The first was like a lioness, and had wings like those of an eagle. I beheld till her wings were plucked off; and she was raised from the earth and
+stood on the feet of a man and a man's heart was given her.<verse eID="Dan.7.4"/>
+<verse osisID="Dan.7.5" sID="Dan.7.5"/>And behold the second beast was like a bear; and it stood half erect and there were three ribs in its mouth between its teeth, and they said to it thus, "Arise, devour much flesh."<verse eID="Dan.7.5"/>
+<verse osisID="Dan.7.6" sID="Dan.7.6"/>After this I looked, and lo! another beast like a leopard; and it had four wings of a bird on it; and this beast had four heads and to it dominion was given.<verse eID="Dan.7.6"/>
+<verse osisID="Dan.7.7" sID="Dan.7.7"/>After this I beheld, and lo! a fourth beast, dreadful and terrible, exceedingly strong and its teeth of iron! It devoured and brake in pieces! and the residue it trampled with its feet. Now this was far different from all the beasts which were before it and it had ten horns.<verse eID="Dan.7.7"/>
+<verse osisID="Dan.7.8" sID="Dan.7.8"/>I attended to its horns, and behold another little horn sprouted up in the midst of them; and three of the horns which were before it were rooted out from before it. And behold in this horn there were eyes like the eyes of a man and a mouth speaking great things.<verse eID="Dan.7.8"/>
+<verse osisID="Dan.7.9" sID="Dan.7.9"/>And I beheld till the thrones were set and an ancient of days was seated, and his garment was white as snow and the hair of his head was like pure wool. His throne was a flame of fire and his wheels a blazing fire.<verse eID="Dan.7.9"/>
+<verse osisID="Dan.7.10" sID="Dan.7.10"/>A river of fire rolled before him. Thousands of thousands ministered to him and myriads of myriads waited on him. The court sat and books were opened.<verse eID="Dan.7.10"/>
+<verse osisID="Dan.7.11" sID="Dan.7.11"/>I looked then because of the sound of the great words which that horn had
+spoken, until the beast was slain and destroyed and its body given to be burned with fire.<verse eID="Dan.7.11"/>
+<verse osisID="Dan.7.12" sID="Dan.7.12"/>And the government of the rest of the beasts was changed and a length of time given them until a time and a time.<verse eID="Dan.7.12"/>
+<verse osisID="Dan.7.13" sID="Dan.7.13"/>And I beheld in the vision of the night, and lo! with the clouds of heaven one like a son of man coming! And he advanced to the Ancient of days and was introduced to him.<verse eID="Dan.7.13"/>
+<verse osisID="Dan.7.14" sID="Dan.7.14"/>And to him was given the government and the honour and the kingdom; and all the peoples, tribes and languages are to serve him. His dominion is an everlasting dominion, which shall never pass away, and his kingdom shall not be destroyed.<verse eID="Dan.7.14"/></p>
+<p>
+<verse osisID="Dan.7.15" sID="Dan.7.15"/>As for me, Daniel, my spirit quivered in my whole frame and the vision of my head troubled me.<verse eID="Dan.7.15"/>
+<verse osisID="Dan.7.16" sID="Dan.7.16"/>And I went to one of them in waiting and made diligent inquiry to learn of him concerning all these things and he gave me exact information and explained to me the meaning of these things.<verse eID="Dan.7.16"/>
+<verse osisID="Dan.7.17" sID="Dan.7.17"/>These beasts, which are four, denote that four kingdoms shall be raised up on the earth.<verse eID="Dan.7.17"/>
+<verse osisID="Dan.7.18" sID="Dan.7.18"/>These shall be removed, and the holy ones of the Most High shall take the kingdom and hold it to an age of the ages.<verse eID="Dan.7.18"/></p>
+<p>
+<verse osisID="Dan.7.19" sID="Dan.7.19"/>Then I inquired particularly concerning the fourth beast, because it was different from every beast, exceedingly dreadful. Its teeth were of iron and its claws of brass. It devoured and brake in pieces and the residue it trampled with its feet.<verse eID="Dan.7.19"/>
+<verse osisID="Dan.7.20" sID="Dan.7.20"/>And concerning the ten horns, which were on its head, and that other, which sprouted up and shook off some of the first; and which had eyes and a mouth speaking great things and the appearance of which was greater than the rest,<verse eID="Dan.7.20"/>
+<verse osisID="Dan.7.21" sID="Dan.7.21"/>I beheld and that horn made war on the holy ones and prevailed against them<verse eID="Dan.7.21"/>
+<verse osisID="Dan.7.22" sID="Dan.7.22"/>until the Ancient of days came and gave judgment for the holy ones of the Most High, and the time came and the holy ones possessed the kingdom.<verse eID="Dan.7.22"/>
+<verse osisID="Dan.7.23" sID="Dan.7.23"/>And he said, With regard to the fourth beast, there shall be a fourth kingdom on the earth which shall surpass all the kingdoms and devour all the earth and trample down and cut to pieces.<verse eID="Dan.7.23"/>
+<verse osisID="Dan.7.24" sID="Dan.7.24"/>And its ten horns denote that ten kingdoms shall be raised up; and after them another shall be raised up which shall exceed in evils all those before and shall humble three kings<verse eID="Dan.7.24"/>
+<verse osisID="Dan.7.25" sID="Dan.7.25"/>and shall speak words against the Most High and wear out the holy ones of the Most High and think of changing times and law, and his shall be put in its power for a time and times and the half of a time.<verse eID="Dan.7.25"/>
+<verse osisID="Dan.7.26" sID="Dan.7.26"/>When the court hath sat they will change this government to abolish and destroy it utterly.<verse eID="Dan.7.26"/>
+<verse osisID="Dan.7.27" sID="Dan.7.27"/>For the kingdom and the dominion and the majesty of the kings who are under the whole heaven, is given to the holy ones of the Most High. And his kingdom shall be an everlasting kingdom, and all the governments shall serve and obey him.<verse eID="Dan.7.27"/>
+<verse osisID="Dan.7.28" sID="Dan.7.28"/>To this is the end of this word.</p>
+<p>
+As for me, Daniel, my thoughts troubled me much and my countenance was changed. But I kept the matter in mine own heart.<verse eID="Dan.7.28"/></p><chapter eID="Dan.7"/>
+<chapter osisID="Dan.8" sID="Dan.8"/>
+<lb/><p>
+<verse osisID="Dan.8.1" sID="Dan.8.1"/>In the third year of Baltasar the king a vision appeared to me. After the first vision which appeared to me,<verse eID="Dan.8.1"/>
+<verse osisID="Dan.8.2" sID="Dan.8.2"/>I Daniel was at Susoi the palace which is in the province of Ailam; and being on the bank of the Oubal,<verse eID="Dan.8.2"/>
+<verse osisID="Dan.8.3" sID="Dan.8.3"/>I lifted up mine eyes and looked, and lo a ram stood before the Oubal and it had lofty horns and one was higher than the other; and the highest sprang up last.<verse eID="Dan.8.3"/>
+<verse osisID="Dan.8.4" sID="Dan.8.4"/>And I saw the ram butting westward and northward and southward, and of all the beasts none could stand before him nor was there any to deliver out of his hand. So he acted according to his pleasure and became great.<verse eID="Dan.8.4"/>
+<verse osisID="Dan.8.5" sID="Dan.8.5"/>And while I was considering, behold a he goat came from the south west over the face of the whole earth and he did not seem to touch the ground. And the goat had a horn between his eyes.<verse eID="Dan.8.5"/>
+<verse osisID="Dan.8.6" sID="Dan.8.6"/>And he came to the ram which had two horns and which I saw standing before the Oubal and ran up to him with all his might.<verse eID="Dan.8.6"/>
+<verse osisID="Dan.8.7" sID="Dan.8.7"/>I saw him indeed coming up to the ram and he was exasperated against him, and he smote the ram and broke his two horns and the ram had not power to stand before him. So he threw him on the ground and trampled him, and there was none to deliver the ram out of his hand.<verse eID="Dan.8.7"/>
+<verse osisID="Dan.8.8" sID="Dan.8.8"/>And the goat of the goats became very great and when he was in full
+strength, that great horn of his was broken; and four others sprang up from under it towards the four winds of heaven.<verse eID="Dan.8.8"/>
+<verse osisID="Dan.8.9" sID="Dan.8.9"/>And out from <hi type="emphasis">the first</hi> of them there came forth one strong horn which became very great towards the south and towards the host,<verse eID="Dan.8.9"/>
+<verse osisID="Dan.8.10" sID="Dan.8.10"/>and its greatness reached even to the host of heaven. And there fell on the earth some of the host of heaven and some of the stars, and these were trodden down.<verse eID="Dan.8.10"/>
+<verse osisID="Dan.8.11" sID="Dan.8.11"/>And until the captain general should deliver the captivity, even by reason of him the sacrifice was disturbed; and he was prospered; and the
+sanctuary is to be desolated;<verse eID="Dan.8.11"/>
+<verse osisID="Dan.8.12" sID="Dan.8.12"/>and sin was permitted against the sacrifice; and this righteousness was cast on the ground; so he acted and was prospered.<verse eID="Dan.8.12"/>
+<verse osisID="Dan.8.13" sID="Dan.8.13"/>And I heard a holy one speaking; and a holy one said to the Phelmoni who
+spoke, "How long shall this vision last, respecting the sacrifice which is taken away, and the sin of desolation which is permitted; and the sanctuary and the host be trodden down?"<verse eID="Dan.8.13"/>
+<verse osisID="Dan.8.14" sID="Dan.8.14"/>And he said to him, Even till there shall be of an evening and a morning
+<hi type="emphasis">two thousand four hundred days</hi>. Then shall the sanctuary be cleansed.<verse eID="Dan.8.14"/></p>
+<p>
+<verse osisID="Dan.8.15" sID="Dan.8.15"/>And when I Daniel had seen the vision and sought the meaning, then lo! there stood before me an appearance like that of a man.<verse eID="Dan.8.15"/>
+<verse osisID="Dan.8.16" sID="Dan.8.16"/>And I heard a voice of a man amidst the Oubal and it called and said, "Gabriel, instruct him respecting the vision."<verse eID="Dan.8.16"/>
+<verse osisID="Dan.8.17" sID="Dan.8.17"/>So he came and stood near where I was standing. And when he came, I was
+struck with terror and fell on my face. And he said to me, Son of man, understand; for this vision also is for the end of a time.<verse eID="Dan.8.17"/>
+<verse osisID="Dan.8.18" sID="Dan.8.18"/>And while he was speaking to me, I fell flat with my face on the ground. Then he touched me and set me on my feet,<verse eID="Dan.8.18"/>
+<verse osisID="Dan.8.19" sID="Dan.8.19"/>and said, Behold I make known to thee the things which shall be in the last days of the indignation; for this vision also is for the end of a time.<verse eID="Dan.8.19"/>
+<verse osisID="Dan.8.20" sID="Dan.8.20"/>The ram which thou sawest which had the horns, is the king of the Medes and Persians.<verse eID="Dan.8.20"/>
+<verse osisID="Dan.8.21" sID="Dan.8.21"/>The goat of the goats, is the king of the Grecians; and the great horn which was between his eyes is the first king.<verse eID="Dan.8.21"/>
+<verse osisID="Dan.8.22" sID="Dan.8.22"/>Now as upon this being broken, four horns shot up from under it, four kings of that nation of his will be raised up, but not by their own might.<verse eID="Dan.8.22"/>
+<verse osisID="Dan.8.23" sID="Dan.8.23"/>And in the last days of their kingdom, their sins being come to the full, a king will be raised up of an unblushing countenance, skilled in problems,<verse eID="Dan.8.23"/>
+<verse osisID="Dan.8.24" sID="Dan.8.24"/>and his power will be great, and he will destroy things which are objects of admiration and will prosper and act and destroy mighty men, and a holy people.<verse eID="Dan.8.24"/>
+<verse osisID="Dan.8.25" sID="Dan.8.25"/>And the yoke of his chain will prosper; and by his hand and by his heart, deceit will be magnified, and with deceit he will destroy many and for the destruction of many he will be raised up and will break them like eggs with his hands.<verse eID="Dan.8.25"/>
+<verse osisID="Dan.8.26" sID="Dan.8.26"/>Now the vision of the evening and the morning, which was mentioned is true. Seal thou therefore the vision, for it is for many days.<verse eID="Dan.8.26"/></p>
+<p>
+<verse osisID="Dan.8.27" sID="Dan.8.27"/>Upon this I Daniel was confined to my bed and sick.—And when I arose I did the king's business. And I was astonished at the vision; but none understood it.<verse eID="Dan.8.27"/></p><chapter eID="Dan.8"/>
+<chapter osisID="Dan.9" sID="Dan.9"/>
+<lb/><p>
+<verse osisID="Dan.9.1" sID="Dan.9.1"/>In the first year of Darius, the son of Assuerus of the seed of the Medes, who reigned over the kingdom of the Chaldeans,<verse eID="Dan.9.1"/>
+<verse osisID="Dan.9.2" sID="Dan.9.2"/>I Daniel understood by the books that the number of the years, which was a word of the Lord to Jeremias the prophet, for the accomplishment of the desolation of Jerusalem, was seventy years.<verse eID="Dan.9.2"/>
+<verse osisID="Dan.9.3" sID="Dan.9.3"/>Therefore I turned my face to the Lord my God, to seek a prayer and
+supplication by fasting and sackcloth.<verse eID="Dan.9.3"/>
+<verse osisID="Dan.9.4" sID="Dan.9.4"/>And I prayed to the Lord my God and made confession and said, O Lord, the God great and marvellous, who keepest thy covenant and thy mercy for them who love thee and keep thy commandments! We have sinned;<verse eID="Dan.9.4"/>
+<verse osisID="Dan.9.5" sID="Dan.9.5"/>we have committed iniquity; we have transgressed and apostatised and turned away from thy commandments, and from thy judgments,<verse eID="Dan.9.5"/>
+<verse osisID="Dan.9.6" sID="Dan.9.6"/>and have not hearkened to thy servants the prophets who spoke in thy name to our kings and our chiefs and our fathers and to all the people of the land.<verse eID="Dan.9.6"/>
+<verse osisID="Dan.9.7" sID="Dan.9.7"/>To thee, Lord, belongeth righteousness; but to us confusion of face as at this day—to the man Juda and to the inhabitants of Jerusalem and to all Israel—and to those near and to them far off, in every land where thou hast
+scattered them for their breach of covenant of which they have been guilty.<verse eID="Dan.9.7"/>
+<verse osisID="Dan.9.8" sID="Dan.9.8"/>In thee, O Lord, is our righteousness. Though to us belongeth confusion of face—to our kings, and our chiefs and our fathers, who have sinned against thee;<verse eID="Dan.9.8"/>
+<verse osisID="Dan.9.9" sID="Dan.9.9"/>with the Lord our God are tender mercies and forgivenesses. Because we apostatised<verse eID="Dan.9.9"/>
+<verse osisID="Dan.9.10" sID="Dan.9.10"/>and did not hearken to the voice of the Lord our God, to walk in his laws which he set before us by the ministry of his servants the prophets;<verse eID="Dan.9.10"/>
+<verse osisID="Dan.9.11" sID="Dan.9.11"/>and all Israel transgressed thy law, and declined to hearken to thy voice; therefore upon us came the curse and the execration which is written in the law of Moses the servant of God. Because we sinned against him,<verse eID="Dan.9.11"/>
+<verse osisID="Dan.9.12" sID="Dan.9.12"/>therefore he confirmed his words which he spoke against us and against our judges who judged us, by bringing upon us great evils, such as never happened under the whole heaven; as was the case in Jerusalem.<verse eID="Dan.9.12"/>
+<verse osisID="Dan.9.13" sID="Dan.9.13"/>According to what is written in the law of Moses all those evils have come upon us. We indeed did not supplicate the favour of the Lord our God, by turning from all our wickedness, therefore that we might be made sensible of all thy truth,<verse eID="Dan.9.13"/>
+<verse osisID="Dan.9.14" sID="Dan.9.14"/>the Lord hath indeed been watchful and hath brought upon us these things. For the Lord our God is righteous in every act of his which he hath done, and we have not hearkened to his voice.<verse eID="Dan.9.14"/></p>
+<p>
+<verse osisID="Dan.9.15" sID="Dan.9.15"/>Now, O Lord our God, who broughtest thy people out of the land of Egypt with a strong hand and who hast made thyself a great name as at this day; we have sinned, we have committed iniquity.<verse eID="Dan.9.15"/>
+<verse osisID="Dan.9.16" sID="Dan.9.16"/>Mercy, O Lord, is thine in all things; let thy wrath, I beseech thee, be turned away and thine indignation from thy city Jerusalem, thy holy mountain. Because we have sinned, therefore for our iniquities and the iniquities of our fathers, Jerusalem and thy people are become an object of reproach among all those around us.<verse eID="Dan.9.16"/>
+<verse osisID="Dan.9.17" sID="Dan.9.17"/>But now, O Lord our God, hearken to the prayer of thy servant and to his
+supplications; and let thy face shine upon thy sanctuary which is desolate. For thine own sake, O Lord,<verse eID="Dan.9.17"/>
+<verse osisID="Dan.9.18" sID="Dan.9.18"/>incline, O my God, thine ear and hear. Open thine eyes and behold our desolation and that of thy city which is called by thy name. For we do not for our own righteousness present our piteous case before thee; but we cast ourselves upon thy tender mercies, O Lord, which are many.<verse eID="Dan.9.18"/>
+<verse osisID="Dan.9.19" sID="Dan.9.19"/>O Lord hear! O Lord, be appeased! Attend, O Lord! Defer not, O my God, for thine own sake! for thy city and thy people are called by thy name.<verse eID="Dan.9.19"/></p>
+<p>
+<verse osisID="Dan.9.20" sID="Dan.9.20"/>Now whilst I was still speaking and praying and confessing mine own sins and the sins of my people Israel, and presenting my supplication before the Lord my God for the mount of the sanctuary;<verse eID="Dan.9.20"/>
+<verse osisID="Dan.9.21" sID="Dan.9.21"/>even whilst I was uttering this prayer, behold a man, Gabriel, whom I saw in the former vision, came flying and touched me about the hour of the evening
+sacrifice<verse eID="Dan.9.21"/>
+<verse osisID="Dan.9.22" sID="Dan.9.22"/>and instructed me and conversed with me and said, Daniel, I am now come to teach thee knowledge.<verse eID="Dan.9.22"/>
+<verse osisID="Dan.9.23" sID="Dan.9.23"/>At the beginning of thy supplication a word went forth, and I am come to tell thee; for thou art a man greatly beloved. Be instructed therefore by the decree, and understand by the vision.<verse eID="Dan.9.23"/>
+<verse osisID="Dan.9.24" sID="Dan.9.24"/>Seventy weeks are set apart for thy people and for the holy city; for finishing sin offerings, and for sealing up sin offerings; and blotting out iniquities, and making atonement for iniquities; and for bringing in an everlasting righteousness; and for sealing vision and prophet; and for anointing the Holy of Holies.<verse eID="Dan.9.24"/>
+<verse osisID="Dan.9.25" sID="Dan.9.25"/>Therefore thou art to know and understand, that from the going forth of a word for returning an answer and for building Jerusalem until an Anointed ruler are seven weeks, and sixty two weeks. They shall indeed return and a street
+shall be built and a wall, and these times shall be emptied out,<verse eID="Dan.9.25"/>
+<verse osisID="Dan.9.26" sID="Dan.9.26"/>and after the sixty two weeks, the Messiah shall be cut off, though there is no crime in him; and he, with the ruler who is coming, will destroy the city and the sanctuary. They shall be destroyed with a deluge, and even to the end of the war determined on in course, with desolations.<verse eID="Dan.9.26"/>
+<verse osisID="Dan.9.27" sID="Dan.9.27"/>Now one week shall confirm a covenant for many and in the half of that week my sacrifice and libation shall be taken away. And upon the temple shall be an abomination of the desolations, and at the end of a time, an end shall be put to that desolation.<verse eID="Dan.9.27"/></p><chapter eID="Dan.9"/>
+<chapter osisID="Dan.10" sID="Dan.10"/>
+<lb/><p>
+<verse osisID="Dan.10.1" sID="Dan.10.1"/>In the third year of Cyrus, king of the Persians, a word was revealed to Daniel, surnamed Baltasar. And the word is true and great power and knowledge was given him by the vision.<verse eID="Dan.10.1"/>
+<verse osisID="Dan.10.2" sID="Dan.10.2"/>In those days, I Daniel, had been mourning three weeks.<verse eID="Dan.10.2"/>
+<verse osisID="Dan.10.3" sID="Dan.10.3"/>I had not eaten palatable bread, nor had flesh or wine entered my mouth, neither had I anointed myself to the full end of three weeks.<verse eID="Dan.10.3"/>
+<verse osisID="Dan.10.4" sID="Dan.10.4"/>On the twenty fourth of the first month when I was on the bank of the great river, namely, Tigris Eddekel,<verse eID="Dan.10.4"/>
+<verse osisID="Dan.10.5" sID="Dan.10.5"/>I raised mine eyes and looked, and lo! a man clothed with a flowing robe and his loins girded with gold of Ophaz,<verse eID="Dan.10.5"/>
+<verse osisID="Dan.10.6" sID="Dan.10.6"/>and his body like a Tharsis, and his face like the appearance of lightning, and his eyes like lamps of fire, and his arms and his legs like the appearance of sparkling brass, and the sound of his words like the sound of a multitude.<verse eID="Dan.10.6"/></p>
+<p>
+<verse osisID="Dan.10.7" sID="Dan.10.7"/>Now, I Daniel alone saw this vision. The men who were with me did not see it; but great consternation fell upon them and they fled for fear;<verse eID="Dan.10.7"/>
+<verse osisID="Dan.10.8" sID="Dan.10.8"/>so I was left alone. And when I beheld this great vision, there was no
+strength left in me. Even my comeliness was changed into corruption and I retained no strength;<verse eID="Dan.10.8"/>
+<verse osisID="Dan.10.9" sID="Dan.10.9"/>but I heard the sound of his words. And when I heard him, I was struck with awe, and my face was on the ground.<verse eID="Dan.10.9"/>
+<verse osisID="Dan.10.10" sID="Dan.10.10"/>And lo! a hand touched me and raised me up upon my knees.<verse eID="Dan.10.10"/>
+<verse osisID="Dan.10.11" sID="Dan.10.11"/>And he said to me, Daniel, man greatly beloved, gain knowledge by the words which I speak to thee and stand up; for I am now sent to thee. And when he said this to me I stood up trembling.<verse eID="Dan.10.11"/>
+<verse osisID="Dan.10.12" sID="Dan.10.12"/>Then he said to me, Fear not, Daniel: for from the first day that thou didst set thy heart to gain knowledge and afflict thyself before the Lord thy God, thy words were heard, and I came at thy words;<verse eID="Dan.10.12"/>
+<verse osisID="Dan.10.13" sID="Dan.10.13"/>but the chief of the kingdom of the Persians stood in my way twenty one days, when lo! Michael the first of the chiefs came to help me, and I left him there with the chief of the kingdom of the Persians,<verse eID="Dan.10.13"/>
+<verse osisID="Dan.10.14" sID="Dan.10.14"/>and am come to teach thee what will befal thy people in the last days. Because this vision is for days to come.—<verse eID="Dan.10.14"/></p>
+<p>
+<verse osisID="Dan.10.15" sID="Dan.10.15"/>Now while he was speaking to me in such terms, I turned my countenance to the earth, and was in amaze;<verse eID="Dan.10.15"/>
+<verse osisID="Dan.10.16" sID="Dan.10.16"/>and behold a likeness as it were of a son of man touched my lips, whereupon I opened my mouth, and spoke and said to him who was standing before me, O my lord, at the sight of thee my vitals are changed, and I have no
+strength;<verse eID="Dan.10.16"/>
+<verse osisID="Dan.10.17" sID="Dan.10.17"/>how then can thy servant, O my lord, speak with this my lord? As for me, from that moment my strength could not support me and there was no spirit left in me.<verse eID="Dan.10.17"/>
+<verse osisID="Dan.10.18" sID="Dan.10.18"/>Then an appearance like that of a man touched me again, and strengthened me<verse eID="Dan.10.18"/>
+<verse osisID="Dan.10.19" sID="Dan.10.19"/>and said to me, Man much beloved, fear not: peace be to thee. Take courage and be strong. And when he had spoken to me I recovered strength and
+said, Let my lord speak, for thou hast strengthened me.<verse eID="Dan.10.19"/>
+<verse osisID="Dan.10.20" sID="Dan.10.20"/>Then he said, O that thou knewest that for which I came to thee, then would I return to fight for the chief of the Persians, for as I was coming, the chief of the Grecians came.<verse eID="Dan.10.20"/>
+<verse osisID="Dan.10.21" sID="Dan.10.21"/>But I will tell thee that only which is ordered in a writing of truth. There is indeed none with me solicitous about him, but only Michael your chief.<verse eID="Dan.10.21"/></p><chapter eID="Dan.10"/>
+<chapter osisID="Dan.11" sID="Dan.11"/>
+<p type="x-nobreak">
+<verse osisID="Dan.11.1" sID="Dan.11.1"/>As for me, I in the first year of Cyrus, was his strength and power.<verse eID="Dan.11.1"/>
+<verse osisID="Dan.11.2" sID="Dan.11.2"/>And now I will tell the truth: Behold yet three kings shall be raised up in Persia, and the fourth shall abound in great wealth above all. And after he hath gotten this his great wealth he will be stirred up against all the kingdoms of the Greeks.<verse eID="Dan.11.2"/>
+<verse osisID="Dan.11.3" sID="Dan.11.3"/>But there will be raised up a mighty king who will be lord of a great dominion and will do according to his pleasure.<verse eID="Dan.11.3"/>
+<verse osisID="Dan.11.4" sID="Dan.11.4"/>But as soon as his kingdom hath been set up, it will be broken in pieces and divided towards the four winds of heaven, but not to his utmost bounds, nor according to his dominion which he ruled. For his kingdom will be torn to pieces, and given to others besides these.<verse eID="Dan.11.4"/>
+<verse osisID="Dan.11.5" sID="Dan.11.5"/>And the king of the south will grow strong; and one of these chiefs will grow strong against him, and will rule over a great dominion.<verse eID="Dan.11.5"/>
+<verse osisID="Dan.11.6" sID="Dan.11.6"/>And after his years they will come to an agreement. And a daughter of a king of the south will come to a king of the north for the purpose of making leagues with him. But he will not retain strength of arm, nor shall his seed
+stand; for she will be delivered up and they who bring her, both the young woman, and he who strengtheneth her in those times.<verse eID="Dan.11.6"/>
+<verse osisID="Dan.11.7" sID="Dan.11.7"/>Out of the blossom of her root one having a government of his own will be raised up, and will come to this power, and enter the strong holds of the king of the north, and perform exploits in them and prevail.<verse eID="Dan.11.7"/>
+<verse osisID="Dan.11.8" sID="Dan.11.8"/>And he will carry their gods with their molten images, all his precious vessels of silver and gold, with captives to Egypt; and he will stand above the king of the north<verse eID="Dan.11.8"/>
+<verse osisID="Dan.11.9" sID="Dan.11.9"/>who will come to the kingdom of the king of the south; and return again to his own land.<verse eID="Dan.11.9"/>
+<verse osisID="Dan.11.10" sID="Dan.11.10"/>But his sons will collect a multitude among many, and one will come with effect, and like a deluge, and will pass through and establish himself and the war will be carried even to his fortress.<verse eID="Dan.11.10"/>
+<verse osisID="Dan.11.11" sID="Dan.11.11"/>Then will the king of the south be furiously enraged, and he will come out and fight the king of the north, who will array a great multitude, but this multitude will be delivered into his hand.<verse eID="Dan.11.11"/>
+<verse osisID="Dan.11.12" sID="Dan.11.12"/>And when he shall take this multitude, his heart will be elated, and he will overthrow myriads, but will not prevail.<verse eID="Dan.11.12"/>
+<verse osisID="Dan.11.13" sID="Dan.11.13"/>For the king of the north will return, and bring a multitude greater than the former and at the end of times of years invade the frontiers with a great army, and with much wealth.<verse eID="Dan.11.13"/>
+<verse osisID="Dan.11.14" sID="Dan.11.14"/>And in those times many will rise up against the king of the south, and the sons of the pests of thy people will be stirred up to establish a phantom, but they will be weak.<verse eID="Dan.11.14"/>
+<verse osisID="Dan.11.15" sID="Dan.11.15"/>For a king of the north will come and cast up a mount and take strong cities. Though the arms of the king of the south will make a stand, and his chosen men will be raised up, yet there will not be power to withstand.<verse eID="Dan.11.15"/>
+<verse osisID="Dan.11.16" sID="Dan.11.16"/>So that he who cometh against him, will do according to his pleasure, and there is none able to stand before him. So he will stand in the land of Sabei, and it will be perfected by his hand.<verse eID="Dan.11.16"/>
+<verse osisID="Dan.11.17" sID="Dan.11.17"/>Then he will set his face to enter with the strength of his whole kingdom, and will settle all things equitably with him, and will give him a daughter of the women with a view to corrupt her, but she will not continue in his interest, nor be for him.<verse eID="Dan.11.17"/>
+<verse osisID="Dan.11.18" sID="Dan.11.18"/>Then he will turn his face to the islands, and take many, and cause chiefs to cease their reproaches: but his own reproach will be turned upon him.<verse eID="Dan.11.18"/>
+<verse osisID="Dan.11.19" sID="Dan.11.19"/>Then he will turn his face to the strength of his own land, and will be weak and fall, and will not be found.<verse eID="Dan.11.19"/>
+<verse osisID="Dan.11.20" sID="Dan.11.20"/>And from his root there will be set upon his throne a plant of royalty plundering, and taxing the glory of a kingdom. And in those days he also will be destroyed, but not with open violence nor in battle.<verse eID="Dan.11.20"/>
+<verse osisID="Dan.11.21" sID="Dan.11.21"/>And on his throne one will be settled, who was despised and on whom they did not confer the honour of a kingdom. But he will come to it peaceably and obtain the kingdom by obsequiousness.<verse eID="Dan.11.21"/>
+<verse osisID="Dan.11.22" sID="Dan.11.22"/>And the arms of the overwhelmer will be overwhelmed at his presence, and they with the ruler of the covenant will be destroyed.<verse eID="Dan.11.22"/>
+<verse osisID="Dan.11.23" sID="Dan.11.23"/>Because of the associations against him, he will practise guile and come up and overpower them with a small nation<verse eID="Dan.11.23"/>
+<verse osisID="Dan.11.24" sID="Dan.11.24"/>and come peaceably into rich provinces, and do what neither his fathers, nor his fathers' fathers ever did. Plunder and spoils and wealth he will
+scatter among them; and against Egypt he will forecast devices even for a time.<verse eID="Dan.11.24"/>
+<verse osisID="Dan.11.25" sID="Dan.11.25"/>And his power and his heart will be stirred up against a king of the
+south, with a great army; and the king of the south will join battle with an exceeding great and powerful army; but they will not stand; for they will form devices against him<verse eID="Dan.11.25"/>
+<verse osisID="Dan.11.26" sID="Dan.11.26"/>and devour his substance and crush him, and armies will be overwhelmed, and many wounded shall fall.<verse eID="Dan.11.26"/>
+<verse osisID="Dan.11.27" sID="Dan.11.27"/>Then both the kings with their hearts bent on mischief will speak lies at one table. But it will not prosper. Because an end is still put off for a time,<verse eID="Dan.11.27"/>
+<verse osisID="Dan.11.28" sID="Dan.11.28"/>therefore he will return to his own land with much wealth and his heart will be against the holy covenant, and he will act and return to his own land.<verse eID="Dan.11.28"/>
+<verse osisID="Dan.11.29" sID="Dan.11.29"/>At the time he will return and come to the south; but this last expedition will not be like the first:<verse eID="Dan.11.29"/>
+<verse osisID="Dan.11.30" sID="Dan.11.30"/>for the Kitians who set out at the same time will arrive, and he will be humbled. Then he will return and will be inflamed with wrath against the holy covenant. And he will act and return and keep up an intelligence with them who have forsaken the holy covenant.<verse eID="Dan.11.30"/>
+<verse osisID="Dan.11.31" sID="Dan.11.31"/>And seeds out of him will spring up, and the sanctuary of the dominion will be polluted; and the daily sacrifice will be removed; and there will be
+set up an abomination which hath caused desolation,<verse eID="Dan.11.31"/>
+<verse osisID="Dan.11.32" sID="Dan.11.32"/>which they who break covenant will bring in by flatteries. But the people who acknowledge their God will take courage and act.<verse eID="Dan.11.32"/>
+<verse osisID="Dan.11.33" sID="Dan.11.33"/>And the men of understanding among the people will keep up an intelligence for many purposes; but they will be weakened by sword and by fire, and by captivity, and by plundering, for days.<verse eID="Dan.11.33"/>
+<verse osisID="Dan.11.34" sID="Dan.11.34"/>And when they are weak, they will be helped with a little help. And many will join them by flatteries.<verse eID="Dan.11.34"/>
+<verse osisID="Dan.11.35" sID="Dan.11.35"/>Then some of the wise will be weak that they may be tried and chosen, and that at a time the end may be revealed. Because it is still for a time,<verse eID="Dan.11.35"/>
+<verse osisID="Dan.11.36" sID="Dan.11.36"/>therefore he will act according to his pleasure. And this king will be exalted and magnified above every god, and will speak swelling words, and prosper until the indignation is completed: for it is coming to a completion.<verse eID="Dan.11.36"/>
+<verse osisID="Dan.11.37" sID="Dan.11.37"/>Though with all the gods of his fathers, he will not keep up any intelligence, including even the desire of women—though he will not pay respect to any thing divine, because he will magnify himself above them all,<verse eID="Dan.11.37"/>
+<verse osisID="Dan.11.38" sID="Dan.11.38"/>yet in his place he will glorify god Maozim—even a god which his fathers knew not, he will glorify with gold and silver, and precious stones, and with desirable things,<verse eID="Dan.11.38"/>
+<verse osisID="Dan.11.39" sID="Dan.11.39"/>and act for the fortresses of them who have taken refuge with a strange God, and he will multiply glory and subject many to them and distribute lands for gifts.<verse eID="Dan.11.39"/>
+<verse osisID="Dan.11.40" sID="Dan.11.40"/>And at the end of a time there will be conflicts with the king of the
+south, and against him there will be brought a king of the north, with chariots and horsemen, and many ships, which shall invade the land, and he will break in pieces and pass through<verse eID="Dan.11.40"/>
+<verse osisID="Dan.11.41" sID="Dan.11.41"/>and come to the land of Sabaim, and many will be weak. But these will escape out of his hand, namely, Edom and Moab and the children of Ammon.<verse eID="Dan.11.41"/>
+<verse osisID="Dan.11.42" sID="Dan.11.42"/>And he will stretch forth his hand against this land, and the land of Egypt will be no security.<verse eID="Dan.11.42"/>
+<verse osisID="Dan.11.43" sID="Dan.11.43"/>And he will be master of the hidden stores of gold and silver, and of all the desirable things of Egypt, and of the Lybians and Ethiopians, in their
+strong holds.<verse eID="Dan.11.43"/>
+<verse osisID="Dan.11.44" sID="Dan.11.44"/>And when reports and disturbances shall trouble him from the east, and from the north, he will then come with great wrath to destroy many,<verse eID="Dan.11.44"/>
+<verse osisID="Dan.11.45" sID="Dan.11.45"/>and he will pitch his tent at Ephadanus between the seas on the holy mountain Sabaim. Then he will come to his portion, and there is none to deliver him.<verse eID="Dan.11.45"/></p><chapter eID="Dan.11"/>
+<chapter osisID="Dan.12" sID="Dan.12"/>
+<p>
+<verse osisID="Dan.12.1" sID="Dan.12.1"/>And at that time Michael the great chief, who hath been over the children of thy people will stand up, and there will be a time of tribulation—a tribulation such as hath not been since there was a nation on the earth even to this time. At that time all thy people who are enrolled in the book shall be
+saved.<verse eID="Dan.12.1"/>
+<verse osisID="Dan.12.2" sID="Dan.12.2"/>And many of them who sleep in mounds of earth shall be raised up, some for everlasting life and some for disgrace and everlasting shame.<verse eID="Dan.12.2"/>
+<verse osisID="Dan.12.3" sID="Dan.12.3"/>And they who are wise shall shine like the brightness of the firmament, and some of the many righteous like the stars for the ages and longer.<verse eID="Dan.12.3"/></p>
+<p>
+<verse osisID="Dan.12.4" sID="Dan.12.4"/>As for thee, Daniel, shut up these words and seal the book till the time of accomplishment; until many be taught and knowledge abound.<verse eID="Dan.12.4"/></p>
+<p>
+<verse osisID="Dan.12.5" sID="Dan.12.5"/>Then I Daniel looked, and lo! two others stood, one on this bank of the river and the other on the other bank of the river.<verse eID="Dan.12.5"/>
+<verse osisID="Dan.12.6" sID="Dan.12.6"/>And one said to the man clothed with the flowing robes who was over the water of the river, How long to the end of these wonderful things which thou hast spoken?<verse eID="Dan.12.6"/>
+<verse osisID="Dan.12.7" sID="Dan.12.7"/>And I heard the man clothed with the fine robes who was over the water of the river. He lifted up his right and his left hand to heaven and sware by him who liveth forever and ever that it will be until a time of times and the half of a time. When an end is put to the dispersion, they will know all these things.<verse eID="Dan.12.7"/>
+<verse osisID="Dan.12.8" sID="Dan.12.8"/>As for me though I heard I did not understand. So I said, Lord, What will be the issue of these things?<verse eID="Dan.12.8"/>
+<verse osisID="Dan.12.9" sID="Dan.12.9"/>And he said, Come Daniel. Because these words are shut up and sealed until the end of a time.<verse eID="Dan.12.9"/>
+<verse osisID="Dan.12.10" sID="Dan.12.10"/>Though many be chosen and made white and purified and sanctified, and transgressors transgress; yet no transgressor will understand but the prudent will understand.<verse eID="Dan.12.10"/>
+<verse osisID="Dan.12.11" sID="Dan.12.11"/>Now from the time of the change of the daily sacrifice, when the abomination of desolation shall be set up there will be a thousand two hundred and ninety days.<verse eID="Dan.12.11"/>
+<verse osisID="Dan.12.12" sID="Dan.12.12"/>Happy he who will wait and come to a thousand three hundred and thirty five days.<verse eID="Dan.12.12"/>
+<verse osisID="Dan.12.13" sID="Dan.12.13"/>But as for thee, come and go to rest, for still there will be days and hours to the final accomplishment. And thou shalt stand up for thy portion at the end of days.<verse eID="Dan.12.13"/></p><chapter eID="Dan.12"/>
+</div>
+</osisText>
+</osis>

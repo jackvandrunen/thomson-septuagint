@@ -67,6 +67,8 @@ def _format_text(parent, result, footnotes):
             result.append('&emsp;' * indent)
             _format_text(element, result, footnotes)
             result.append('  \n')
+        elif element.name == 'lb':
+            result.append('\n<br />\n')
         elif element.name == 'hi':
             if element.get('type') == 'emphasis':
                 result.append(' *')
@@ -75,6 +77,10 @@ def _format_text(parent, result, footnotes):
             else:
                 print(element)
         elif element.name in ('name', 'divineName'):
+            result.append(' *')
+            _format_text(element, result, footnotes)
+            result.append('* ')
+        elif element.name == 'foreign':
             result.append(' *')
             _format_text(element, result, footnotes)
             result.append('* ')
